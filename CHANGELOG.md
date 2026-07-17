@@ -2,6 +2,14 @@
 
 All notable changes to this project are documented in this file.
 
+## [1.0.1] - 2026-07-17
+
+### Changed
+
+- Added an offline GraphRAG retrieval smoke test to GitHub Actions.
+- Extended release validation to enforce safe LLM example configuration and critical Git ignore rules.
+- Added a contributor code of conduct and repository discovery topics.
+
 ## [1.0.0] - 2026-07-17
 
 ### Added

@@ -17,3 +17,7 @@ jobs:
           python -m py_compile extract_ncit_colorectal.py enrich_related_ncit_entities.py build_colorectal_kg.py kg_update_system/kg_incremental.py kg_update_system/kg_gui.py scripts/validate_release.py
       - name: Validate released graph files
         run: python scripts/validate_release.py
+      - name: Smoke test local graph question answering
+        run: |
+          python kg_update_system/kg_incremental.py ask --kg-dir colorectal_knowledge_graph --question "KRAS 和结直肠癌有什么关系？" > qa_smoke.json
+          python -c "import json; result=json.load(open('qa_smoke.json', encoding='utf-8')); assert result['answer_mode'] == 'graph'; assert result['context']['nodes']; assert result['answer']"

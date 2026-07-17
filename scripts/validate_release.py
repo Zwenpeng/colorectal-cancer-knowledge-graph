@@ -33,6 +33,8 @@ def main():
         GRAPH / "kg_summary.json",
         GRAPH / "kg_browser.html",
         GRAPH / "kg_tree.html",
+        ROOT / "kg_update_system" / "config.example.json",
+        ROOT / ".gitignore",
     ]
     missing = [str(path.relative_to(ROOT)) for path in required if not path.exists()]
     require(not missing, "Missing release files: " + ", ".join(missing))
@@ -54,6 +56,23 @@ def main():
         if row["source"] not in node_ids or row["target"] not in node_ids
     ]
     require(not invalid, "Graph edges reference missing nodes")
+
+    config = json.loads(
+        (ROOT / "kg_update_system" / "config.example.json").read_text(encoding="utf-8")
+    )
+    llm = config.get("llm", {})
+    require(
+        llm.get("api_key_env") == "KG_LLM_API_KEY",
+        "The LLM example must use the KG_LLM_API_KEY environment variable",
+    )
+    require("api_key" not in llm, "The LLM example must not contain a literal API key")
+
+    gitignore = (ROOT / ".gitignore").read_text(encoding="utf-8")
+    for protected_path in (
+        "kg_update_system/config.deepseek.json",
+        "kg_update_system/runs/",
+    ):
+        require(protected_path in gitignore, f"Missing protected path: {protected_path}")
 
     print(
         "Release validation passed: "

@@ -27,6 +27,7 @@ The repository also provides a local incremental workflow for extracting concept
 ├─ scripts/validate_release.py         # 发布数据完整性检查
 ├─ DATA_PROVENANCE.md                  # 数据来源、版本与边界
 ├─ CITATION.cff                        # 引用信息
+├─ CODE_OF_CONDUCT.md                  # 协作行为规范
 └─ SECURITY.md                         # 安全与密钥处理规则
 ```
 
@@ -109,6 +110,10 @@ The local AI configuration is intentionally excluded from Git. Do not commit API
 ## Citation
 
 If this repository supports your work, cite the software metadata in [CITATION.cff](CITATION.cff) and cite NCIt as the upstream terminology source. See [DATA_PROVENANCE.md](DATA_PROVENANCE.md) for the exact snapshot details.
+
+## Contributing
+
+Contribution conventions are described in [CONTRIBUTING.md](CONTRIBUTING.md). Please also follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) and avoid submitting patient-identifiable data, API keys, or unredacted clinical materials.
 
 ## Limitations
 

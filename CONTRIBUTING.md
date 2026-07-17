@@ -1,5 +1,7 @@
 # Contributing
 
+[中文版](CONTRIBUTING.zh-CN.md)
+
 Contributions should preserve NCIt identifiers, raw relation direction, source provenance, and the distinction between existing nodes and unreviewed candidate entities.
 
 Before proposing a change:

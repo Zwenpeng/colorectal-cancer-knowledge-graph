@@ -1,6 +1,15 @@
 # Changelog
 
+[中文版](CHANGELOG.zh-CN.md)
+
 All notable changes to this project are documented in this file.
+
+## [1.0.2] - 2026-07-17
+
+### Added
+
+- Chinese counterparts for contribution, data-provenance, security, conduct, and changelog documentation.
+- Cross-links between English and Chinese documentation from the main README.
 
 ## [1.0.1] - 2026-07-17
 

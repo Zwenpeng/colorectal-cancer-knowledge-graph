@@ -1,5 +1,7 @@
 # Data Provenance and Scope
 
+[中文版](DATA_PROVENANCE.zh-CN.md)
+
 ## Upstream source
 
 The graph is derived from the National Cancer Institute Thesaurus (NCIt) through the NCI EVSREST API:

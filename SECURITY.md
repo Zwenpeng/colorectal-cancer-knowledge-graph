@@ -1,5 +1,7 @@
 # Security Policy
 
+[中文版](SECURITY.zh-CN.md)
+
 ## Secrets
 
 Never commit API keys, provider configuration containing credentials, local browser histories, patient records, or unredacted clinical notes.

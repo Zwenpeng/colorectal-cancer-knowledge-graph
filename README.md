@@ -46,6 +46,20 @@ The repository also provides a local incremental workflow for extracting concept
 
 Detailed provenance and semantic boundaries are documented in [DATA_PROVENANCE.md](DATA_PROVENANCE.md).
 
+## Documentation Languages
+
+The main README is bilingual. Chinese counterparts are available for the operational documents below:
+
+| English | 中文版 |
+|---|---|
+| [Contributing](CONTRIBUTING.md) | [贡献指南](CONTRIBUTING.zh-CN.md) |
+| [Data Provenance and Scope](DATA_PROVENANCE.md) | [数据来源与范围](DATA_PROVENANCE.zh-CN.md) |
+| [Security Policy](SECURITY.md) | [安全策略](SECURITY.zh-CN.md) |
+| [Code of Conduct](CODE_OF_CONDUCT.md) | [协作行为规范](CODE_OF_CONDUCT.zh-CN.md) |
+| [Changelog](CHANGELOG.md) | [版本记录](CHANGELOG.zh-CN.md) |
+
+`LICENSE` and `CITATION.cff` retain their standard international formats. Their scope and use are explained in the Chinese sections of this README and the Chinese data-provenance document.
+
 ## Quick Start
 
 Core graph construction uses Python's standard library.

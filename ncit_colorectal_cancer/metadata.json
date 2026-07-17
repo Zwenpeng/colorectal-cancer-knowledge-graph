@@ -1,0 +1,22 @@
+{
+  "all_entity_count_tree_plus_related": 748,
+  "all_term_count_tree_plus_related": 5288,
+  "api_base_url": "https://api-evsrest.nci.nih.gov/api/v1",
+  "concept_tree_count_including_root": 285,
+  "descendant_count": 284,
+  "edge_count": 13277,
+  "generated_at_local": "2026-05-14 16:44:33",
+  "metadata_association_count": 46,
+  "metadata_role_count": 95,
+  "related_entity_count_outside_tree": 463,
+  "related_entity_enriched_at_local": "2026-05-14 16:47:59",
+  "related_entity_full_record_count": 463,
+  "related_term_count": 3596,
+  "root_code": "C2955",
+  "root_name": "Colorectal Carcinoma",
+  "root_query_term": "Colorectal Cancer",
+  "source": "NCI EVSRESTAPI",
+  "term_count": 1692,
+  "terminology": "ncit",
+  "version": "26.04d"
+}

@@ -1,0 +1,1693 @@
+﻿concept_code,concept_name,term,term_type,synonym_type,source,source_code,sub_source,is_preferred_candidate
+C213378,Adenocarcinoma in Colon Adenomatous Polyp,Adenocarcinoma in Colon Adenomatous Polyp,NAME,Concept_Name,NCIt,,,Y
+C213378,Adenocarcinoma in Colon Adenomatous Polyp,Adenocarcinoma in Colon Adenomatous Polyp,PT,FULL_SYN,NCI,,,Y
+C213378,Adenocarcinoma in Colon Adenomatous Polyp,Adenocarcinoma in Colon Adenomatous Polyp,,Preferred_Name,,,,Y
+C213378,Adenocarcinoma in Colon Adenomatous Polyp,Adenocarcinoma in Colonic Adenomatous Polyp,SY,FULL_SYN,NCI,,,N
+C213379,Adenocarcinoma in Rectal Adenomatous Polyp,Adenocarcinoma in Rectal Adenomatous Polyp,NAME,Concept_Name,NCIt,,,Y
+C213379,Adenocarcinoma in Rectal Adenomatous Polyp,Adenocarcinoma in Rectal Adenomatous Polyp,PT,FULL_SYN,NCI,,,Y
+C213379,Adenocarcinoma in Rectal Adenomatous Polyp,Adenocarcinoma in Rectal Adenomatous Polyp,,Preferred_Name,,,,Y
+C27413,Adenoma of the Colon with Intramucosal Adenocarcinoma,Adenoma of Colon with Intramucosal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C27413,Adenoma of the Colon with Intramucosal Adenocarcinoma,Adenoma of the Colon with Intramucosal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C27413,Adenoma of the Colon with Intramucosal Adenocarcinoma,Adenoma of the Colon with Intramucosal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C27413,Adenoma of the Colon with Intramucosal Adenocarcinoma,Adenoma of the Colon with Intramucosal Adenocarcinoma,,Preferred_Name,,,,Y
+C27413,Adenoma of the Colon with Intramucosal Adenocarcinoma,Colonic Adenoma with Intramucosal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C162152,Advanced Colon Adenocarcinoma,Advanced Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162152,Advanced Colon Adenocarcinoma,Advanced Colon Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C162152,Advanced Colon Adenocarcinoma,Advanced Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162152,Advanced Colon Adenocarcinoma,Advanced Colon Adenocarcinoma,,Display_Name,,,,Y
+C162152,Advanced Colon Adenocarcinoma,Advanced Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C167238,Advanced Colon Carcinoma,Advanced Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C167238,Advanced Colon Carcinoma,Advanced Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C167238,Advanced Colon Carcinoma,Advanced Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C167238,Advanced Colon Carcinoma,Advanced Colon Carcinoma,,Display_Name,,,,Y
+C167238,Advanced Colon Carcinoma,Advanced Colon Carcinoma,,Preferred_Name,,,,Y
+C166257,Advanced Colorectal Adenocarcinoma,Advanced Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C166257,Advanced Colorectal Adenocarcinoma,Advanced Colorectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C166257,Advanced Colorectal Adenocarcinoma,Advanced Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C166257,Advanced Colorectal Adenocarcinoma,Advanced Colorectal Adenocarcinoma,,Display_Name,,,,Y
+C166257,Advanced Colorectal Adenocarcinoma,Advanced Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C162475,Advanced Colorectal Carcinoma,Advanced Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C162475,Advanced Colorectal Carcinoma,Advanced Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C162475,Advanced Colorectal Carcinoma,Advanced Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C162475,Advanced Colorectal Carcinoma,Advanced Colorectal Carcinoma,,Display_Name,,,,Y
+C162475,Advanced Colorectal Carcinoma,Advanced Colorectal Carcinoma,,Preferred_Name,,,,Y
+C142868,Advanced Microsatellite Stable Colorectal Carcinoma,Advanced Microsatellite Stable Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C142868,Advanced Microsatellite Stable Colorectal Carcinoma,Advanced Microsatellite Stable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C142868,Advanced Microsatellite Stable Colorectal Carcinoma,Advanced Microsatellite Stable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C142868,Advanced Microsatellite Stable Colorectal Carcinoma,Advanced Microsatellite Stable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C175363,Advanced Rectal Adenocarcinoma,Advanced Rectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C175363,Advanced Rectal Adenocarcinoma,Advanced Rectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C175363,Advanced Rectal Adenocarcinoma,Advanced Rectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C175363,Advanced Rectal Adenocarcinoma,Advanced Rectal Adenocarcinoma,,Display_Name,,,,Y
+C175363,Advanced Rectal Adenocarcinoma,Advanced Rectal Adenocarcinoma,,Preferred_Name,,,,Y
+C170777,Advanced Rectal Carcinoma,Advanced Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C170777,Advanced Rectal Carcinoma,Advanced Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C170777,Advanced Rectal Carcinoma,Advanced Rectal Carcinoma,,Preferred_Name,,,,Y
+C170780,Advanced Rectal Squamous Cell Carcinoma,Advanced Rectal Squamous Cell Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C170780,Advanced Rectal Squamous Cell Carcinoma,Advanced Rectal Squamous Cell Carcinoma,DN,FULL_SYN,CTRP,,,N
+C170780,Advanced Rectal Squamous Cell Carcinoma,Advanced Rectal Squamous Cell Carcinoma,PT,FULL_SYN,NCI,,,Y
+C170780,Advanced Rectal Squamous Cell Carcinoma,Advanced Rectal Squamous Cell Carcinoma,,Display_Name,,,,Y
+C170780,Advanced Rectal Squamous Cell Carcinoma,Advanced Rectal Squamous Cell Carcinoma,,Preferred_Name,,,,Y
+C5543,Cecum Adenocarcinoma,Adenocarcinoma of Cecum,SY,FULL_SYN,NCI,,,N
+C5543,Cecum Adenocarcinoma,Adenocarcinoma of the Cecum,SY,FULL_SYN,NCI,,,N
+C5543,Cecum Adenocarcinoma,Cecal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C5543,Cecum Adenocarcinoma,Cecum Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C5543,Cecum Adenocarcinoma,Cecum Adenocarcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C5543,Cecum Adenocarcinoma,Cecum Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C5543,Cecum Adenocarcinoma,Cecum Adenocarcinoma,,Preferred_Name,,,,Y
+C3491,Cecum Carcinoma,Carcinoma of Cecum,SY,FULL_SYN,NCI,,,N
+C3491,Cecum Carcinoma,Carcinoma of the Cecum,SY,FULL_SYN,NCI,,,N
+C3491,Cecum Carcinoma,Cecal Cancer,SY,FULL_SYN,NCI,,,N
+C3491,Cecum Carcinoma,Cecal Carcinoma,SY,FULL_SYN,NCI,,,N
+C3491,Cecum Carcinoma,Cecum Cancer,DN,FULL_SYN,CTRP,,,N
+C3491,Cecum Carcinoma,Cecum Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C3491,Cecum Carcinoma,Cecum Carcinoma,PT,FULL_SYN,NCI,,,Y
+C3491,Cecum Carcinoma,Cecum Carcinoma,,Display_Name,,,,Y
+C3491,Cecum Carcinoma,Cecum Carcinoma,,Preferred_Name,,,,Y
+C4594,Cecum Carcinoma In Situ,Carcinoma In Situ of Cecum,SY,FULL_SYN,NCI,,,N
+C4594,Cecum Carcinoma In Situ,Carcinoma In Situ of the Cecum,SY,FULL_SYN,NCI,,,N
+C4594,Cecum Carcinoma In Situ,Cecum Carcinoma In Situ,NAME,Concept_Name,NCIt,,,Y
+C4594,Cecum Carcinoma In Situ,Cecum Carcinoma In Situ,PT,FULL_SYN,NCI,,,Y
+C4594,Cecum Carcinoma In Situ,Cecum Carcinoma In Situ,,Preferred_Name,,,,Y
+C118808,Childhood Colorectal Carcinoma,Childhood Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C118808,Childhood Colorectal Carcinoma,Childhood Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C118808,Childhood Colorectal Carcinoma,Childhood Colorectal Carcinoma,PT,FULL_SYN,NICHD,,,Y
+C118808,Childhood Colorectal Carcinoma,Childhood Colorectal Carcinoma,,Display_Name,,,,Y
+C118808,Childhood Colorectal Carcinoma,Childhood Colorectal Carcinoma,,Preferred_Name,,,,Y
+C118808,Childhood Colorectal Carcinoma,Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C118823,Childhood Rectal Carcinoma,Childhood Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C118823,Childhood Rectal Carcinoma,Childhood Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C118823,Childhood Rectal Carcinoma,Childhood Rectal Carcinoma,,Display_Name,,,,Y
+C118823,Childhood Rectal Carcinoma,Childhood Rectal Carcinoma,,Preferred_Name,,,,Y
+C118823,Childhood Rectal Carcinoma,Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C4349,Colon Adenocarcinoma,Adenocarcinoma - colon,SY,FULL_SYN,CTEP,10009951,SDC,N
+C4349,Colon Adenocarcinoma,Adenocarcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C4349,Colon Adenocarcinoma,Adenocarcinoma of the colon,PT,FULL_SYN,CTEP,10009951,SDC,Y
+C4349,Colon Adenocarcinoma,Adenocarcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C4349,Colon Adenocarcinoma,Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C4349,Colon Adenocarcinoma,Colon Adenocarcinoma,SY,FULL_SYN,caDSR,,,N
+C4349,Colon Adenocarcinoma,Colon Adenocarcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C4349,Colon Adenocarcinoma,Colon Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C4349,Colon Adenocarcinoma,Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C4349,Colon Adenocarcinoma,Colon Adenocarcinoma,,Display_Name,,,,Y
+C4349,Colon Adenocarcinoma,Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C4349,Colon Adenocarcinoma,Colonic Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C5491,Colon Adenosquamous Carcinoma,Adenosquamous Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C5491,Colon Adenosquamous Carcinoma,Adenosquamous Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C5491,Colon Adenosquamous Carcinoma,Adenosquamous Colon Carcinoma,SY,FULL_SYN,NCI,,,N
+C5491,Colon Adenosquamous Carcinoma,Colon Adenosquamous Cancer,DN,FULL_SYN,CTRP,,,N
+C5491,Colon Adenosquamous Carcinoma,Colon Adenosquamous Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C5491,Colon Adenosquamous Carcinoma,Colon Adenosquamous Carcinoma,PT,FULL_SYN,NCI,,,Y
+C5491,Colon Adenosquamous Carcinoma,Colon Adenosquamous Carcinoma,,Display_Name,,,,Y
+C5491,Colon Adenosquamous Carcinoma,Colon Adenosquamous Carcinoma,,Preferred_Name,,,,Y
+C5491,Colon Adenosquamous Carcinoma,Colonic Adenosquamous Carcinoma,SY,FULL_SYN,NCI,,,N
+C90507,Colon Cancer by AJCC v6 Stage,Colon Cancer by AJCC v6 Stage,NAME,Concept_Name,NCIt,,,Y
+C90507,Colon Cancer by AJCC v6 Stage,Colon Cancer by AJCC v6 Stage,HD,FULL_SYN,NCI,,,N
+C90507,Colon Cancer by AJCC v6 Stage,Colon Cancer by AJCC v6 Stage,,Preferred_Name,,,,Y
+C90507,Colon Cancer by AJCC v6 Stage,Colon Carcinoma by AJCC v6 Stage,SY,FULL_SYN,NCI,,,N
+C91224,Colon Cancer by AJCC v7 Stage,Colon Cancer by AJCC v7 Stage,NAME,Concept_Name,NCIt,,,Y
+C91224,Colon Cancer by AJCC v7 Stage,Colon Cancer by AJCC v7 Stage,HD,FULL_SYN,NCI,,,N
+C91224,Colon Cancer by AJCC v7 Stage,Colon Cancer by AJCC v7 Stage,,Preferred_Name,,,,Y
+C91224,Colon Cancer by AJCC v7 Stage,Colon Carcinoma by AJCC v7 Stage,SY,FULL_SYN,NCI,,,N
+C134251,Colon Cancer by AJCC v8 Stage,Colon Cancer by AJCC v8 Stage,NAME,Concept_Name,NCIt,,,Y
+C134251,Colon Cancer by AJCC v8 Stage,Colon Cancer by AJCC v8 Stage,HD,FULL_SYN,NCI,,,N
+C134251,Colon Cancer by AJCC v8 Stage,Colon Cancer by AJCC v8 Stage,,Preferred_Name,,,,Y
+C134251,Colon Cancer by AJCC v8 Stage,Colon Carcinoma by AJCC v8 Stage,SY,FULL_SYN,NCI,,,N
+C4910,Colon Carcinoma,Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C4910,Colon Carcinoma,Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C4910,Colon Carcinoma,Colon Cancer,SY,FULL_SYN,CPTAC,,,N
+C4910,Colon Carcinoma,Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C4910,Colon Carcinoma,Colon Cancer,PT,FULL_SYN,CTRP,,,Y
+C4910,Colon Carcinoma,colon cancer,PT,FULL_SYN,NCI-GLOSS,CDR0000044237,,Y
+C4910,Colon Carcinoma,Colon Cancer,SY,FULL_SYN,NCI,,,N
+C4910,Colon Carcinoma,Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C4910,Colon Carcinoma,Colon Carcinoma,SY,FULL_SYN,caDSR,,,N
+C4910,Colon Carcinoma,Colon Carcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C4910,Colon Carcinoma,Colon Carcinoma,PT,FULL_SYN,CPTAC,,,Y
+C4910,Colon Carcinoma,Colon Carcinoma,SY,FULL_SYN,CTRP,,,N
+C4910,Colon Carcinoma,Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C4910,Colon Carcinoma,Colon Carcinoma,,Display_Name,,,,Y
+C4910,Colon Carcinoma,Colon Carcinoma,,Preferred_Name,,,,Y
+C4910,Colon Carcinoma,Colonic Carcinoma,SY,FULL_SYN,NCI,,,N
+C226294,Colon Carcinoma In Situ,Carcinoma in situ of colon,PT,FULL_SYN,mCode,D01.0,ICD-10 CM,Y
+C226294,Colon Carcinoma In Situ,Colon Carcinoma In Situ,NAME,Concept_Name,NCIt,,,Y
+C226294,Colon Carcinoma In Situ,Colon Carcinoma In Situ,PT,FULL_SYN,NCI,,,Y
+C226294,Colon Carcinoma In Situ,Colon Carcinoma In Situ,,Preferred_Name,,,,Y
+C36309,Colon Carcinoma Metastatic in the Liver,Colon Carcinoma Metastatic in the Liver,NAME,Concept_Name,NCIt,,,Y
+C36309,Colon Carcinoma Metastatic in the Liver,Colon Carcinoma Metastatic in the Liver,PT,FULL_SYN,NCI,,,Y
+C36309,Colon Carcinoma Metastatic in the Liver,Colon Carcinoma Metastatic in the Liver,,Preferred_Name,,,,Y
+C36309,Colon Carcinoma Metastatic in the Liver,Colon Carcinoma Metastatic to the Liver,SY,FULL_SYN,NCI,,,N
+C89815,Colon Carcinoma Metastatic in the Lung,Colon Carcinoma Metastatic in the Lung,NAME,Concept_Name,NCIt,,,Y
+C89815,Colon Carcinoma Metastatic in the Lung,Colon Carcinoma Metastatic in the Lung,PT,FULL_SYN,NCI,,,Y
+C89815,Colon Carcinoma Metastatic in the Lung,Colon Carcinoma Metastatic in the Lung,,Preferred_Name,,,,Y
+C89815,Colon Carcinoma Metastatic in the Lung,Colon Carcinoma Metastatic to the Lung,SY,FULL_SYN,NCI,,,N
+C96489,Colon Cribriform Comedo-Type Adenocarcinoma,Colon Cribriform Comedo-Type Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96489,Colon Cribriform Comedo-Type Adenocarcinoma,Colon Cribriform Comedo-Type Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96489,Colon Cribriform Comedo-Type Adenocarcinoma,Colon Cribriform Comedo-Type Adenocarcinoma,,Preferred_Name,,,,Y
+C213480,Colon Hepatoid Adenocarcinoma,Colon Hepatoid Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C213480,Colon Hepatoid Adenocarcinoma,Colon Hepatoid Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C213480,Colon Hepatoid Adenocarcinoma,Colon Hepatoid Adenocarcinoma,,Preferred_Name,,,,Y
+C45429,Colon Intramucosal Adenocarcinoma,Colon Intramucosal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C45429,Colon Intramucosal Adenocarcinoma,Colon Intramucosal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C45429,Colon Intramucosal Adenocarcinoma,Colon Intramucosal Adenocarcinoma,,Preferred_Name,,,,Y
+C45429,Colon Intramucosal Adenocarcinoma,Colon Intramucosal Neoplasia,SY,FULL_SYN,NCI,,,N
+C170977,Colon Large Cell Neuroendocrine Carcinoma,Colon Large Cell Neuroendocrine Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C170977,Colon Large Cell Neuroendocrine Carcinoma,Colon Large Cell Neuroendocrine Carcinoma,PT,FULL_SYN,NCI,,,Y
+C170977,Colon Large Cell Neuroendocrine Carcinoma,Colon Large Cell Neuroendocrine Carcinoma,,Preferred_Name,,,,Y
+C60641,Colon Medullary Carcinoma,Colon Medullary Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C60641,Colon Medullary Carcinoma,Colon Medullary Carcinoma,PT,FULL_SYN,NCI,,,Y
+C60641,Colon Medullary Carcinoma,Colon Medullary Carcinoma,,Preferred_Name,,,,Y
+C96492,Colon Micropapillary Adenocarcinoma,Colon Micropapillary Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96492,Colon Micropapillary Adenocarcinoma,Colon Micropapillary Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96492,Colon Micropapillary Adenocarcinoma,Colon Micropapillary Adenocarcinoma,,Preferred_Name,,,,Y
+C9453,Colon Moderately Differentiated Adenocarcinoma,Colon Moderately Differentiated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9453,Colon Moderately Differentiated Adenocarcinoma,Colon Moderately Differentiated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9453,Colon Moderately Differentiated Adenocarcinoma,Colon Moderately Differentiated Adenocarcinoma,,Preferred_Name,,,,Y
+C9453,Colon Moderately Differentiated Adenocarcinoma,Grade 2 Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9453,Colon Moderately Differentiated Adenocarcinoma,Grade II Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9453,Colon Moderately Differentiated Adenocarcinoma,Moderately Differentiated Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colloid Adenocarcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colloid Adenocarcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colloid Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colloidal Adenocarcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colloidal Adenocarcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colloidal Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colon Colloid Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colon Colloidal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colon Mucinous Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C7966,Colon Mucinous Adenocarcinoma,Colon Mucinous Adenocarcinoma,SY,FULL_SYN,caDSR,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colon Mucinous Adenocarcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C7966,Colon Mucinous Adenocarcinoma,Colon Mucinous Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colon Mucinous Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C7966,Colon Mucinous Adenocarcinoma,Colon Mucinous Adenocarcinoma,,Display_Name,,,,Y
+C7966,Colon Mucinous Adenocarcinoma,Colon Mucinous Adenocarcinoma,,Preferred_Name,,,,Y
+C7966,Colon Mucinous Adenocarcinoma,Colonic Colloid Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colonic Colloidal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Colonic Mucinous Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Mucinous Adenocarcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Mucinous Adenocarcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C7966,Colon Mucinous Adenocarcinoma,Mucinous Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C203384,Colon Neuroendocrine Carcinoma,Colon NEC,SY,FULL_SYN,NCI,,,N
+C203384,Colon Neuroendocrine Carcinoma,Colon Neuroendocrine Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C203384,Colon Neuroendocrine Carcinoma,Colon Neuroendocrine Carcinoma,PT,FULL_SYN,NCI,,,Y
+C203384,Colon Neuroendocrine Carcinoma,Colon Neuroendocrine Carcinoma,,Preferred_Name,,,,Y
+C9454,Colon Poorly Differentiated Adenocarcinoma,Colon Poorly Differentiated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9454,Colon Poorly Differentiated Adenocarcinoma,Colon Poorly Differentiated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9454,Colon Poorly Differentiated Adenocarcinoma,Colon Poorly Differentiated Adenocarcinoma,,Preferred_Name,,,,Y
+C9454,Colon Poorly Differentiated Adenocarcinoma,Grade 3 Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9454,Colon Poorly Differentiated Adenocarcinoma,Grade III Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9454,Colon Poorly Differentiated Adenocarcinoma,Poorly Differentiated Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C96486,Colon Serrated Adenocarcinoma,Colon Serrated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96486,Colon Serrated Adenocarcinoma,Colon Serrated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96486,Colon Serrated Adenocarcinoma,Colon Serrated Adenocarcinoma,,Preferred_Name,,,,Y
+C7967,Colon Signet Ring Cell Adenocarcinoma,Colon Signet Ring Cell Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C7967,Colon Signet Ring Cell Adenocarcinoma,Colon Signet Ring Cell Adenocarcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C7967,Colon Signet Ring Cell Adenocarcinoma,Colon Signet Ring Cell Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C7967,Colon Signet Ring Cell Adenocarcinoma,Colon Signet Ring Cell Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C7967,Colon Signet Ring Cell Adenocarcinoma,Colon Signet Ring Cell Adenocarcinoma,,Display_Name,,,,Y
+C7967,Colon Signet Ring Cell Adenocarcinoma,Colon Signet Ring Cell Adenocarcinoma,,Preferred_Name,,,,Y
+C7967,Colon Signet Ring Cell Adenocarcinoma,Colon Signet-Ring Cell Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7967,Colon Signet Ring Cell Adenocarcinoma,Colonic Signet Ring Cell Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7967,Colon Signet Ring Cell Adenocarcinoma,Signet Ring Cell Adenocarcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C7967,Colon Signet Ring Cell Adenocarcinoma,Signet Ring Cell Adenocarcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C7967,Colon Signet Ring Cell Adenocarcinoma,Signet Ring Cell Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Colon Oat Cell Carcinoma,AQS,FULL_SYN,NCI,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Colon Small Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Colon Small Cell Neuroendocrine Cancer,DN,FULL_SYN,CTRP,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Colon Small Cell Neuroendocrine Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Colon Small Cell Neuroendocrine Carcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Colon Small Cell Neuroendocrine Carcinoma,PT,FULL_SYN,NCI,,,Y
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Colon Small Cell Neuroendocrine Carcinoma,,Display_Name,,,,Y
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Colon Small Cell Neuroendocrine Carcinoma,,Preferred_Name,,,,Y
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Colonic Oat Cell Carcinoma,AQS,FULL_SYN,NCI,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Colonic Small Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Oat Cell Carcinoma of Colon,AQS,FULL_SYN,NCI,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Oat Cell Carcinoma of the Colon,AQS,FULL_SYN,NCI,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Oat Cell Colon Carcinoma,AQS,FULL_SYN,NCI,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Small Cell Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Small Cell Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Small Cell Colon Carcinoma,SY,FULL_SYN,NCI,,,N
+C5490,Colon Squamous Cell Carcinoma,Colon Epidermoid Carcinoma,SY,FULL_SYN,NCI,,,N
+C5490,Colon Squamous Cell Carcinoma,Colon Squamous Cell Cancer,DN,FULL_SYN,CTRP,,,N
+C5490,Colon Squamous Cell Carcinoma,Colon Squamous Cell Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C5490,Colon Squamous Cell Carcinoma,Colon Squamous Cell Carcinoma,PT,FULL_SYN,NCI,,,Y
+C5490,Colon Squamous Cell Carcinoma,Colon Squamous Cell Carcinoma,,Display_Name,,,,Y
+C5490,Colon Squamous Cell Carcinoma,Colon Squamous Cell Carcinoma,,Preferred_Name,,,,Y
+C5490,Colon Squamous Cell Carcinoma,Colonic Epidermoid Carcinoma,SY,FULL_SYN,NCI,,,N
+C5490,Colon Squamous Cell Carcinoma,Colonic Squamous Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C5490,Colon Squamous Cell Carcinoma,Epidermoid Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C5490,Colon Squamous Cell Carcinoma,Epidermoid Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C5490,Colon Squamous Cell Carcinoma,Squamous Cell Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C5490,Colon Squamous Cell Carcinoma,Squamous Cell Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C5490,Colon Squamous Cell Carcinoma,Squamous Cell Colon Carcinoma,SY,FULL_SYN,NCI,,,N
+C7100,Colon Undifferentiated Carcinoma,Carcinoma Simplex of the Colon.,SY,FULL_SYN,NCI,,,N
+C7100,Colon Undifferentiated Carcinoma,Colon Anaplastic Carcinoma,SY,FULL_SYN,NCI,,,N
+C7100,Colon Undifferentiated Carcinoma,Colon Undifferentiated Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C7100,Colon Undifferentiated Carcinoma,Colon Undifferentiated Carcinoma,PT,FULL_SYN,NCI,,,Y
+C7100,Colon Undifferentiated Carcinoma,Colon Undifferentiated Carcinoma,,Display_Name,,,,Y
+C7100,Colon Undifferentiated Carcinoma,Colon Undifferentiated Carcinoma,,Preferred_Name,,,,Y
+C7100,Colon Undifferentiated Carcinoma,Undifferentiated Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C7100,Colon Undifferentiated Carcinoma,Undifferentiated Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C7100,Colon Undifferentiated Carcinoma,Undifferentiated Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C7100,Colon Undifferentiated Carcinoma,Undifferentiated Colonic Carcinoma,SY,FULL_SYN,NCI,,,N
+C9452,Colon Well Differentiated Adenocarcinoma,Colon Well Differentiated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9452,Colon Well Differentiated Adenocarcinoma,Colon Well Differentiated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9452,Colon Well Differentiated Adenocarcinoma,Colon Well Differentiated Adenocarcinoma,,Preferred_Name,,,,Y
+C9452,Colon Well Differentiated Adenocarcinoma,Grade 1 Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9452,Colon Well Differentiated Adenocarcinoma,Grade I Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9452,Colon Well Differentiated Adenocarcinoma,Well Differentiated Colon Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C5105,Colorectal Adenocarcinoma,Colorectal (Colon or Rectal) Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C5105,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C5105,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C5105,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C5105,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,,Display_Name,,,,Y
+C5105,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C157355,Colorectal Adenocarcinoma Metastatic in the Liver,Colorectal Adenocarcinoma Metastatic in the Liver,NAME,Concept_Name,NCIt,,,Y
+C157355,Colorectal Adenocarcinoma Metastatic in the Liver,Colorectal Adenocarcinoma Metastatic in the Liver,DN,FULL_SYN,CTRP,,,N
+C157355,Colorectal Adenocarcinoma Metastatic in the Liver,Colorectal Adenocarcinoma Metastatic in the Liver,PT,FULL_SYN,NCI,,,Y
+C157355,Colorectal Adenocarcinoma Metastatic in the Liver,Colorectal Adenocarcinoma Metastatic in the Liver,,Display_Name,,,,Y
+C157355,Colorectal Adenocarcinoma Metastatic in the Liver,Colorectal Adenocarcinoma Metastatic in the Liver,,Preferred_Name,,,,Y
+C172699,Colorectal Adenoma-Like Adenocarcinoma,Colorectal Adenoma-Like Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C172699,Colorectal Adenoma-Like Adenocarcinoma,Colorectal Adenoma-Like Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C172699,Colorectal Adenoma-Like Adenocarcinoma,Colorectal Adenoma-Like Adenocarcinoma,,Preferred_Name,,,,Y
+C172699,Colorectal Adenoma-Like Adenocarcinoma,Colorectal Villous Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C43589,Colorectal Adenosquamous Carcinoma,Colorectal (Colon or Rectal) Adenosquamous Cancer,DN,FULL_SYN,CTRP,,,N
+C43589,Colorectal Adenosquamous Carcinoma,Colorectal Adenosquamous Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C43589,Colorectal Adenosquamous Carcinoma,Colorectal Adenosquamous Carcinoma,PT,FULL_SYN,NCI,,,Y
+C43589,Colorectal Adenosquamous Carcinoma,Colorectal Adenosquamous Carcinoma,,Display_Name,,,,Y
+C43589,Colorectal Adenosquamous Carcinoma,Colorectal Adenosquamous Carcinoma,,Preferred_Name,,,,Y
+C90506,Colorectal Cancer by AJCC v6 Stage,Colorectal Cancer by AJCC v6 Stage,NAME,Concept_Name,NCIt,,,Y
+C90506,Colorectal Cancer by AJCC v6 Stage,Colorectal Cancer by AJCC v6 Stage,HD,FULL_SYN,NCI,,,N
+C90506,Colorectal Cancer by AJCC v6 Stage,Colorectal Cancer by AJCC v6 Stage,,Preferred_Name,,,,Y
+C90506,Colorectal Cancer by AJCC v6 Stage,Colorectal Carcinoma by AJCC v6 Stage,SY,FULL_SYN,NCI,,,N
+C91223,Colorectal Cancer by AJCC v7 Stage,Colorectal Cancer by AJCC v7 Stage,NAME,Concept_Name,NCIt,,,Y
+C91223,Colorectal Cancer by AJCC v7 Stage,Colorectal Cancer by AJCC v7 Stage,HD,FULL_SYN,NCI,,,N
+C91223,Colorectal Cancer by AJCC v7 Stage,Colorectal Cancer by AJCC v7 Stage,,Preferred_Name,,,,Y
+C91223,Colorectal Cancer by AJCC v7 Stage,Colorectal Carcinoma by AJCC v7 Stage,SY,FULL_SYN,NCI,,,N
+C134180,Colorectal Cancer by AJCC v8 Stage,Colorectal Cancer by AJCC v8 Stage,NAME,Concept_Name,NCIt,,,Y
+C134180,Colorectal Cancer by AJCC v8 Stage,Colorectal Cancer by AJCC v8 Stage,HD,FULL_SYN,NCI,,,N
+C134180,Colorectal Cancer by AJCC v8 Stage,Colorectal Cancer by AJCC v8 Stage,,Preferred_Name,,,,Y
+C134180,Colorectal Cancer by AJCC v8 Stage,Colorectal Carcinoma by AJCC v8 Stage,SY,FULL_SYN,NCI,,,N
+C2955,Colorectal Carcinoma,Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C2955,Colorectal Carcinoma,Colorectal Cancer,PT,FULL_SYN,CTRP,,,Y
+C2955,Colorectal Carcinoma,Colorectal Cancer,PT,FULL_SYN,GDC,,,Y
+C2955,Colorectal Carcinoma,colorectal cancer,PT,FULL_SYN,NCI-GLOSS,CDR0000444983,,Y
+C2955,Colorectal Carcinoma,Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C2955,Colorectal Carcinoma,"Colorectal cancer, NOS",PT,FULL_SYN,CTEP,10010029,SDC,Y
+C2955,Colorectal Carcinoma,Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C2955,Colorectal Carcinoma,Colorectal Carcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C2955,Colorectal Carcinoma,Colorectal Carcinoma,PT,FULL_SYN,CPTAC,,,Y
+C2955,Colorectal Carcinoma,Colorectal Carcinoma,SY,FULL_SYN,CTRP,,,N
+C2955,Colorectal Carcinoma,Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C2955,Colorectal Carcinoma,Colorectal Carcinoma,,Display_Name,,,,Y
+C2955,Colorectal Carcinoma,Colorectal Carcinoma,,Preferred_Name,,,,Y
+C2955,Colorectal Carcinoma,CRC,AB,FULL_SYN,NCI,,,N
+C226293,Colorectal Carcinoma In Situ,Colorectal Carcinoma In Situ,NAME,Concept_Name,NCIt,,,Y
+C226293,Colorectal Carcinoma In Situ,Colorectal Carcinoma In Situ,PT,FULL_SYN,NCI,,,Y
+C226293,Colorectal Carcinoma In Situ,Colorectal Carcinoma In Situ,,Preferred_Name,,,,Y
+C157366,Colorectal Carcinoma Metastatic in the Liver,Colorectal Carcinoma Metastatic in the Liver,NAME,Concept_Name,NCIt,,,Y
+C157366,Colorectal Carcinoma Metastatic in the Liver,Colorectal Carcinoma Metastatic in the Liver,DN,FULL_SYN,CTRP,,,N
+C157366,Colorectal Carcinoma Metastatic in the Liver,Colorectal Carcinoma Metastatic in the Liver,PT,FULL_SYN,NCI,,,Y
+C157366,Colorectal Carcinoma Metastatic in the Liver,Colorectal Carcinoma Metastatic in the Liver,,Display_Name,,,,Y
+C157366,Colorectal Carcinoma Metastatic in the Liver,Colorectal Carcinoma Metastatic in the Liver,,Preferred_Name,,,,Y
+C153224,Colorectal Carcinoma Metastatic in the Lung,Colorectal Carcinoma Metastatic in the Lung,NAME,Concept_Name,NCIt,,,Y
+C153224,Colorectal Carcinoma Metastatic in the Lung,Colorectal Carcinoma Metastatic in the Lung,PT,FULL_SYN,NCI,,,Y
+C153224,Colorectal Carcinoma Metastatic in the Lung,Colorectal Carcinoma Metastatic in the Lung,,Display_Name,,,,Y
+C153224,Colorectal Carcinoma Metastatic in the Lung,Colorectal Carcinoma Metastatic in the Lung,,Preferred_Name,,,,Y
+C153224,Colorectal Carcinoma Metastatic in the Lung,Metastatic Colorectal Cancer in the Lung,DN,FULL_SYN,CTRP,,,N
+C96488,Colorectal Cribriform Comedo-Type Adenocarcinoma,Colorectal Cribriform Comedo-Type Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96488,Colorectal Cribriform Comedo-Type Adenocarcinoma,Colorectal Cribriform Comedo-Type Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96488,Colorectal Cribriform Comedo-Type Adenocarcinoma,Colorectal Cribriform Comedo-Type Adenocarcinoma,,Preferred_Name,,,,Y
+C213111,Colorectal Goblet Cell Adenocarcinoma,Colorectal GCA,SY,FULL_SYN,NCI,,,N
+C213111,Colorectal Goblet Cell Adenocarcinoma,Colorectal Goblet Cell Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C213111,Colorectal Goblet Cell Adenocarcinoma,Colorectal Goblet Cell Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C213111,Colorectal Goblet Cell Adenocarcinoma,Colorectal Goblet Cell Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C213111,Colorectal Goblet Cell Adenocarcinoma,Colorectal Goblet Cell Adenocarcinoma,,Display_Name,,,,Y
+C213111,Colorectal Goblet Cell Adenocarcinoma,Colorectal Goblet Cell Adenocarcinoma,,Preferred_Name,,,,Y
+C213111,Colorectal Goblet Cell Adenocarcinoma,Colorectal Goblet Cell Carcinoid,AQS,FULL_SYN,NCI,,,N
+C213479,Colorectal Hepatoid Adenocarcinoma,Colorectal Hepatoid Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C213479,Colorectal Hepatoid Adenocarcinoma,Colorectal Hepatoid Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C213479,Colorectal Hepatoid Adenocarcinoma,Colorectal Hepatoid Adenocarcinoma,,Preferred_Name,,,,Y
+C96157,Colorectal Large Cell Neuroendocrine Carcinoma,Colorectal Large Cell Neuroendocrine Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C96157,Colorectal Large Cell Neuroendocrine Carcinoma,Colorectal Large Cell Neuroendocrine Carcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C96157,Colorectal Large Cell Neuroendocrine Carcinoma,Colorectal Large Cell Neuroendocrine Carcinoma,PT,FULL_SYN,NCI,,,Y
+C96157,Colorectal Large Cell Neuroendocrine Carcinoma,Colorectal Large Cell Neuroendocrine Carcinoma,,Preferred_Name,,,,Y
+C226754,Colorectal Low Grade Tubuloglandular Adenocarcinoma,Colorectal LGTGA,SY,FULL_SYN,NCI,,,N
+C226754,Colorectal Low Grade Tubuloglandular Adenocarcinoma,Colorectal Low Grade Tubuloglandular Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C226754,Colorectal Low Grade Tubuloglandular Adenocarcinoma,Colorectal Low Grade Tubuloglandular Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C226754,Colorectal Low Grade Tubuloglandular Adenocarcinoma,Colorectal Low Grade Tubuloglandular Adenocarcinoma,,Preferred_Name,,,,Y
+C226754,Colorectal Low Grade Tubuloglandular Adenocarcinoma,Colorectal Low-Grade Tubuloglandular Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C43590,Colorectal Medullary Carcinoma,Colorectal Medullary Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C43590,Colorectal Medullary Carcinoma,Colorectal Medullary Carcinoma,PT,FULL_SYN,NCI,,,Y
+C43590,Colorectal Medullary Carcinoma,Colorectal Medullary Carcinoma,,Preferred_Name,,,,Y
+C96491,Colorectal Micropapillary Adenocarcinoma,Colorectal Micropapillary Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96491,Colorectal Micropapillary Adenocarcinoma,Colorectal Micropapillary Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96491,Colorectal Micropapillary Adenocarcinoma,Colorectal Micropapillary Adenocarcinoma,,Preferred_Name,,,,Y
+C96158,Colorectal Mixed Adenoneuroendocrine Carcinoma,Colorectal (Colon or Rectal) Mixed Adenoneuroendocrine Cancer,DN,FULL_SYN,CTRP,,,N
+C96158,Colorectal Mixed Adenoneuroendocrine Carcinoma,Colorectal MANEC,SY,FULL_SYN,NCI,,,N
+C96158,Colorectal Mixed Adenoneuroendocrine Carcinoma,Colorectal Mixed Adenoneuroendocrine Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C96158,Colorectal Mixed Adenoneuroendocrine Carcinoma,Colorectal Mixed Adenoneuroendocrine Carcinoma,PT,FULL_SYN,NCI,,,Y
+C96158,Colorectal Mixed Adenoneuroendocrine Carcinoma,Colorectal Mixed Adenoneuroendocrine Carcinoma,,Display_Name,,,,Y
+C96158,Colorectal Mixed Adenoneuroendocrine Carcinoma,Colorectal Mixed Adenoneuroendocrine Carcinoma,,Preferred_Name,,,,Y
+C9447,Colorectal Moderately Differentiated Adenocarcinoma,Colorectal Moderately Differentiated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9447,Colorectal Moderately Differentiated Adenocarcinoma,Colorectal Moderately Differentiated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9447,Colorectal Moderately Differentiated Adenocarcinoma,Colorectal Moderately Differentiated Adenocarcinoma,,Preferred_Name,,,,Y
+C9447,Colorectal Moderately Differentiated Adenocarcinoma,Grade 2 Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9447,Colorectal Moderately Differentiated Adenocarcinoma,Grade II Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9447,Colorectal Moderately Differentiated Adenocarcinoma,Low Grade Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9447,Colorectal Moderately Differentiated Adenocarcinoma,Moderately Differentiated Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C43585,Colorectal Mucinous Adenocarcinoma,Colorectal Mucinous Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C43585,Colorectal Mucinous Adenocarcinoma,Colorectal Mucinous Adenocarcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C43585,Colorectal Mucinous Adenocarcinoma,Colorectal Mucinous Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C43585,Colorectal Mucinous Adenocarcinoma,Colorectal Mucinous Adenocarcinoma,,Preferred_Name,,,,Y
+C96156,Colorectal Neuroendocrine Carcinoma,Colorectal (Colon or Rectal) Neuroendocrine Cancer,DN,FULL_SYN,CTRP,,,N
+C96156,Colorectal Neuroendocrine Carcinoma,Colorectal NEC,SY,FULL_SYN,NCI,,,N
+C96156,Colorectal Neuroendocrine Carcinoma,Colorectal Neuroendocrine Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C96156,Colorectal Neuroendocrine Carcinoma,Colorectal Neuroendocrine Carcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C96156,Colorectal Neuroendocrine Carcinoma,Colorectal Neuroendocrine Carcinoma,DN,FULL_SYN,CTRP,,,N
+C96156,Colorectal Neuroendocrine Carcinoma,Colorectal Neuroendocrine Carcinoma,PT,FULL_SYN,NCI,,,Y
+C96156,Colorectal Neuroendocrine Carcinoma,Colorectal Neuroendocrine Carcinoma,,Display_Name,,,,Y
+C96156,Colorectal Neuroendocrine Carcinoma,Colorectal Neuroendocrine Carcinoma,,Preferred_Name,,,,Y
+C172694,Colorectal Poorly Cohesive Adenocarcinoma,Colorectal Poorly Cohesive Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C172694,Colorectal Poorly Cohesive Adenocarcinoma,Colorectal Poorly Cohesive Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C172694,Colorectal Poorly Cohesive Adenocarcinoma,Colorectal Poorly Cohesive Adenocarcinoma,,Preferred_Name,,,,Y
+C9448,Colorectal Poorly Differentiated Adenocarcinoma,Colorectal Poorly Differentiated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9448,Colorectal Poorly Differentiated Adenocarcinoma,Colorectal Poorly Differentiated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9448,Colorectal Poorly Differentiated Adenocarcinoma,Colorectal Poorly Differentiated Adenocarcinoma,,Preferred_Name,,,,Y
+C9448,Colorectal Poorly Differentiated Adenocarcinoma,Grade 3 Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9448,Colorectal Poorly Differentiated Adenocarcinoma,Grade III Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9448,Colorectal Poorly Differentiated Adenocarcinoma,High Grade Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9448,Colorectal Poorly Differentiated Adenocarcinoma,Poorly Differentiated Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C96494,Colorectal Sarcomatoid Carcinoma,Colorectal (Colon or Rectal) Sarcomatoid Cancer,DN,FULL_SYN,CTRP,,,N
+C96494,Colorectal Sarcomatoid Carcinoma,Colorectal Carcinoma With Sarcomatoid Components,SY,FULL_SYN,NCI,,,N
+C96494,Colorectal Sarcomatoid Carcinoma,Colorectal Sarcomatoid Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C96494,Colorectal Sarcomatoid Carcinoma,Colorectal Sarcomatoid Carcinoma,PT,FULL_SYN,NCI,,,Y
+C96494,Colorectal Sarcomatoid Carcinoma,Colorectal Sarcomatoid Carcinoma,,Display_Name,,,,Y
+C96494,Colorectal Sarcomatoid Carcinoma,Colorectal Sarcomatoid Carcinoma,,Preferred_Name,,,,Y
+C96494,Colorectal Sarcomatoid Carcinoma,Colorectal Spindle Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C96485,Colorectal Serrated Adenocarcinoma,Colorectal Serrated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96485,Colorectal Serrated Adenocarcinoma,Colorectal Serrated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96485,Colorectal Serrated Adenocarcinoma,Colorectal Serrated Adenocarcinoma,,Preferred_Name,,,,Y
+C96485,Colorectal Serrated Adenocarcinoma,Serrated adenocarcinoma,PT,FULL_SYN,GDC,,,Y
+C43586,Colorectal Signet Ring Cell Adenocarcinoma,Colorectal Signet Ring Cell Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C43586,Colorectal Signet Ring Cell Adenocarcinoma,Colorectal Signet Ring Cell Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C43586,Colorectal Signet Ring Cell Adenocarcinoma,Colorectal Signet Ring Cell Adenocarcinoma,,Preferred_Name,,,,Y
+C43586,Colorectal Signet Ring Cell Adenocarcinoma,Colorectal Signet Ring Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C43586,Colorectal Signet Ring Cell Adenocarcinoma,Colorectal Signet-Ring Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C43587,Colorectal Small Cell Neuroendocrine Carcinoma,Colorectal Small Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C43587,Colorectal Small Cell Neuroendocrine Carcinoma,Colorectal Small Cell Neuroendocrine Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C43587,Colorectal Small Cell Neuroendocrine Carcinoma,Colorectal Small Cell Neuroendocrine Carcinoma,PT,FULL_SYN,NCI,,,Y
+C43587,Colorectal Small Cell Neuroendocrine Carcinoma,Colorectal Small Cell Neuroendocrine Carcinoma,,Preferred_Name,,,,Y
+C43588,Colorectal Squamous Cell Carcinoma,Colorectal (Colon or Rectal) Squamous Cell Cancer,DN,FULL_SYN,CTRP,,,N
+C43588,Colorectal Squamous Cell Carcinoma,Colorectal Squamous Cell Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C43588,Colorectal Squamous Cell Carcinoma,Colorectal Squamous Cell Carcinoma,PT,FULL_SYN,NCI,,,Y
+C43588,Colorectal Squamous Cell Carcinoma,Colorectal Squamous Cell Carcinoma,,Display_Name,,,,Y
+C43588,Colorectal Squamous Cell Carcinoma,Colorectal Squamous Cell Carcinoma,,Preferred_Name,,,,Y
+C43591,Colorectal Undifferentiated Carcinoma,Colorectal Undifferentiated Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C43591,Colorectal Undifferentiated Carcinoma,Colorectal Undifferentiated Carcinoma,PT,FULL_SYN,NCI,,,Y
+C43591,Colorectal Undifferentiated Carcinoma,Colorectal Undifferentiated Carcinoma,,Display_Name,,,,Y
+C43591,Colorectal Undifferentiated Carcinoma,Colorectal Undifferentiated Carcinoma,,Preferred_Name,,,,Y
+C43591,Colorectal Undifferentiated Carcinoma,Undifferentiated Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C9446,Colorectal Well Differentiated Adenocarcinoma,Colorectal Well Differentiated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9446,Colorectal Well Differentiated Adenocarcinoma,Colorectal Well Differentiated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9446,Colorectal Well Differentiated Adenocarcinoma,Colorectal Well Differentiated Adenocarcinoma,,Preferred_Name,,,,Y
+C9446,Colorectal Well Differentiated Adenocarcinoma,Grade 1 Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9446,Colorectal Well Differentiated Adenocarcinoma,Grade I Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9446,Colorectal Well Differentiated Adenocarcinoma,Low Grade Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9446,Colorectal Well Differentiated Adenocarcinoma,Well Differentiated Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C96497,Crohn Disease-Associated Colorectal Adenocarcinoma,Crohn Disease-Associated Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96497,Crohn Disease-Associated Colorectal Adenocarcinoma,Crohn Disease-Associated Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96497,Crohn Disease-Associated Colorectal Adenocarcinoma,Crohn Disease-Associated Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C96497,Crohn Disease-Associated Colorectal Adenocarcinoma,Crohn's Disease-Associated Colorectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C202634,Distal Colon Carcinoma,Distal Colon Cancer,SY,FULL_SYN,NCI,,,N
+C202634,Distal Colon Carcinoma,Distal Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C202634,Distal Colon Carcinoma,Distal Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C202634,Distal Colon Carcinoma,Distal Colon Carcinoma,,Preferred_Name,,,,Y
+C214793,Early Stage Colon Carcinoma,Early Stage Colon Cancer,SY,FULL_SYN,NCI,,,N
+C214793,Early Stage Colon Carcinoma,Early Stage Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C214793,Early Stage Colon Carcinoma,Early Stage Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C214793,Early Stage Colon Carcinoma,Early Stage Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C214793,Early Stage Colon Carcinoma,Early Stage Colon Carcinoma,,Display_Name,,,,Y
+C214793,Early Stage Colon Carcinoma,Early Stage Colon Carcinoma,,Preferred_Name,,,,Y
+C205290,Early Stage Colorectal Carcinoma,Early Stage Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C205290,Early Stage Colorectal Carcinoma,Early Stage Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C205290,Early Stage Colorectal Carcinoma,Early Stage Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C205290,Early Stage Colorectal Carcinoma,Early Stage Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C205290,Early Stage Colorectal Carcinoma,Early Stage Colorectal Carcinoma,,Display_Name,,,,Y
+C205290,Early Stage Colorectal Carcinoma,Early Stage Colorectal Carcinoma,,Preferred_Name,,,,Y
+C164228,Hereditary Colon Carcinoma,Hereditary Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C164228,Hereditary Colon Carcinoma,Hereditary Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C164228,Hereditary Colon Carcinoma,Hereditary Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C164228,Hereditary Colon Carcinoma,Hereditary Colon Carcinoma,,Display_Name,,,,Y
+C164228,Hereditary Colon Carcinoma,Hereditary Colon Carcinoma,,Preferred_Name,,,,Y
+C162256,Hypermutated Colorectal Carcinoma,Hypermutated Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C162256,Hypermutated Colorectal Carcinoma,Hypermutated Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C162256,Hypermutated Colorectal Carcinoma,Hypermutated Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C162256,Hypermutated Colorectal Carcinoma,Hypermutated Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C162256,Hypermutated Colorectal Carcinoma,Hypermutated Colorectal Carcinoma,,Display_Name,,,,Y
+C162256,Hypermutated Colorectal Carcinoma,Hypermutated Colorectal Carcinoma,,Preferred_Name,,,,Y
+C172700,Inflammatory Bowel Disease-Associated Colorectal Adenocarcinoma,Inflammatory Bowel Disease-Associated Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C172700,Inflammatory Bowel Disease-Associated Colorectal Adenocarcinoma,Inflammatory Bowel Disease-Associated Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C172700,Inflammatory Bowel Disease-Associated Colorectal Adenocarcinoma,Inflammatory Bowel Disease-Associated Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C220570,Localized Colon Adenocarcinoma,Localized Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C220570,Localized Colon Adenocarcinoma,Localized Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C220570,Localized Colon Adenocarcinoma,Localized Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C220569,Localized Colon Carcinoma,Localized Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C220569,Localized Colon Carcinoma,Localized Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C220569,Localized Colon Carcinoma,Localized Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C220569,Localized Colon Carcinoma,Localized Colon Carcinoma,,Display_Name,,,,Y
+C220569,Localized Colon Carcinoma,Localized Colon Carcinoma,,Preferred_Name,,,,Y
+C212894,Localized Colorectal Carcinoma,Localized Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C212894,Localized Colorectal Carcinoma,Localized Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C212894,Localized Colorectal Carcinoma,Localized Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C212894,Localized Colorectal Carcinoma,Localized Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C212894,Localized Colorectal Carcinoma,Localized Colorectal Carcinoma,,Display_Name,,,,Y
+C212894,Localized Colorectal Carcinoma,Localized Colorectal Carcinoma,,Preferred_Name,,,,Y
+C212894,Localized Colorectal Carcinoma,Non-Metastatic Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C213456,Localized Rectal Adenocarcinoma,Localized Rectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C213456,Localized Rectal Adenocarcinoma,Localized Rectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C213456,Localized Rectal Adenocarcinoma,Localized Rectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C213456,Localized Rectal Adenocarcinoma,Localized Rectal Adenocarcinoma,,Display_Name,,,,Y
+C213456,Localized Rectal Adenocarcinoma,Localized Rectal Adenocarcinoma,,Preferred_Name,,,,Y
+C220571,Localized Rectal Carcinoma,Localized Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C220571,Localized Rectal Carcinoma,Localized Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C220571,Localized Rectal Carcinoma,Localized Rectal Carcinoma,,Preferred_Name,,,,Y
+C190415,Locally Advanced Colon Adenocarcinoma,Locally Advanced Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C190415,Locally Advanced Colon Adenocarcinoma,Locally Advanced Colon Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C190415,Locally Advanced Colon Adenocarcinoma,Locally Advanced Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C190415,Locally Advanced Colon Adenocarcinoma,Locally Advanced Colon Adenocarcinoma,,Display_Name,,,,Y
+C190415,Locally Advanced Colon Adenocarcinoma,Locally Advanced Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C170910,Locally Advanced Colon Carcinoma,Locally Advanced Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C170910,Locally Advanced Colon Carcinoma,Locally Advanced Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C170910,Locally Advanced Colon Carcinoma,Locally Advanced Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C170910,Locally Advanced Colon Carcinoma,Locally Advanced Colon Carcinoma,,Display_Name,,,,Y
+C170910,Locally Advanced Colon Carcinoma,Locally Advanced Colon Carcinoma,,Preferred_Name,,,,Y
+C190413,Locally Advanced Colorectal Adenocarcinoma,Locally Advanced Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C190413,Locally Advanced Colorectal Adenocarcinoma,Locally Advanced Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C190413,Locally Advanced Colorectal Adenocarcinoma,Locally Advanced Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C162766,Locally Advanced Colorectal Carcinoma,Locally Advanced Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C162766,Locally Advanced Colorectal Carcinoma,Locally Advanced Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C162766,Locally Advanced Colorectal Carcinoma,Locally Advanced Colorectal Carcinoma,,Preferred_Name,,,,Y
+C178269,Locally Advanced Microsatellite Stable Colon Carcinoma,Locally Advanced Microsatellite Stable Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C178269,Locally Advanced Microsatellite Stable Colon Carcinoma,Locally Advanced Microsatellite Stable Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C178269,Locally Advanced Microsatellite Stable Colon Carcinoma,Locally Advanced Microsatellite Stable Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C178269,Locally Advanced Microsatellite Stable Colon Carcinoma,Locally Advanced Microsatellite Stable Colon Carcinoma,,Display_Name,,,,Y
+C178269,Locally Advanced Microsatellite Stable Colon Carcinoma,Locally Advanced Microsatellite Stable Colon Carcinoma,,Preferred_Name,,,,Y
+C156745,Locally Advanced Microsatellite Stable Colorectal Carcinoma,Locally Advanced Microsatellite Stable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C156745,Locally Advanced Microsatellite Stable Colorectal Carcinoma,Locally Advanced Microsatellite Stable Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C156745,Locally Advanced Microsatellite Stable Colorectal Carcinoma,Locally Advanced Microsatellite Stable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C156745,Locally Advanced Microsatellite Stable Colorectal Carcinoma,Locally Advanced Microsatellite Stable Colorectal Carcinoma,,Display_Name,,,,Y
+C156745,Locally Advanced Microsatellite Stable Colorectal Carcinoma,Locally Advanced Microsatellite Stable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C174122,Locally Advanced Rectal Adenocarcinoma,Locally Advanced Rectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C174122,Locally Advanced Rectal Adenocarcinoma,Locally Advanced Rectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C174122,Locally Advanced Rectal Adenocarcinoma,Locally Advanced Rectal Adenocarcinoma,,Preferred_Name,,,,Y
+C170778,Locally Advanced Rectal Carcinoma,Locally Advanced Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C170778,Locally Advanced Rectal Carcinoma,Locally Advanced Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C170778,Locally Advanced Rectal Carcinoma,Locally Advanced Rectal Carcinoma,,Preferred_Name,,,,Y
+C170781,Locally Advanced Rectal Squamous Cell Carcinoma,Locally Advanced Rectal Squamous Cell Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C170781,Locally Advanced Rectal Squamous Cell Carcinoma,Locally Advanced Rectal Squamous Cell Carcinoma,DN,FULL_SYN,CTRP,,,N
+C170781,Locally Advanced Rectal Squamous Cell Carcinoma,Locally Advanced Rectal Squamous Cell Carcinoma,PT,FULL_SYN,NCI,,,Y
+C170781,Locally Advanced Rectal Squamous Cell Carcinoma,Locally Advanced Rectal Squamous Cell Carcinoma,,Display_Name,,,,Y
+C170781,Locally Advanced Rectal Squamous Cell Carcinoma,Locally Advanced Rectal Squamous Cell Carcinoma,,Preferred_Name,,,,Y
+C162271,Locally Advanced Unresectable Colon Adenocarcinoma,Locally Advanced Unresectable Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162271,Locally Advanced Unresectable Colon Adenocarcinoma,Locally Advanced Unresectable Colon Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C162271,Locally Advanced Unresectable Colon Adenocarcinoma,Locally Advanced Unresectable Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162271,Locally Advanced Unresectable Colon Adenocarcinoma,Locally Advanced Unresectable Colon Adenocarcinoma,,Display_Name,,,,Y
+C162271,Locally Advanced Unresectable Colon Adenocarcinoma,Locally Advanced Unresectable Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C162270,Locally Advanced Unresectable Colorectal Adenocarcinoma,Locally Advanced Unresectable Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162270,Locally Advanced Unresectable Colorectal Adenocarcinoma,Locally Advanced Unresectable Colorectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C162270,Locally Advanced Unresectable Colorectal Adenocarcinoma,Locally Advanced Unresectable Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162270,Locally Advanced Unresectable Colorectal Adenocarcinoma,Locally Advanced Unresectable Colorectal Adenocarcinoma,,Display_Name,,,,Y
+C162270,Locally Advanced Unresectable Colorectal Adenocarcinoma,Locally Advanced Unresectable Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C215683,Locally Advanced Unresectable Colorectal Carcinoma,Locally Advanced Unresectable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C215683,Locally Advanced Unresectable Colorectal Carcinoma,Locally Advanced Unresectable Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C215683,Locally Advanced Unresectable Colorectal Carcinoma,Locally Advanced Unresectable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C215683,Locally Advanced Unresectable Colorectal Carcinoma,Locally Advanced Unresectable Colorectal Carcinoma,,Display_Name,,,,Y
+C215683,Locally Advanced Unresectable Colorectal Carcinoma,Locally Advanced Unresectable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C162272,Locally Advanced Unresectable Rectal Adenocarcinoma,Locally Advanced Unresectable Rectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162272,Locally Advanced Unresectable Rectal Adenocarcinoma,Locally Advanced Unresectable Rectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C162272,Locally Advanced Unresectable Rectal Adenocarcinoma,Locally Advanced Unresectable Rectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162272,Locally Advanced Unresectable Rectal Adenocarcinoma,Locally Advanced Unresectable Rectal Adenocarcinoma,,Display_Name,,,,Y
+C162272,Locally Advanced Unresectable Rectal Adenocarcinoma,Locally Advanced Unresectable Rectal Adenocarcinoma,,Preferred_Name,,,,Y
+C190199,Locally Recurrent Colorectal Carcinoma,Locally Recurrent Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C190199,Locally Recurrent Colorectal Carcinoma,Locally Recurrent Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C190199,Locally Recurrent Colorectal Carcinoma,Locally Recurrent Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C190199,Locally Recurrent Colorectal Carcinoma,Locally Recurrent Colorectal Carcinoma,,Display_Name,,,,Y
+C190199,Locally Recurrent Colorectal Carcinoma,Locally Recurrent Colorectal Carcinoma,,Preferred_Name,,,,Y
+C223142,Locally Recurrent Rectal Adenocarcinoma,Locally Recurrent Rectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C223142,Locally Recurrent Rectal Adenocarcinoma,Locally Recurrent Rectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C223142,Locally Recurrent Rectal Adenocarcinoma,Locally Recurrent Rectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C223142,Locally Recurrent Rectal Adenocarcinoma,Locally Recurrent Rectal Adenocarcinoma,,Display_Name,,,,Y
+C223142,Locally Recurrent Rectal Adenocarcinoma,Locally Recurrent Rectal Adenocarcinoma,,Preferred_Name,,,,Y
+C209992,Locally Recurrent Rectal Carcinoma,Locally Recurrent Cancer of the Rectum,SY,FULL_SYN,NCI,,,N
+C209992,Locally Recurrent Rectal Carcinoma,Locally Recurrent Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C209992,Locally Recurrent Rectal Carcinoma,Locally Recurrent Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C209992,Locally Recurrent Rectal Carcinoma,Locally Recurrent Rectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C209992,Locally Recurrent Rectal Carcinoma,Locally Recurrent Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C209992,Locally Recurrent Rectal Carcinoma,Locally Recurrent Rectal Carcinoma,,Display_Name,,,,Y
+C209992,Locally Recurrent Rectal Carcinoma,Locally Recurrent Rectal Carcinoma,,Preferred_Name,,,,Y
+C209752,Metastatic Childhood Colorectal Carcinoma,Childhood Metastatic Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C209752,Metastatic Childhood Colorectal Carcinoma,Childhood Metastatic Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C209752,Metastatic Childhood Colorectal Carcinoma,Childhood Metastatic Colorectal Carcinoma,,Display_Name,,,,Y
+C209752,Metastatic Childhood Colorectal Carcinoma,Metastatic Childhood Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C209752,Metastatic Childhood Colorectal Carcinoma,Metastatic Childhood Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C209752,Metastatic Childhood Colorectal Carcinoma,Metastatic Childhood Colorectal Carcinoma,,Preferred_Name,,,,Y
+C160819,Metastatic Colon Adenocarcinoma,Metastatic Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C160819,Metastatic Colon Adenocarcinoma,Metastatic Colon Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C160819,Metastatic Colon Adenocarcinoma,Metastatic Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C160819,Metastatic Colon Adenocarcinoma,Metastatic Colon Adenocarcinoma,,Display_Name,,,,Y
+C160819,Metastatic Colon Adenocarcinoma,Metastatic Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C156097,Metastatic Colon Carcinoma,Metastatic Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C156097,Metastatic Colon Carcinoma,Metastatic Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C156097,Metastatic Colon Carcinoma,Metastatic Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C156097,Metastatic Colon Carcinoma,Metastatic Colon Carcinoma,,Display_Name,,,,Y
+C156097,Metastatic Colon Carcinoma,Metastatic Colon Carcinoma,,Preferred_Name,,,,Y
+C161048,Metastatic Colorectal Adenocarcinoma,Metastatic Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C161048,Metastatic Colorectal Adenocarcinoma,Metastatic Colorectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C161048,Metastatic Colorectal Adenocarcinoma,Metastatic Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C161048,Metastatic Colorectal Adenocarcinoma,Metastatic Colorectal Adenocarcinoma,,Display_Name,,,,Y
+C161048,Metastatic Colorectal Adenocarcinoma,Metastatic Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C156096,Metastatic Colorectal Carcinoma,Metastatic Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C156096,Metastatic Colorectal Carcinoma,Metastatic Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C156096,Metastatic Colorectal Carcinoma,Metastatic Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C156096,Metastatic Colorectal Carcinoma,Metastatic Colorectal Carcinoma,,Display_Name,,,,Y
+C156096,Metastatic Colorectal Carcinoma,Metastatic Colorectal Carcinoma,,Preferred_Name,,,,Y
+C162273,Metastatic Colorectal Mucinous Adenocarcinoma,Metastatic Colorectal Mucinous Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162273,Metastatic Colorectal Mucinous Adenocarcinoma,Metastatic Colorectal Mucinous Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C162273,Metastatic Colorectal Mucinous Adenocarcinoma,Metastatic Colorectal Mucinous Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162273,Metastatic Colorectal Mucinous Adenocarcinoma,Metastatic Colorectal Mucinous Adenocarcinoma,,Display_Name,,,,Y
+C162273,Metastatic Colorectal Mucinous Adenocarcinoma,Metastatic Colorectal Mucinous Adenocarcinoma,,Preferred_Name,,,,Y
+C178268,Metastatic Microsatellite Stable Colon Carcinoma,Metastatic Microsatellite Stable Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C178268,Metastatic Microsatellite Stable Colon Carcinoma,Metastatic Microsatellite Stable Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C178268,Metastatic Microsatellite Stable Colon Carcinoma,Metastatic Microsatellite Stable Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C178268,Metastatic Microsatellite Stable Colon Carcinoma,Metastatic Microsatellite Stable Colon Carcinoma,,Display_Name,,,,Y
+C178268,Metastatic Microsatellite Stable Colon Carcinoma,Metastatic Microsatellite Stable Colon Carcinoma,,Preferred_Name,,,,Y
+C142867,Metastatic Microsatellite Stable Colorectal Carcinoma,Metastatic Microsatellite Stable Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C142867,Metastatic Microsatellite Stable Colorectal Carcinoma,Metastatic Microsatellite Stable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C142867,Metastatic Microsatellite Stable Colorectal Carcinoma,Metastatic Microsatellite Stable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C142867,Metastatic Microsatellite Stable Colorectal Carcinoma,Metastatic Microsatellite Stable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C218466,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C218466,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C218466,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C218466,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,,Display_Name,,,,Y
+C218466,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,,Preferred_Name,,,,Y
+C218466,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,Metastatic MMRp Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C160820,Metastatic Rectal Adenocarcinoma,Metastatic Rectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C160820,Metastatic Rectal Adenocarcinoma,Metastatic Rectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C160820,Metastatic Rectal Adenocarcinoma,Metastatic Rectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C160820,Metastatic Rectal Adenocarcinoma,Metastatic Rectal Adenocarcinoma,,Display_Name,,,,Y
+C160820,Metastatic Rectal Adenocarcinoma,Metastatic Rectal Adenocarcinoma,,Preferred_Name,,,,Y
+C156098,Metastatic Rectal Carcinoma,Metastatic Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C156098,Metastatic Rectal Carcinoma,Metastatic Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C156098,Metastatic Rectal Carcinoma,Metastatic Rectal Carcinoma,,Preferred_Name,,,,Y
+C170779,Metastatic Rectal Squamous Cell Carcinoma,Metastatic Rectal Squamous Cell Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C170779,Metastatic Rectal Squamous Cell Carcinoma,Metastatic Rectal Squamous Cell Carcinoma,DN,FULL_SYN,CTRP,,,N
+C170779,Metastatic Rectal Squamous Cell Carcinoma,Metastatic Rectal Squamous Cell Carcinoma,PT,FULL_SYN,NCI,,,Y
+C170779,Metastatic Rectal Squamous Cell Carcinoma,Metastatic Rectal Squamous Cell Carcinoma,,Display_Name,,,,Y
+C170779,Metastatic Rectal Squamous Cell Carcinoma,Metastatic Rectal Squamous Cell Carcinoma,,Preferred_Name,,,,Y
+C212108,Metastatic Resectable Colorectal Adenocarcinoma,Metastatic Resectable Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C212108,Metastatic Resectable Colorectal Adenocarcinoma,Metastatic Resectable Colorectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C212108,Metastatic Resectable Colorectal Adenocarcinoma,Metastatic Resectable Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C212108,Metastatic Resectable Colorectal Adenocarcinoma,Metastatic Resectable Colorectal Adenocarcinoma,,Display_Name,,,,Y
+C212108,Metastatic Resectable Colorectal Adenocarcinoma,Metastatic Resectable Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C211028,Metastatic Unresectable Colorectal Carcinoma,Metastatic Unresectable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C211028,Metastatic Unresectable Colorectal Carcinoma,Metastatic Unresectable Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C211028,Metastatic Unresectable Colorectal Carcinoma,Metastatic Unresectable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C211028,Metastatic Unresectable Colorectal Carcinoma,Metastatic Unresectable Colorectal Carcinoma,,Display_Name,,,,Y
+C211028,Metastatic Unresectable Colorectal Carcinoma,Metastatic Unresectable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C177777,Microsatellite Stable Colon Carcinoma,Microsatellite Stable Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C177777,Microsatellite Stable Colon Carcinoma,Microsatellite Stable Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C177777,Microsatellite Stable Colon Carcinoma,Microsatellite Stable Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C177777,Microsatellite Stable Colon Carcinoma,Microsatellite Stable Colon Carcinoma,,Display_Name,,,,Y
+C177777,Microsatellite Stable Colon Carcinoma,Microsatellite Stable Colon Carcinoma,,Preferred_Name,,,,Y
+C173324,Microsatellite Stable Colorectal Carcinoma,Microsatellite Stable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C173324,Microsatellite Stable Colorectal Carcinoma,Microsatellite Stable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C173324,Microsatellite Stable Colorectal Carcinoma,Microsatellite Stable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C177776,Microsatellite Stable Rectal Carcinoma,Microsatellite Stable Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C177776,Microsatellite Stable Rectal Carcinoma,Microsatellite Stable Rectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C177776,Microsatellite Stable Rectal Carcinoma,Microsatellite Stable Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C177776,Microsatellite Stable Rectal Carcinoma,Microsatellite Stable Rectal Carcinoma,,Display_Name,,,,Y
+C177776,Microsatellite Stable Rectal Carcinoma,Microsatellite Stable Rectal Carcinoma,,Preferred_Name,,,,Y
+C218464,Mismatch Repair Proficient Colorectal Carcinoma,Mismatch Repair Proficient Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C218464,Mismatch Repair Proficient Colorectal Carcinoma,Mismatch Repair Proficient Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C218464,Mismatch Repair Proficient Colorectal Carcinoma,Mismatch Repair Proficient Colorectal Carcinoma,,Preferred_Name,,,,Y
+C218464,Mismatch Repair Proficient Colorectal Carcinoma,MMRp Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C185165,Oligometastatic Colorectal Carcinoma,Oligometastatic Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C185165,Oligometastatic Colorectal Carcinoma,Oligometastatic Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C185165,Oligometastatic Colorectal Carcinoma,Oligometastatic Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C185165,Oligometastatic Colorectal Carcinoma,Oligometastatic Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C185165,Oligometastatic Colorectal Carcinoma,Oligometastatic Colorectal Carcinoma,,Display_Name,,,,Y
+C185165,Oligometastatic Colorectal Carcinoma,Oligometastatic Colorectal Carcinoma,,Preferred_Name,,,,Y
+C202633,Proximal Colon Carcinoma,Proximal Colon Cancer,SY,FULL_SYN,NCI,,,N
+C202633,Proximal Colon Carcinoma,Proximal Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C202633,Proximal Colon Carcinoma,Proximal Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C202633,Proximal Colon Carcinoma,Proximal Colon Carcinoma,,Preferred_Name,,,,Y
+C9383,Rectal Adenocarcinoma,Adenocarcinoma - rectum,SY,FULL_SYN,CTEP,10038045,SDC,N
+C9383,Rectal Adenocarcinoma,Adenocarcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C9383,Rectal Adenocarcinoma,Adenocarcinoma of the rectum,PT,FULL_SYN,CTEP,10038045,SDC,Y
+C9383,Rectal Adenocarcinoma,Adenocarcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C9383,Rectal Adenocarcinoma,Rectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9383,Rectal Adenocarcinoma,Rectal Adenocarcinoma,SY,FULL_SYN,caDSR,,,N
+C9383,Rectal Adenocarcinoma,Rectal Adenocarcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C9383,Rectal Adenocarcinoma,Rectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C9383,Rectal Adenocarcinoma,Rectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9383,Rectal Adenocarcinoma,Rectal Adenocarcinoma,,Display_Name,,,,Y
+C9383,Rectal Adenocarcinoma,Rectal Adenocarcinoma,,Preferred_Name,,,,Y
+C43594,Rectal Adenosquamous Carcinoma,Rectal Adenosquamous Cancer,DN,FULL_SYN,CTRP,,,N
+C43594,Rectal Adenosquamous Carcinoma,Rectal Adenosquamous Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C43594,Rectal Adenosquamous Carcinoma,Rectal Adenosquamous Carcinoma,PT,FULL_SYN,NCI,,,Y
+C43594,Rectal Adenosquamous Carcinoma,Rectal Adenosquamous Carcinoma,,Display_Name,,,,Y
+C43594,Rectal Adenosquamous Carcinoma,Rectal Adenosquamous Carcinoma,,Preferred_Name,,,,Y
+C90508,Rectal Cancer by AJCC v6 Stage,Rectal Cancer by AJCC v6 Stage,NAME,Concept_Name,NCIt,,,Y
+C90508,Rectal Cancer by AJCC v6 Stage,Rectal Cancer by AJCC v6 Stage,HD,FULL_SYN,NCI,,,N
+C90508,Rectal Cancer by AJCC v6 Stage,Rectal Cancer by AJCC v6 Stage,,Preferred_Name,,,,Y
+C90508,Rectal Cancer by AJCC v6 Stage,Rectal Carcinoma by AJCC v6 Stage,SY,FULL_SYN,NCI,,,N
+C91225,Rectal Cancer by AJCC v7 Stage,Rectal Cancer by AJCC v7 Stage,NAME,Concept_Name,NCIt,,,Y
+C91225,Rectal Cancer by AJCC v7 Stage,Rectal Cancer by AJCC v7 Stage,HD,FULL_SYN,NCI,,,N
+C91225,Rectal Cancer by AJCC v7 Stage,Rectal Cancer by AJCC v7 Stage,,Preferred_Name,,,,Y
+C91225,Rectal Cancer by AJCC v7 Stage,Rectal Carcinoma by AJCC v7 Stage,SY,FULL_SYN,NCI,,,N
+C134258,Rectal Cancer by AJCC v8 Stage,Rectal Cancer by AJCC v8 Stage,NAME,Concept_Name,NCIt,,,Y
+C134258,Rectal Cancer by AJCC v8 Stage,Rectal Cancer by AJCC v8 Stage,HD,FULL_SYN,NCI,,,N
+C134258,Rectal Cancer by AJCC v8 Stage,Rectal Cancer by AJCC v8 Stage,,Preferred_Name,,,,Y
+C134258,Rectal Cancer by AJCC v8 Stage,Rectal Carcinoma by AJCC v8 Stage,SY,FULL_SYN,NCI,,,N
+C9382,Rectal Carcinoma,Cancer of Rectum,SY,FULL_SYN,NCI,,,N
+C9382,Rectal Carcinoma,Cancer of the Rectum,SY,FULL_SYN,NCI,,,N
+C9382,Rectal Carcinoma,Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C9382,Rectal Carcinoma,Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C9382,Rectal Carcinoma,Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C9382,Rectal Carcinoma,Rectal Cancer,PT,FULL_SYN,CTRP,,,Y
+C9382,Rectal Carcinoma,Rectal Cancer,PT,FULL_SYN,GDC,,,Y
+C9382,Rectal Carcinoma,rectal cancer,PT,FULL_SYN,NCI-GLOSS,CDR0000529764,,Y
+C9382,Rectal Carcinoma,Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C9382,Rectal Carcinoma,Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C9382,Rectal Carcinoma,Rectal Carcinoma,PT,FULL_SYN,CPTAC,,,Y
+C9382,Rectal Carcinoma,Rectal Carcinoma,SY,FULL_SYN,CTRP,,,N
+C9382,Rectal Carcinoma,Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C9382,Rectal Carcinoma,Rectal Carcinoma,,Display_Name,,,,Y
+C9382,Rectal Carcinoma,Rectal Carcinoma,,Preferred_Name,,,,Y
+C9382,Rectal Carcinoma,Rectum Cancer,SY,FULL_SYN,CPTAC,,,N
+C226295,Rectal Carcinoma In Situ,Carcinoma in situ of rectum,PT,FULL_SYN,mCode,D01.2,ICD-10 CM,Y
+C226295,Rectal Carcinoma In Situ,Rectal Carcinoma In Situ,NAME,Concept_Name,NCIt,,,Y
+C226295,Rectal Carcinoma In Situ,Rectal Carcinoma In Situ,PT,FULL_SYN,NCI,,,Y
+C226295,Rectal Carcinoma In Situ,Rectal Carcinoma In Situ,,Preferred_Name,,,,Y
+C136240,Rectal Carcinoma Metastatic in the Liver,Rectal Carcinoma Metastatic in the Liver,NAME,Concept_Name,NCIt,,,Y
+C136240,Rectal Carcinoma Metastatic in the Liver,Rectal Carcinoma Metastatic in the Liver,PT,FULL_SYN,NCI,,,Y
+C136240,Rectal Carcinoma Metastatic in the Liver,Rectal Carcinoma Metastatic in the Liver,,Preferred_Name,,,,Y
+C5555,Rectal Cloacogenic Carcinoma,Cloacogenic Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C5555,Rectal Cloacogenic Carcinoma,Cloacogenic Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C5555,Rectal Cloacogenic Carcinoma,Rectal Cloacogenic Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C5555,Rectal Cloacogenic Carcinoma,Rectal Cloacogenic Carcinoma,PT,FULL_SYN,NCI,,,Y
+C5555,Rectal Cloacogenic Carcinoma,Rectal Cloacogenic Carcinoma,,Preferred_Name,,,,Y
+C5555,Rectal Cloacogenic Carcinoma,Rectal Transition Zone Carcinoma,SY,FULL_SYN,NCI,,,N
+C5555,Rectal Cloacogenic Carcinoma,Rectal Transitional Zone Carcinoma,SY,FULL_SYN,NCI,,,N
+C5555,Rectal Cloacogenic Carcinoma,Transition Zone Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C5555,Rectal Cloacogenic Carcinoma,Transition Zone Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C5555,Rectal Cloacogenic Carcinoma,Transitional Zone Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C5555,Rectal Cloacogenic Carcinoma,Transitional Zone Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C96490,Rectal Cribriform Comedo-Type Adenocarcinoma,Rectal Cribriform Comedo-Type Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96490,Rectal Cribriform Comedo-Type Adenocarcinoma,Rectal Cribriform Comedo-Type Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96490,Rectal Cribriform Comedo-Type Adenocarcinoma,Rectal Cribriform Comedo-Type Adenocarcinoma,,Preferred_Name,,,,Y
+C213481,Rectal Hepatoid Adenocarcinoma,Rectal Hepatoid Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C213481,Rectal Hepatoid Adenocarcinoma,Rectal Hepatoid Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C213481,Rectal Hepatoid Adenocarcinoma,Rectal Hepatoid Adenocarcinoma,,Preferred_Name,,,,Y
+C176697,Rectal Large Cell Neuroendocrine Carcinoma,Rectal Large Cell Neuroendocrine Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C176697,Rectal Large Cell Neuroendocrine Carcinoma,Rectal Large Cell Neuroendocrine Carcinoma,PT,FULL_SYN,NCI,,,Y
+C176697,Rectal Large Cell Neuroendocrine Carcinoma,Rectal Large Cell Neuroendocrine Carcinoma,,Preferred_Name,,,,Y
+C60640,Rectal Medullary Carcinoma,Rectal Medullary Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C60640,Rectal Medullary Carcinoma,Rectal Medullary Carcinoma,PT,FULL_SYN,NCI,,,Y
+C60640,Rectal Medullary Carcinoma,Rectal Medullary Carcinoma,,Preferred_Name,,,,Y
+C96493,Rectal Micropapillary Adenocarcinoma,Rectal Micropapillary Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96493,Rectal Micropapillary Adenocarcinoma,Rectal Micropapillary Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96493,Rectal Micropapillary Adenocarcinoma,Rectal Micropapillary Adenocarcinoma,,Preferred_Name,,,,Y
+C9450,Rectal Moderately Differentiated Adenocarcinoma,Grade 2 Rectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9450,Rectal Moderately Differentiated Adenocarcinoma,Grade II Rectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9450,Rectal Moderately Differentiated Adenocarcinoma,Moderately Differentiated Rectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9450,Rectal Moderately Differentiated Adenocarcinoma,Rectal Moderately Differentiated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9450,Rectal Moderately Differentiated Adenocarcinoma,Rectal Moderately Differentiated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9450,Rectal Moderately Differentiated Adenocarcinoma,Rectal Moderately Differentiated Adenocarcinoma,,Preferred_Name,,,,Y
+C7973,Rectal Mucinous Adenocarcinoma,Colloid Adenocarcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C7973,Rectal Mucinous Adenocarcinoma,Colloid Adenocarcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C7973,Rectal Mucinous Adenocarcinoma,Colloidal Adenocarcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C7973,Rectal Mucinous Adenocarcinoma,Colloidal Adenocarcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C7973,Rectal Mucinous Adenocarcinoma,Mucinous Adenocarcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C7973,Rectal Mucinous Adenocarcinoma,Mucinous Adenocarcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C7973,Rectal Mucinous Adenocarcinoma,Rectal Colloid Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7973,Rectal Mucinous Adenocarcinoma,Rectal Colloidal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C7973,Rectal Mucinous Adenocarcinoma,Rectal Mucinous Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C7973,Rectal Mucinous Adenocarcinoma,Rectal Mucinous Adenocarcinoma,SY,FULL_SYN,caDSR,,,N
+C7973,Rectal Mucinous Adenocarcinoma,Rectal Mucinous Adenocarcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C7973,Rectal Mucinous Adenocarcinoma,Rectal Mucinous Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C7973,Rectal Mucinous Adenocarcinoma,Rectal Mucinous Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C7973,Rectal Mucinous Adenocarcinoma,Rectal Mucinous Adenocarcinoma,,Display_Name,,,,Y
+C7973,Rectal Mucinous Adenocarcinoma,Rectal Mucinous Adenocarcinoma,,Preferred_Name,,,,Y
+C203385,Rectal Neuroendocrine Carcinoma,Rectal NEC,SY,FULL_SYN,NCI,,,N
+C203385,Rectal Neuroendocrine Carcinoma,Rectal Neuroendocrine Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C203385,Rectal Neuroendocrine Carcinoma,Rectal Neuroendocrine Carcinoma,PT,FULL_SYN,NCI,,,Y
+C203385,Rectal Neuroendocrine Carcinoma,Rectal Neuroendocrine Carcinoma,,Preferred_Name,,,,Y
+C9449,Rectal Poorly Differentiated Adenocarcinoma,Grade 3 Rectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9449,Rectal Poorly Differentiated Adenocarcinoma,Grade III Rectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9449,Rectal Poorly Differentiated Adenocarcinoma,Poorly Differentiated Rectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9449,Rectal Poorly Differentiated Adenocarcinoma,Rectal Poorly Differentiated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9449,Rectal Poorly Differentiated Adenocarcinoma,Rectal Poorly Differentiated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9449,Rectal Poorly Differentiated Adenocarcinoma,Rectal Poorly Differentiated Adenocarcinoma,,Preferred_Name,,,,Y
+C5556,Rectal Sarcomatoid Carcinoma,Rectal Sarcomatoid Cancer,DN,FULL_SYN,CTRP,,,N
+C5556,Rectal Sarcomatoid Carcinoma,Rectal Sarcomatoid Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C5556,Rectal Sarcomatoid Carcinoma,Rectal Sarcomatoid Carcinoma,PT,FULL_SYN,NCI,,,Y
+C5556,Rectal Sarcomatoid Carcinoma,Rectal Sarcomatoid Carcinoma,,Display_Name,,,,Y
+C5556,Rectal Sarcomatoid Carcinoma,Rectal Sarcomatoid Carcinoma,,Preferred_Name,,,,Y
+C5556,Rectal Sarcomatoid Carcinoma,Rectal Spindle Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C5556,Rectal Sarcomatoid Carcinoma,Sarcomatoid Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C5556,Rectal Sarcomatoid Carcinoma,Sarcomatoid Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C96487,Rectal Serrated Adenocarcinoma,Rectal Serrated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96487,Rectal Serrated Adenocarcinoma,Rectal Serrated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96487,Rectal Serrated Adenocarcinoma,Rectal Serrated Adenocarcinoma,,Preferred_Name,,,,Y
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Rectal Signet Ring Cell Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Rectal Signet Ring Cell Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Rectal Signet Ring Cell Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Rectal Signet Ring Cell Adenocarcinoma,,Display_Name,,,,Y
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Rectal Signet Ring Cell Adenocarcinoma,,Preferred_Name,,,,Y
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Rectal Signet-Ring Cell Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Signet Ring Adenocarcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Signet Ring Adenocarcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Signet Ring Cell Adenocarcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Signet Ring Cell Adenocarcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C60639,Rectal Small Cell Neuroendocrine Carcinoma,Rectal Small Cell Carcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C60639,Rectal Small Cell Neuroendocrine Carcinoma,Rectal Small Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C60639,Rectal Small Cell Neuroendocrine Carcinoma,Rectal Small Cell Neuroendocrine Cancer,DN,FULL_SYN,CTRP,,,N
+C60639,Rectal Small Cell Neuroendocrine Carcinoma,Rectal Small Cell Neuroendocrine Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C60639,Rectal Small Cell Neuroendocrine Carcinoma,Rectal Small Cell Neuroendocrine Carcinoma,PT,FULL_SYN,NCI,,,Y
+C60639,Rectal Small Cell Neuroendocrine Carcinoma,Rectal Small Cell Neuroendocrine Carcinoma,,Display_Name,,,,Y
+C60639,Rectal Small Cell Neuroendocrine Carcinoma,Rectal Small Cell Neuroendocrine Carcinoma,,Preferred_Name,,,,Y
+C5554,Rectal Squamous Cell Carcinoma,Rectal Squamous Carcinoma,SY,FULL_SYN,NCI,,,N
+C5554,Rectal Squamous Cell Carcinoma,Rectal Squamous Cell Cancer,DN,FULL_SYN,CTRP,,,N
+C5554,Rectal Squamous Cell Carcinoma,Rectal Squamous Cell Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C5554,Rectal Squamous Cell Carcinoma,Rectal Squamous Cell Carcinoma,PT,FULL_SYN,NCI,,,Y
+C5554,Rectal Squamous Cell Carcinoma,Rectal Squamous Cell Carcinoma,,Display_Name,,,,Y
+C5554,Rectal Squamous Cell Carcinoma,Rectal Squamous Cell Carcinoma,,Preferred_Name,,,,Y
+C5554,Rectal Squamous Cell Carcinoma,Squamous Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C5554,Rectal Squamous Cell Carcinoma,Squamous Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C5554,Rectal Squamous Cell Carcinoma,Squamous Cell Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C5554,Rectal Squamous Cell Carcinoma,Squamous Cell Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C7974,Rectal Undifferentiated Carcinoma,Anaplastic Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C7974,Rectal Undifferentiated Carcinoma,Anaplastic Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C7974,Rectal Undifferentiated Carcinoma,Carcinoma Simplex of the Rectum.,SY,FULL_SYN,NCI,,,N
+C7974,Rectal Undifferentiated Carcinoma,Rectal Anaplastic Carcinoma,SY,FULL_SYN,NCI,,,N
+C7974,Rectal Undifferentiated Carcinoma,Rectal Undifferentiated Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C7974,Rectal Undifferentiated Carcinoma,Rectal Undifferentiated Carcinoma,PT,FULL_SYN,NCI,,,Y
+C7974,Rectal Undifferentiated Carcinoma,Rectal Undifferentiated Carcinoma,,Display_Name,,,,Y
+C7974,Rectal Undifferentiated Carcinoma,Rectal Undifferentiated Carcinoma,,Preferred_Name,,,,Y
+C7974,Rectal Undifferentiated Carcinoma,Undifferentiated Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C7974,Rectal Undifferentiated Carcinoma,Undifferentiated Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C7974,Rectal Undifferentiated Carcinoma,Undifferentiated Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C7974,Rectal Undifferentiated Carcinoma,Undifferentiated Rectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C9451,Rectal Well Differentiated Adenocarcinoma,Grade 1 Rectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9451,Rectal Well Differentiated Adenocarcinoma,Grade I Rectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C9451,Rectal Well Differentiated Adenocarcinoma,Rectal Well Differentiated Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C9451,Rectal Well Differentiated Adenocarcinoma,Rectal Well Differentiated Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C9451,Rectal Well Differentiated Adenocarcinoma,Rectal Well Differentiated Adenocarcinoma,,Preferred_Name,,,,Y
+C9451,Rectal Well Differentiated Adenocarcinoma,Well Differentiated Rectal Adenocarcinoma,SY,FULL_SYN,NCI,,,N
+C43584,Rectosigmoid Adenocarcinoma,Rectosigmoid Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C43584,Rectosigmoid Adenocarcinoma,Rectosigmoid Adenocarcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C43584,Rectosigmoid Adenocarcinoma,Rectosigmoid Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C43584,Rectosigmoid Adenocarcinoma,Rectosigmoid Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C43584,Rectosigmoid Adenocarcinoma,Rectosigmoid Adenocarcinoma,,Display_Name,,,,Y
+C43584,Rectosigmoid Adenocarcinoma,Rectosigmoid Adenocarcinoma,,Preferred_Name,,,,Y
+C90509,Rectosigmoid Cancer by AJCC v6 Stage,Rectosigmoid Cancer by AJCC v6 Stage,NAME,Concept_Name,NCIt,,,Y
+C90509,Rectosigmoid Cancer by AJCC v6 Stage,Rectosigmoid Cancer by AJCC v6 Stage,HD,FULL_SYN,NCI,,,N
+C90509,Rectosigmoid Cancer by AJCC v6 Stage,Rectosigmoid Cancer by AJCC v6 Stage,,Preferred_Name,,,,Y
+C90509,Rectosigmoid Cancer by AJCC v6 Stage,Rectosigmoid Carcinoma by AJCC v6 Stage,SY,FULL_SYN,NCI,,,N
+C91226,Rectosigmoid Cancer by AJCC v7 Stage,Rectosigmoid Cancer by AJCC v7 Stage,NAME,Concept_Name,NCIt,,,Y
+C91226,Rectosigmoid Cancer by AJCC v7 Stage,Rectosigmoid Cancer by AJCC v7 Stage,HD,FULL_SYN,NCI,,,N
+C91226,Rectosigmoid Cancer by AJCC v7 Stage,Rectosigmoid Cancer by AJCC v7 Stage,,Preferred_Name,,,,Y
+C91226,Rectosigmoid Cancer by AJCC v7 Stage,Rectosigmoid Carcinoma by AJCC v7 Stage,SY,FULL_SYN,NCI,,,N
+C7421,Rectosigmoid Carcinoma,Rectosigmoid Cancer,DN,FULL_SYN,CTRP,,,N
+C7421,Rectosigmoid Carcinoma,Rectosigmoid Cancer,SY,FULL_SYN,NCI,,,N
+C7421,Rectosigmoid Carcinoma,Rectosigmoid Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C7421,Rectosigmoid Carcinoma,Rectosigmoid Carcinoma,PT,FULL_SYN,Cellosaurus,,,Y
+C7421,Rectosigmoid Carcinoma,Rectosigmoid Carcinoma,PT,FULL_SYN,NCI,,,Y
+C7421,Rectosigmoid Carcinoma,Rectosigmoid Carcinoma,,Display_Name,,,,Y
+C7421,Rectosigmoid Carcinoma,Rectosigmoid Carcinoma,,Preferred_Name,,,,Y
+C226296,Rectosigmoid Carcinoma In Situ,Carcinoma in situ of rectosigmoid junction,PT,FULL_SYN,mCode,D01.1,ICD-10 CM,Y
+C226296,Rectosigmoid Carcinoma In Situ,Rectosigmoid Carcinoma In Situ,NAME,Concept_Name,NCIt,,,Y
+C226296,Rectosigmoid Carcinoma In Situ,Rectosigmoid Carcinoma In Situ,PT,FULL_SYN,NCI,,,Y
+C226296,Rectosigmoid Carcinoma In Situ,Rectosigmoid Carcinoma In Situ,,Preferred_Name,,,,Y
+C43592,Rectosigmoid Mucinous Adenocarcinoma,Rectosigmoid Mucinous Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C43592,Rectosigmoid Mucinous Adenocarcinoma,Rectosigmoid Mucinous Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C43592,Rectosigmoid Mucinous Adenocarcinoma,Rectosigmoid Mucinous Adenocarcinoma,,Preferred_Name,,,,Y
+C43593,Rectosigmoid Signet Ring Cell Adenocarcinoma,Rectosigmoid Signet Ring Cell Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C43593,Rectosigmoid Signet Ring Cell Adenocarcinoma,Rectosigmoid Signet Ring Cell Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C43593,Rectosigmoid Signet Ring Cell Adenocarcinoma,Rectosigmoid Signet Ring Cell Adenocarcinoma,,Preferred_Name,,,,Y
+C43593,Rectosigmoid Signet Ring Cell Adenocarcinoma,Rectosigmoid Signet Ring Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C43593,Rectosigmoid Signet Ring Cell Adenocarcinoma,Rectosigmoid Signet-Ring Cell Carcinoma,SY,FULL_SYN,NCI,,,N
+C162442,Recurrent Colon Adenocarcinoma,Recurrent Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162442,Recurrent Colon Adenocarcinoma,Recurrent Colon Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C162442,Recurrent Colon Adenocarcinoma,Recurrent Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162442,Recurrent Colon Adenocarcinoma,Recurrent Colon Adenocarcinoma,,Display_Name,,,,Y
+C162442,Recurrent Colon Adenocarcinoma,Recurrent Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C3998,Recurrent Colon Carcinoma,Recurrent Cancer of Colon,SY,FULL_SYN,NCI,,,N
+C3998,Recurrent Colon Carcinoma,Recurrent Cancer of the Colon,SY,FULL_SYN,NCI,,,N
+C3998,Recurrent Colon Carcinoma,Recurrent Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C3998,Recurrent Colon Carcinoma,Recurrent Colon Cancer,SY,FULL_SYN,NCI,,,N
+C3998,Recurrent Colon Carcinoma,Recurrent Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C3998,Recurrent Colon Carcinoma,Recurrent Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C3998,Recurrent Colon Carcinoma,Recurrent Colon Carcinoma,,Display_Name,,,,Y
+C3998,Recurrent Colon Carcinoma,Recurrent Colon Carcinoma,,Preferred_Name,,,,Y
+C162441,Recurrent Colorectal Adenocarcinoma,Recurrent Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162441,Recurrent Colorectal Adenocarcinoma,Recurrent Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162441,Recurrent Colorectal Adenocarcinoma,Recurrent Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C8625,Recurrent Colorectal Carcinoma,"Colorectal Cancer, Recurrent",SY,FULL_SYN,NCI,,,N
+C8625,Recurrent Colorectal Carcinoma,Colorectal Carcinoma Recurrent,SY,FULL_SYN,NCI,,,N
+C8625,Recurrent Colorectal Carcinoma,Recurrent Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C8625,Recurrent Colorectal Carcinoma,Recurrent Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C8625,Recurrent Colorectal Carcinoma,Recurrent Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C8625,Recurrent Colorectal Carcinoma,Recurrent Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C8625,Recurrent Colorectal Carcinoma,Recurrent Colorectal Carcinoma,,Display_Name,,,,Y
+C8625,Recurrent Colorectal Carcinoma,Recurrent Colorectal Carcinoma,,Preferred_Name,,,,Y
+C190679,Recurrent Microsatellite Stable Colorectal Carcinoma,Recurrent Microsatellite Stable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C190679,Recurrent Microsatellite Stable Colorectal Carcinoma,Recurrent Microsatellite Stable Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C190679,Recurrent Microsatellite Stable Colorectal Carcinoma,Recurrent Microsatellite Stable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C190679,Recurrent Microsatellite Stable Colorectal Carcinoma,Recurrent Microsatellite Stable Colorectal Carcinoma,,Display_Name,,,,Y
+C190679,Recurrent Microsatellite Stable Colorectal Carcinoma,Recurrent Microsatellite Stable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C162443,Recurrent Rectal Adenocarcinoma,Recurrent Rectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162443,Recurrent Rectal Adenocarcinoma,Recurrent Rectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C162443,Recurrent Rectal Adenocarcinoma,Recurrent Rectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162443,Recurrent Rectal Adenocarcinoma,Recurrent Rectal Adenocarcinoma,,Display_Name,,,,Y
+C162443,Recurrent Rectal Adenocarcinoma,Recurrent Rectal Adenocarcinoma,,Preferred_Name,,,,Y
+C9238,Recurrent Rectal Carcinoma,"Rectal Cancer, Recurrent",SY,FULL_SYN,NCI,,,N
+C9238,Recurrent Rectal Carcinoma,Recurrent Cancer of Rectum,SY,FULL_SYN,NCI,,,N
+C9238,Recurrent Rectal Carcinoma,Recurrent Cancer of the Rectum,SY,FULL_SYN,NCI,,,N
+C9238,Recurrent Rectal Carcinoma,Recurrent Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C9238,Recurrent Rectal Carcinoma,Recurrent Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C9238,Recurrent Rectal Carcinoma,Recurrent Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C9238,Recurrent Rectal Carcinoma,Recurrent Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C9238,Recurrent Rectal Carcinoma,Recurrent Rectal Carcinoma,,Display_Name,,,,Y
+C9238,Recurrent Rectal Carcinoma,Recurrent Rectal Carcinoma,,Preferred_Name,,,,Y
+C8634,Recurrent Rectosigmoid Carcinoma,"Rectosigmoid Cancer, Recurrent",SY,FULL_SYN,NCI,,,N
+C8634,Recurrent Rectosigmoid Carcinoma,Recurrent Rectosigmoid Cancer,DN,FULL_SYN,CTRP,,,N
+C8634,Recurrent Rectosigmoid Carcinoma,Recurrent Rectosigmoid Cancer,SY,FULL_SYN,NCI,,,N
+C8634,Recurrent Rectosigmoid Carcinoma,Recurrent Rectosigmoid Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C8634,Recurrent Rectosigmoid Carcinoma,Recurrent Rectosigmoid Carcinoma,PT,FULL_SYN,NCI,,,Y
+C8634,Recurrent Rectosigmoid Carcinoma,Recurrent Rectosigmoid Carcinoma,,Display_Name,,,,Y
+C8634,Recurrent Rectosigmoid Carcinoma,Recurrent Rectosigmoid Carcinoma,,Preferred_Name,,,,Y
+C8634,Recurrent Rectosigmoid Carcinoma,Relapsed Rectosigmoid Cancer,SY,FULL_SYN,NCI,,,N
+C214783,Recurrent Unresectable Colorectal Carcinoma,Recurrent Unresectable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C214783,Recurrent Unresectable Colorectal Carcinoma,Recurrent Unresectable Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C214783,Recurrent Unresectable Colorectal Carcinoma,Recurrent Unresectable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C214783,Recurrent Unresectable Colorectal Carcinoma,Recurrent Unresectable Colorectal Carcinoma,,Display_Name,,,,Y
+C214783,Recurrent Unresectable Colorectal Carcinoma,Recurrent Unresectable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C162155,Refractory Colon Adenocarcinoma,Refractory Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162155,Refractory Colon Adenocarcinoma,Refractory Colon Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C162155,Refractory Colon Adenocarcinoma,Refractory Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162155,Refractory Colon Adenocarcinoma,Refractory Colon Adenocarcinoma,,Display_Name,,,,Y
+C162155,Refractory Colon Adenocarcinoma,Refractory Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C153351,Refractory Colon Carcinoma,Refractory Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C153351,Refractory Colon Carcinoma,Refractory Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C153351,Refractory Colon Carcinoma,Refractory Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C153351,Refractory Colon Carcinoma,Refractory Colon Carcinoma,,Display_Name,,,,Y
+C153351,Refractory Colon Carcinoma,Refractory Colon Carcinoma,,Preferred_Name,,,,Y
+C162154,Refractory Colorectal Adenocarcinoma,Refractory Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162154,Refractory Colorectal Adenocarcinoma,Refractory Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162154,Refractory Colorectal Adenocarcinoma,Refractory Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C147982,Refractory Colorectal Carcinoma,Refractory Colorectal Cancer,DN,FULL_SYN,CTRP,,,N
+C147982,Refractory Colorectal Carcinoma,Refractory Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C147982,Refractory Colorectal Carcinoma,Refractory Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C147982,Refractory Colorectal Carcinoma,Refractory Colorectal Carcinoma,,Display_Name,,,,Y
+C147982,Refractory Colorectal Carcinoma,Refractory Colorectal Carcinoma,,Preferred_Name,,,,Y
+C213230,Refractory Metastatic Colorectal Adenocarcinoma,Refractory Metastatic Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C213230,Refractory Metastatic Colorectal Adenocarcinoma,Refractory Metastatic Colorectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C213230,Refractory Metastatic Colorectal Adenocarcinoma,Refractory Metastatic Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C213230,Refractory Metastatic Colorectal Adenocarcinoma,Refractory Metastatic Colorectal Adenocarcinoma,,Display_Name,,,,Y
+C213230,Refractory Metastatic Colorectal Adenocarcinoma,Refractory Metastatic Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C173332,Refractory Microsatellite Stable Colorectal Carcinoma,Refractory Microsatellite Stable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C173332,Refractory Microsatellite Stable Colorectal Carcinoma,Refractory Microsatellite Stable Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C173332,Refractory Microsatellite Stable Colorectal Carcinoma,Refractory Microsatellite Stable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C173332,Refractory Microsatellite Stable Colorectal Carcinoma,Refractory Microsatellite Stable Colorectal Carcinoma,,Display_Name,,,,Y
+C173332,Refractory Microsatellite Stable Colorectal Carcinoma,Refractory Microsatellite Stable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C218468,Refractory Mismatch Repair Proficient Colorectal Carcinoma,Refractory Mismatch Repair Proficient Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C218468,Refractory Mismatch Repair Proficient Colorectal Carcinoma,Refractory Mismatch Repair Proficient Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C218468,Refractory Mismatch Repair Proficient Colorectal Carcinoma,Refractory Mismatch Repair Proficient Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C218468,Refractory Mismatch Repair Proficient Colorectal Carcinoma,Refractory Mismatch Repair Proficient Colorectal Carcinoma,,Display_Name,,,,Y
+C218468,Refractory Mismatch Repair Proficient Colorectal Carcinoma,Refractory Mismatch Repair Proficient Colorectal Carcinoma,,Preferred_Name,,,,Y
+C218468,Refractory Mismatch Repair Proficient Colorectal Carcinoma,Refractory MMRp Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C162157,Refractory Rectal Adenocarcinoma,Refractory Rectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162157,Refractory Rectal Adenocarcinoma,Refractory Rectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C162157,Refractory Rectal Adenocarcinoma,Refractory Rectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162157,Refractory Rectal Adenocarcinoma,Refractory Rectal Adenocarcinoma,,Display_Name,,,,Y
+C162157,Refractory Rectal Adenocarcinoma,Refractory Rectal Adenocarcinoma,,Preferred_Name,,,,Y
+C162156,Refractory Rectal Carcinoma,Refractory Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C162156,Refractory Rectal Carcinoma,Refractory Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C162156,Refractory Rectal Carcinoma,Refractory Rectal Carcinoma,,Preferred_Name,,,,Y
+C177151,Refractory Rectal Squamous Cell Carcinoma,Refractory Rectal Squamous Cell Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C177151,Refractory Rectal Squamous Cell Carcinoma,Refractory Rectal Squamous Cell Carcinoma,DN,FULL_SYN,CTRP,,,N
+C177151,Refractory Rectal Squamous Cell Carcinoma,Refractory Rectal Squamous Cell Carcinoma,PT,FULL_SYN,NCI,,,Y
+C177151,Refractory Rectal Squamous Cell Carcinoma,Refractory Rectal Squamous Cell Carcinoma,,Display_Name,,,,Y
+C177151,Refractory Rectal Squamous Cell Carcinoma,Refractory Rectal Squamous Cell Carcinoma,,Preferred_Name,,,,Y
+C208027,Resectable Colon Adenocarcinoma,Resectable Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C208027,Resectable Colon Adenocarcinoma,Resectable Colon Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C208027,Resectable Colon Adenocarcinoma,Resectable Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C208027,Resectable Colon Adenocarcinoma,Resectable Colon Adenocarcinoma,,Display_Name,,,,Y
+C208027,Resectable Colon Adenocarcinoma,Resectable Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C167237,Resectable Colon Carcinoma,Resectable Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C167237,Resectable Colon Carcinoma,Resectable Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C167237,Resectable Colon Carcinoma,Resectable Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C167237,Resectable Colon Carcinoma,Resectable Colon Carcinoma,,Display_Name,,,,Y
+C167237,Resectable Colon Carcinoma,Resectable Colon Carcinoma,,Preferred_Name,,,,Y
+C212100,Resectable Colorectal Adenocarcinoma,Resectable Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C212100,Resectable Colorectal Adenocarcinoma,Resectable Colorectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C212100,Resectable Colorectal Adenocarcinoma,Resectable Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C212100,Resectable Colorectal Adenocarcinoma,Resectable Colorectal Adenocarcinoma,,Display_Name,,,,Y
+C212100,Resectable Colorectal Adenocarcinoma,Resectable Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C162257,Resectable Colorectal Carcinoma,Resectable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C162257,Resectable Colorectal Carcinoma,Resectable Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C162257,Resectable Colorectal Carcinoma,Resectable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C162257,Resectable Colorectal Carcinoma,Resectable Colorectal Carcinoma,,Display_Name,,,,Y
+C162257,Resectable Colorectal Carcinoma,Resectable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C213374,Sigmoid Colon Adenocarcinoma,Sigmoid Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C213374,Sigmoid Colon Adenocarcinoma,Sigmoid Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C213374,Sigmoid Colon Adenocarcinoma,Sigmoid Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C177680,Sigmoid Colon Carcinoma,Sigmoid Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C177680,Sigmoid Colon Carcinoma,Sigmoid Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C177680,Sigmoid Colon Carcinoma,Sigmoid Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C177680,Sigmoid Colon Carcinoma,Sigmoid Colon Carcinoma,,Display_Name,,,,Y
+C177680,Sigmoid Colon Carcinoma,Sigmoid Colon Carcinoma,,Preferred_Name,,,,Y
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Colon Cancer Stage 0,SY,FULL_SYN,NCI,,,N
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Colon Cancer AJCC v6,SY,FULL_SYN,NCI,,,N
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Colon Cancer AJCC v6 and v7,NAME,Concept_Name,NCIt,,,Y
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Colon Cancer AJCC v6 and v7,PT,FULL_SYN,CPTAC,,,Y
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Colon Cancer AJCC v6 and v7,PT,FULL_SYN,NCI,,,Y
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Colon Cancer AJCC v6 and v7,,Display_Name,,,,Y
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Colon Cancer AJCC v6 and v7,,Preferred_Name,,,,Y
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Colon Cancer AJCC v7,SY,FULL_SYN,NCI,,,N
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Colon Carcinoma,SY,FULL_SYN,NCI,,,N
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Stage 0 Colonic Carcinoma,SY,FULL_SYN,NCI,,,N
+C134271,Stage 0 Colon Cancer AJCC v8,Stage 0 Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134271,Stage 0 Colon Cancer AJCC v8,Stage 0 Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134271,Stage 0 Colon Cancer AJCC v8,Stage 0 Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134271,Stage 0 Colon Cancer AJCC v8,Stage 0 Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134271,Stage 0 Colon Cancer AJCC v8,Stage 0 Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,"Colorectal Cancer, Stage 0",SY,FULL_SYN,NCI,,,N
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,Colorectal Carcinoma Stage 0,SY,FULL_SYN,NCI,,,N
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,Stage 0 Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,Stage 0 Colorectal Cancer AJCC v6,SY,FULL_SYN,NCI,,,N
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,Stage 0 Colorectal Cancer AJCC v6 and v7,NAME,Concept_Name,NCIt,,,Y
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,Stage 0 Colorectal Cancer AJCC v6 and v7,PT,FULL_SYN,NCI,,,Y
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,Stage 0 Colorectal Cancer AJCC v6 and v7,,Display_Name,,,,Y
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,Stage 0 Colorectal Cancer AJCC v6 and v7,,Preferred_Name,,,,Y
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,Stage 0 Colorectal Cancer AJCC v7,SY,FULL_SYN,NCI,,,N
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,Stage 0 Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,stage 0 colorectal carcinoma in situ,PT,FULL_SYN,NCI-GLOSS,CDR0000352147,,Y
+C134182,Stage 0 Colorectal Cancer AJCC v8,Stage 0 Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134182,Stage 0 Colorectal Cancer AJCC v8,Stage 0 Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134182,Stage 0 Colorectal Cancer AJCC v8,Stage 0 Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134182,Stage 0 Colorectal Cancer AJCC v8,Stage 0 Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134182,Stage 0 Colorectal Cancer AJCC v8,Stage 0 Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134182,Stage 0 Colorectal Cancer AJCC v8,Stage 0 Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Rectal Cancer AJCC v6,SY,FULL_SYN,NCI,,,N
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Rectal Cancer AJCC v6 and v7,NAME,Concept_Name,NCIt,,,Y
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Rectal Cancer AJCC v6 and v7,PT,FULL_SYN,CPTAC,,,Y
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Rectal Cancer AJCC v6 and v7,PT,FULL_SYN,NCI,,,Y
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Rectal Cancer AJCC v6 and v7,,Display_Name,,,,Y
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Rectal Cancer AJCC v6 and v7,,Preferred_Name,,,,Y
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Rectal Cancer AJCC v7,SY,FULL_SYN,NCI,,,N
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Stage 0 Rectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C134291,Stage 0 Rectal Cancer AJCC v8,Stage 0 Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134291,Stage 0 Rectal Cancer AJCC v8,Stage 0 Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134291,Stage 0 Rectal Cancer AJCC v8,Stage 0 Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134291,Stage 0 Rectal Cancer AJCC v8,Stage 0 Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134291,Stage 0 Rectal Cancer AJCC v8,Stage 0 Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C5017,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,Stage 0 Rectosigmoid Cancer,DN,FULL_SYN,CTRP,,,N
+C5017,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,Stage 0 Rectosigmoid Cancer AJCC v6,SY,FULL_SYN,NCI,,,N
+C5017,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,NAME,Concept_Name,NCIt,,,Y
+C5017,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,DN,FULL_SYN,CTRP,,,N
+C5017,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,PT,FULL_SYN,NCI,,,Y
+C5017,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,,Display_Name,,,,Y
+C5017,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,,Preferred_Name,,,,Y
+C5017,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,Stage 0 Rectosigmoid Cancer AJCC v7,SY,FULL_SYN,NCI,,,N
+C5017,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,Stage 0 Rectosigmoid Carcinoma,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,AJCC Stage I Colon Cancer,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Colon Cancer Stage I,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,"Colon Cancer, Stage I",SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Dukes A Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Dukes A Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Dukes A Colon Carcinoma,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Dukes A Colonic Carcinoma,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Colon Cancer AJCC v6,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Colon Cancer AJCC v6 and v7,NAME,Concept_Name,NCIt,,,Y
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Colon Cancer AJCC v6 and v7,PT,FULL_SYN,NCI,,,Y
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Colon Cancer AJCC v6 and v7,,Display_Name,,,,Y
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Colon Cancer AJCC v6 and v7,,Preferred_Name,,,,Y
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Colon Cancer AJCC v7,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Colon Carcinoma,SY,FULL_SYN,NCI,,,N
+C9358,Stage I Colon Cancer AJCC v6 and v7,Stage I Colonic Carcinoma,SY,FULL_SYN,NCI,,,N
+C134273,Stage I Colon Cancer AJCC v8,Stage I Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134273,Stage I Colon Cancer AJCC v8,Stage I Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134273,Stage I Colon Cancer AJCC v8,Stage I Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134273,Stage I Colon Cancer AJCC v8,Stage I Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134273,Stage I Colon Cancer AJCC v8,Stage I Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,"Colorectal Cancer, Stage I",SY,FULL_SYN,NCI,,,N
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Dukes A colorectal cancer,PT,FULL_SYN,NCI-GLOSS,CDR0000520508,,Y
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Dukes A Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Stage I Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,stage I colorectal cancer,PT,FULL_SYN,NCI-GLOSS,CDR0000045890,,Y
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Stage I Colorectal Cancer AJCC v6,SY,FULL_SYN,NCI,,,N
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Stage I Colorectal Cancer AJCC v6 and v7,NAME,Concept_Name,NCIt,,,Y
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Stage I Colorectal Cancer AJCC v6 and v7,PT,FULL_SYN,NCI,,,Y
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Stage I Colorectal Cancer AJCC v6 and v7,,Display_Name,,,,Y
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Stage I Colorectal Cancer AJCC v6 and v7,,Preferred_Name,,,,Y
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Stage I Colorectal Cancer AJCC v7,SY,FULL_SYN,NCI,,,N
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Stage I Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C134185,Stage I Colorectal Cancer AJCC v8,Stage I Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134185,Stage I Colorectal Cancer AJCC v8,Stage I Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134185,Stage I Colorectal Cancer AJCC v8,Stage I Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134185,Stage I Colorectal Cancer AJCC v8,Stage I Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134185,Stage I Colorectal Cancer AJCC v8,Stage I Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134185,Stage I Colorectal Cancer AJCC v8,Stage I Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,AJCC Stage I Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Dukes A Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Dukes A Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Dukes A Rectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Rectal Cancer Stage I,SY,FULL_SYN,NCI,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Stage I Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Stage I Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Stage I Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Stage I Rectal Cancer AJCC v6,SY,FULL_SYN,NCI,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Stage I Rectal Cancer AJCC v6 and v7,NAME,Concept_Name,NCIt,,,Y
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Stage I Rectal Cancer AJCC v6 and v7,PT,FULL_SYN,NCI,,,Y
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Stage I Rectal Cancer AJCC v6 and v7,,Display_Name,,,,Y
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Stage I Rectal Cancer AJCC v6 and v7,,Preferred_Name,,,,Y
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Stage I Rectal Cancer AJCC v7,SY,FULL_SYN,NCI,,,N
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Stage I Rectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C134292,Stage I Rectal Cancer AJCC v8,Stage I Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134292,Stage I Rectal Cancer AJCC v8,Stage I Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134292,Stage I Rectal Cancer AJCC v8,Stage I Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134292,Stage I Rectal Cancer AJCC v8,Stage I Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134292,Stage I Rectal Cancer AJCC v8,Stage I Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C5016,Stage I Rectosigmoid Cancer AJCC v6 and v7,Stage I Rectosigmoid Cancer,DN,FULL_SYN,CTRP,,,N
+C5016,Stage I Rectosigmoid Cancer AJCC v6 and v7,Stage I Rectosigmoid Cancer AJCC v6,SY,FULL_SYN,NCI,,,N
+C5016,Stage I Rectosigmoid Cancer AJCC v6 and v7,Stage I Rectosigmoid Cancer AJCC v6 and v7,NAME,Concept_Name,NCIt,,,Y
+C5016,Stage I Rectosigmoid Cancer AJCC v6 and v7,Stage I Rectosigmoid Cancer AJCC v6 and v7,PT,FULL_SYN,NCI,,,Y
+C5016,Stage I Rectosigmoid Cancer AJCC v6 and v7,Stage I Rectosigmoid Cancer AJCC v6 and v7,,Display_Name,,,,Y
+C5016,Stage I Rectosigmoid Cancer AJCC v6 and v7,Stage I Rectosigmoid Cancer AJCC v6 and v7,,Preferred_Name,,,,Y
+C5016,Stage I Rectosigmoid Cancer AJCC v6 and v7,Stage I Rectosigmoid Cancer AJCC v7,SY,FULL_SYN,NCI,,,N
+C5016,Stage I Rectosigmoid Cancer AJCC v6 and v7,Stage I Rectosigmoid Carcinoma,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,AJCC Stage II Colon Cancer v6,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Colon Cancer Stage II AJCC v6,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Dukes B Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Dukes B Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Dukes B Colon Carcinoma,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Dukes B Colonic Carcinoma,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Stage II Cancer of Colon AJCC v6,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Stage II Cancer of the Colon AJCC v6,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Stage II Carcinoma of Colon AJCC v6,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Stage II Carcinoma of the Colon AJCC v6,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Stage II Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C3993,Stage II Colon Cancer AJCC v6,Stage II Colon Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C3993,Stage II Colon Cancer AJCC v6,Stage II Colon Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C3993,Stage II Colon Cancer AJCC v6,Stage II Colon Cancer AJCC v6,,Display_Name,,,,Y
+C3993,Stage II Colon Cancer AJCC v6,Stage II Colon Cancer AJCC v6,,Preferred_Name,,,,Y
+C3993,Stage II Colon Cancer AJCC v6,Stage II Colon Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C3993,Stage II Colon Cancer AJCC v6,Stage II Colonic Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C89990,Stage II Colon Cancer AJCC v7,Stage II Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C89990,Stage II Colon Cancer AJCC v7,Stage II Colon Cancer,SY,FULL_SYN,NCI,,,N
+C89990,Stage II Colon Cancer AJCC v7,Stage II Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C89990,Stage II Colon Cancer AJCC v7,Stage II Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C89990,Stage II Colon Cancer AJCC v7,Stage II Colon Cancer AJCC v7,,Display_Name,,,,Y
+C89990,Stage II Colon Cancer AJCC v7,Stage II Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134274,Stage II Colon Cancer AJCC v8,Stage II Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134274,Stage II Colon Cancer AJCC v8,Stage II Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134274,Stage II Colon Cancer AJCC v8,Stage II Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134274,Stage II Colon Cancer AJCC v8,Stage II Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134274,Stage II Colon Cancer AJCC v8,Stage II Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C8514,Stage II Colorectal Cancer AJCC v6,"Colorectal Cancer, Stage II AJCC v6",SY,FULL_SYN,NCI,,,N
+C8514,Stage II Colorectal Cancer AJCC v6,Colorectal Carcinoma Stage II AJCC v6,SY,FULL_SYN,NCI,,,N
+C8514,Stage II Colorectal Cancer AJCC v6,Dukes B colorectal cancer,PT,FULL_SYN,NCI-GLOSS,CDR0000520509,,Y
+C8514,Stage II Colorectal Cancer AJCC v6,Dukes B Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C8514,Stage II Colorectal Cancer AJCC v6,Stage II Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C8514,Stage II Colorectal Cancer AJCC v6,stage II colorectal cancer,PT,FULL_SYN,NCI-GLOSS,CDR0000045891,,Y
+C8514,Stage II Colorectal Cancer AJCC v6,Stage II Colorectal Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C8514,Stage II Colorectal Cancer AJCC v6,Stage II Colorectal Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C8514,Stage II Colorectal Cancer AJCC v6,Stage II Colorectal Cancer AJCC v6,,Display_Name,,,,Y
+C8514,Stage II Colorectal Cancer AJCC v6,Stage II Colorectal Cancer AJCC v6,,Preferred_Name,,,,Y
+C8514,Stage II Colorectal Cancer AJCC v6,Stage II Colorectal Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C89989,Stage II Colorectal Cancer AJCC v7,Stage II Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C89989,Stage II Colorectal Cancer AJCC v7,Stage II Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C89989,Stage II Colorectal Cancer AJCC v7,Stage II Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C89989,Stage II Colorectal Cancer AJCC v7,Stage II Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C89989,Stage II Colorectal Cancer AJCC v7,Stage II Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C89989,Stage II Colorectal Cancer AJCC v7,Stage II Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134186,Stage II Colorectal Cancer AJCC v8,Stage II Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134186,Stage II Colorectal Cancer AJCC v8,Stage II Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134186,Stage II Colorectal Cancer AJCC v8,Stage II Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134186,Stage II Colorectal Cancer AJCC v8,Stage II Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134186,Stage II Colorectal Cancer AJCC v8,Stage II Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134186,Stage II Colorectal Cancer AJCC v8,Stage II Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C7791,Stage II Rectal Cancer AJCC v6,AJCC Stage II Rectal Cancer v6,SY,FULL_SYN,NCI,,,N
+C7791,Stage II Rectal Cancer AJCC v6,Dukes B Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C7791,Stage II Rectal Cancer AJCC v6,Dukes B Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C7791,Stage II Rectal Cancer AJCC v6,Dukes B Rectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C7791,Stage II Rectal Cancer AJCC v6,Rectal Cancer Stage II AJCC v6,SY,FULL_SYN,NCI,,,N
+C7791,Stage II Rectal Cancer AJCC v6,Stage II Carcinoma of Rectum AJCC v6,SY,FULL_SYN,NCI,,,N
+C7791,Stage II Rectal Cancer AJCC v6,Stage II Carcinoma of the Rectum AJCC v6,SY,FULL_SYN,NCI,,,N
+C7791,Stage II Rectal Cancer AJCC v6,Stage II Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C7791,Stage II Rectal Cancer AJCC v6,Stage II Rectal Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C7791,Stage II Rectal Cancer AJCC v6,Stage II Rectal Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C7791,Stage II Rectal Cancer AJCC v6,Stage II Rectal Cancer AJCC v6,,Display_Name,,,,Y
+C7791,Stage II Rectal Cancer AJCC v6,Stage II Rectal Cancer AJCC v6,,Preferred_Name,,,,Y
+C7791,Stage II Rectal Cancer AJCC v6,Stage II Rectal Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C89991,Stage II Rectal Cancer AJCC v7,Stage II Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C89991,Stage II Rectal Cancer AJCC v7,Stage II Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C89991,Stage II Rectal Cancer AJCC v7,Stage II Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C89991,Stage II Rectal Cancer AJCC v7,Stage II Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C89991,Stage II Rectal Cancer AJCC v7,Stage II Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C89991,Stage II Rectal Cancer AJCC v7,Stage II Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134293,Stage II Rectal Cancer AJCC v8,Stage II Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134293,Stage II Rectal Cancer AJCC v8,Stage II Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134293,Stage II Rectal Cancer AJCC v8,Stage II Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134293,Stage II Rectal Cancer AJCC v8,Stage II Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134293,Stage II Rectal Cancer AJCC v8,Stage II Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C5015,Stage II Rectosigmoid Cancer AJCC v6,Stage II Rectosigmoid Cancer,DN,FULL_SYN,CTRP,,,N
+C5015,Stage II Rectosigmoid Cancer AJCC v6,Stage II Rectosigmoid Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C5015,Stage II Rectosigmoid Cancer AJCC v6,Stage II Rectosigmoid Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C5015,Stage II Rectosigmoid Cancer AJCC v6,Stage II Rectosigmoid Cancer AJCC v6,,Display_Name,,,,Y
+C5015,Stage II Rectosigmoid Cancer AJCC v6,Stage II Rectosigmoid Cancer AJCC v6,,Preferred_Name,,,,Y
+C5015,Stage II Rectosigmoid Cancer AJCC v6,Stage II Rectosigmoid Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C89992,Stage II Rectosigmoid Cancer AJCC v7,Stage II Rectosigmoid Cancer,DN,FULL_SYN,CTRP,,,N
+C89992,Stage II Rectosigmoid Cancer AJCC v7,Stage II Rectosigmoid Cancer,SY,FULL_SYN,NCI,,,N
+C89992,Stage II Rectosigmoid Cancer AJCC v7,Stage II Rectosigmoid Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C89992,Stage II Rectosigmoid Cancer AJCC v7,Stage II Rectosigmoid Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C89992,Stage II Rectosigmoid Cancer AJCC v7,Stage II Rectosigmoid Cancer AJCC v7,,Display_Name,,,,Y
+C89992,Stage II Rectosigmoid Cancer AJCC v7,Stage II Rectosigmoid Cancer AJCC v7,,Preferred_Name,,,,Y
+C115041,Stage IIA Colon Cancer AJCC v7,Stage IIA Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C115041,Stage IIA Colon Cancer AJCC v7,Stage IIA Colon Cancer,SY,FULL_SYN,NCI,,,N
+C115041,Stage IIA Colon Cancer AJCC v7,Stage IIA Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115041,Stage IIA Colon Cancer AJCC v7,Stage IIA Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115041,Stage IIA Colon Cancer AJCC v7,Stage IIA Colon Cancer AJCC v7,,Display_Name,,,,Y
+C115041,Stage IIA Colon Cancer AJCC v7,Stage IIA Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134280,Stage IIA Colon Cancer AJCC v8,Stage IIA Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134280,Stage IIA Colon Cancer AJCC v8,Stage IIA Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134280,Stage IIA Colon Cancer AJCC v8,Stage IIA Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134280,Stage IIA Colon Cancer AJCC v8,Stage IIA Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134280,Stage IIA Colon Cancer AJCC v8,Stage IIA Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C87813,Stage IIA Colorectal Cancer AJCC v7,Stage IIA Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C87813,Stage IIA Colorectal Cancer AJCC v7,Stage IIA Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C87813,Stage IIA Colorectal Cancer AJCC v7,Stage IIA Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C87813,Stage IIA Colorectal Cancer AJCC v7,Stage IIA Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C87813,Stage IIA Colorectal Cancer AJCC v7,Stage IIA Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C87813,Stage IIA Colorectal Cancer AJCC v7,Stage IIA Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134187,Stage IIA Colorectal Cancer AJCC v8,Stage IIA Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134187,Stage IIA Colorectal Cancer AJCC v8,Stage IIA Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134187,Stage IIA Colorectal Cancer AJCC v8,Stage IIA Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134187,Stage IIA Colorectal Cancer AJCC v8,Stage IIA Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134187,Stage IIA Colorectal Cancer AJCC v8,Stage IIA Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134187,Stage IIA Colorectal Cancer AJCC v8,Stage IIA Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C115044,Stage IIA Rectal Cancer AJCC v7,Stage IIA Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C115044,Stage IIA Rectal Cancer AJCC v7,Stage IIA Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C115044,Stage IIA Rectal Cancer AJCC v7,Stage IIA Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115044,Stage IIA Rectal Cancer AJCC v7,Stage IIA Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115044,Stage IIA Rectal Cancer AJCC v7,Stage IIA Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C115044,Stage IIA Rectal Cancer AJCC v7,Stage IIA Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134294,Stage IIA Rectal Cancer AJCC v8,Stage IIA Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134294,Stage IIA Rectal Cancer AJCC v8,Stage IIA Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134294,Stage IIA Rectal Cancer AJCC v8,Stage IIA Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134294,Stage IIA Rectal Cancer AJCC v8,Stage IIA Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134294,Stage IIA Rectal Cancer AJCC v8,Stage IIA Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C115042,Stage IIB Colon Cancer AJCC v7,Stage IIB Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C115042,Stage IIB Colon Cancer AJCC v7,Stage IIB Colon Cancer,SY,FULL_SYN,NCI,,,N
+C115042,Stage IIB Colon Cancer AJCC v7,Stage IIB Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115042,Stage IIB Colon Cancer AJCC v7,Stage IIB Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115042,Stage IIB Colon Cancer AJCC v7,Stage IIB Colon Cancer AJCC v7,,Display_Name,,,,Y
+C115042,Stage IIB Colon Cancer AJCC v7,Stage IIB Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134281,Stage IIB Colon Cancer AJCC v8,Stage IIB Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134281,Stage IIB Colon Cancer AJCC v8,Stage IIB Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134281,Stage IIB Colon Cancer AJCC v8,Stage IIB Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134281,Stage IIB Colon Cancer AJCC v8,Stage IIB Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134281,Stage IIB Colon Cancer AJCC v8,Stage IIB Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C87814,Stage IIB Colorectal Cancer AJCC v7,Stage IIB Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C87814,Stage IIB Colorectal Cancer AJCC v7,Stage IIB Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C87814,Stage IIB Colorectal Cancer AJCC v7,Stage IIB Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C87814,Stage IIB Colorectal Cancer AJCC v7,Stage IIB Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C87814,Stage IIB Colorectal Cancer AJCC v7,Stage IIB Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C87814,Stage IIB Colorectal Cancer AJCC v7,Stage IIB Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134188,Stage IIB Colorectal Cancer AJCC v8,Stage IIB Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134188,Stage IIB Colorectal Cancer AJCC v8,Stage IIB Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134188,Stage IIB Colorectal Cancer AJCC v8,Stage IIB Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134188,Stage IIB Colorectal Cancer AJCC v8,Stage IIB Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134188,Stage IIB Colorectal Cancer AJCC v8,Stage IIB Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134188,Stage IIB Colorectal Cancer AJCC v8,Stage IIB Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C115045,Stage IIB Rectal Cancer AJCC v7,Stage IIB Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C115045,Stage IIB Rectal Cancer AJCC v7,Stage IIB Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C115045,Stage IIB Rectal Cancer AJCC v7,Stage IIB Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115045,Stage IIB Rectal Cancer AJCC v7,Stage IIB Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115045,Stage IIB Rectal Cancer AJCC v7,Stage IIB Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C115045,Stage IIB Rectal Cancer AJCC v7,Stage IIB Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134295,Stage IIB Rectal Cancer AJCC v8,Stage IIB Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134295,Stage IIB Rectal Cancer AJCC v8,Stage IIB Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134295,Stage IIB Rectal Cancer AJCC v8,Stage IIB Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134295,Stage IIB Rectal Cancer AJCC v8,Stage IIB Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134295,Stage IIB Rectal Cancer AJCC v8,Stage IIB Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C115043,Stage IIC Colon Cancer AJCC v7,Stage IIC Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C115043,Stage IIC Colon Cancer AJCC v7,Stage IIC Colon Cancer,SY,FULL_SYN,NCI,,,N
+C115043,Stage IIC Colon Cancer AJCC v7,Stage IIC Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115043,Stage IIC Colon Cancer AJCC v7,Stage IIC Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115043,Stage IIC Colon Cancer AJCC v7,Stage IIC Colon Cancer AJCC v7,,Display_Name,,,,Y
+C115043,Stage IIC Colon Cancer AJCC v7,Stage IIC Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134282,Stage IIC Colon Cancer AJCC v8,Stage IIC Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134282,Stage IIC Colon Cancer AJCC v8,Stage IIC Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134282,Stage IIC Colon Cancer AJCC v8,Stage IIC Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134282,Stage IIC Colon Cancer AJCC v8,Stage IIC Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134282,Stage IIC Colon Cancer AJCC v8,Stage IIC Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C87815,Stage IIC Colorectal Cancer AJCC v7,Stage IIC Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C87815,Stage IIC Colorectal Cancer AJCC v7,Stage IIC Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C87815,Stage IIC Colorectal Cancer AJCC v7,Stage IIC Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C87815,Stage IIC Colorectal Cancer AJCC v7,Stage IIC Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C87815,Stage IIC Colorectal Cancer AJCC v7,Stage IIC Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C87815,Stage IIC Colorectal Cancer AJCC v7,Stage IIC Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134190,Stage IIC Colorectal Cancer AJCC v8,Stage IIC Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134190,Stage IIC Colorectal Cancer AJCC v8,Stage IIC Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134190,Stage IIC Colorectal Cancer AJCC v8,Stage IIC Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134190,Stage IIC Colorectal Cancer AJCC v8,Stage IIC Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134190,Stage IIC Colorectal Cancer AJCC v8,Stage IIC Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134190,Stage IIC Colorectal Cancer AJCC v8,Stage IIC Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C115046,Stage IIC Rectal Cancer AJCC v7,Stage IIC Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C115046,Stage IIC Rectal Cancer AJCC v7,Stage IIC Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C115046,Stage IIC Rectal Cancer AJCC v7,Stage IIC Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115046,Stage IIC Rectal Cancer AJCC v7,Stage IIC Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115046,Stage IIC Rectal Cancer AJCC v7,Stage IIC Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C115046,Stage IIC Rectal Cancer AJCC v7,Stage IIC Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134296,Stage IIC Rectal Cancer AJCC v8,Stage IIC Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134296,Stage IIC Rectal Cancer AJCC v8,Stage IIC Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134296,Stage IIC Rectal Cancer AJCC v8,Stage IIC Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134296,Stage IIC Rectal Cancer AJCC v8,Stage IIC Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134296,Stage IIC Rectal Cancer AJCC v8,Stage IIC Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C7766,Stage III Colon Cancer AJCC v6,AJCC Stage III Colon Cancer v6,SY,FULL_SYN,NCI,,,N
+C7766,Stage III Colon Cancer AJCC v6,Colon Cancer Stage III AJCC v6,SY,FULL_SYN,NCI,,,N
+C7766,Stage III Colon Cancer AJCC v6,"Colon Cancer, Stage III AJCC v6",SY,FULL_SYN,NCI,,,N
+C7766,Stage III Colon Cancer AJCC v6,Dukes C Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C7766,Stage III Colon Cancer AJCC v6,Dukes C Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C7766,Stage III Colon Cancer AJCC v6,Dukes C Colon Carcinoma,SY,FULL_SYN,NCI,,,N
+C7766,Stage III Colon Cancer AJCC v6,Dukes C Colonic Carcinoma,SY,FULL_SYN,NCI,,,N
+C7766,Stage III Colon Cancer AJCC v6,Stage III Carcinoma of Colon AJCC v6,SY,FULL_SYN,NCI,,,N
+C7766,Stage III Colon Cancer AJCC v6,Stage III Carcinoma of the Colon AJCC v6,SY,FULL_SYN,NCI,,,N
+C7766,Stage III Colon Cancer AJCC v6,Stage III Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C7766,Stage III Colon Cancer AJCC v6,Stage III Colon Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C7766,Stage III Colon Cancer AJCC v6,Stage III Colon Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C7766,Stage III Colon Cancer AJCC v6,Stage III Colon Cancer AJCC v6,,Display_Name,,,,Y
+C7766,Stage III Colon Cancer AJCC v6,Stage III Colon Cancer AJCC v6,,Preferred_Name,,,,Y
+C7766,Stage III Colon Cancer AJCC v6,Stage III Colon Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C7766,Stage III Colon Cancer AJCC v6,Stage III Colonic Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C89995,Stage III Colon Cancer AJCC v7,Stage III Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C89995,Stage III Colon Cancer AJCC v7,Stage III Colon Cancer,SY,FULL_SYN,NCI,,,N
+C89995,Stage III Colon Cancer AJCC v7,Stage III Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C89995,Stage III Colon Cancer AJCC v7,Stage III Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C89995,Stage III Colon Cancer AJCC v7,Stage III Colon Cancer AJCC v7,,Display_Name,,,,Y
+C89995,Stage III Colon Cancer AJCC v7,Stage III Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134283,Stage III Colon Cancer AJCC v8,Stage III Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134283,Stage III Colon Cancer AJCC v8,Stage III Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134283,Stage III Colon Cancer AJCC v8,Stage III Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134283,Stage III Colon Cancer AJCC v8,Stage III Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134283,Stage III Colon Cancer AJCC v8,Stage III Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C8515,Stage III Colorectal Cancer AJCC v6,"Colorectal Cancer, Stage III AJCC v6",SY,FULL_SYN,NCI,,,N
+C8515,Stage III Colorectal Cancer AJCC v6,Dukes C colorectal cancer,PT,FULL_SYN,NCI-GLOSS,CDR0000520510,,Y
+C8515,Stage III Colorectal Cancer AJCC v6,Dukes C Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C8515,Stage III Colorectal Cancer AJCC v6,Stage III Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C8515,Stage III Colorectal Cancer AJCC v6,stage III colorectal cancer,PT,FULL_SYN,NCI-GLOSS,CDR0000045892,,Y
+C8515,Stage III Colorectal Cancer AJCC v6,Stage III Colorectal Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C8515,Stage III Colorectal Cancer AJCC v6,Stage III Colorectal Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C8515,Stage III Colorectal Cancer AJCC v6,Stage III Colorectal Cancer AJCC v6,,Display_Name,,,,Y
+C8515,Stage III Colorectal Cancer AJCC v6,Stage III Colorectal Cancer AJCC v6,,Preferred_Name,,,,Y
+C8515,Stage III Colorectal Cancer AJCC v6,Stage III Colorectal Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C89994,Stage III Colorectal Cancer AJCC v7,Stage III Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C89994,Stage III Colorectal Cancer AJCC v7,Stage III Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C89994,Stage III Colorectal Cancer AJCC v7,Stage III Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C89994,Stage III Colorectal Cancer AJCC v7,Stage III Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C89994,Stage III Colorectal Cancer AJCC v7,Stage III Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C89994,Stage III Colorectal Cancer AJCC v7,Stage III Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134191,Stage III Colorectal Cancer AJCC v8,Stage III Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134191,Stage III Colorectal Cancer AJCC v8,Stage III Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134191,Stage III Colorectal Cancer AJCC v8,Stage III Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134191,Stage III Colorectal Cancer AJCC v8,Stage III Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134191,Stage III Colorectal Cancer AJCC v8,Stage III Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134191,Stage III Colorectal Cancer AJCC v8,Stage III Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C7792,Stage III Rectal Cancer AJCC v6,AJCC Stage III Rectal Cancer v6,SY,FULL_SYN,NCI,,,N
+C7792,Stage III Rectal Cancer AJCC v6,Dukes C Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C7792,Stage III Rectal Cancer AJCC v6,Dukes C Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C7792,Stage III Rectal Cancer AJCC v6,Dukes C Rectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C7792,Stage III Rectal Cancer AJCC v6,Rectal Cancer Stage III AJCC v6,SY,FULL_SYN,NCI,,,N
+C7792,Stage III Rectal Cancer AJCC v6,Stage III Carcinoma of Rectum AJCC v6,SY,FULL_SYN,NCI,,,N
+C7792,Stage III Rectal Cancer AJCC v6,Stage III Carcinoma of the Rectum AJCC v6,SY,FULL_SYN,NCI,,,N
+C7792,Stage III Rectal Cancer AJCC v6,Stage III Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C7792,Stage III Rectal Cancer AJCC v6,Stage III Rectal Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C7792,Stage III Rectal Cancer AJCC v6,Stage III Rectal Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C7792,Stage III Rectal Cancer AJCC v6,Stage III Rectal Cancer AJCC v6,,Display_Name,,,,Y
+C7792,Stage III Rectal Cancer AJCC v6,Stage III Rectal Cancer AJCC v6,,Preferred_Name,,,,Y
+C7792,Stage III Rectal Cancer AJCC v6,Stage III Rectal Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C89996,Stage III Rectal Cancer AJCC v7,Stage III Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C89996,Stage III Rectal Cancer AJCC v7,Stage III Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C89996,Stage III Rectal Cancer AJCC v7,Stage III Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C89996,Stage III Rectal Cancer AJCC v7,Stage III Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C89996,Stage III Rectal Cancer AJCC v7,Stage III Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C89996,Stage III Rectal Cancer AJCC v7,Stage III Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134297,Stage III Rectal Cancer AJCC v8,Stage III Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134297,Stage III Rectal Cancer AJCC v8,Stage III Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134297,Stage III Rectal Cancer AJCC v8,Stage III Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134297,Stage III Rectal Cancer AJCC v8,Stage III Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134297,Stage III Rectal Cancer AJCC v8,Stage III Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C8635,Stage III Rectosigmoid Cancer AJCC v6,Stage III Rectosigmoid Cancer,DN,FULL_SYN,CTRP,,,N
+C8635,Stage III Rectosigmoid Cancer AJCC v6,Stage III Rectosigmoid Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C8635,Stage III Rectosigmoid Cancer AJCC v6,Stage III Rectosigmoid Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C8635,Stage III Rectosigmoid Cancer AJCC v6,Stage III Rectosigmoid Cancer AJCC v6,,Display_Name,,,,Y
+C8635,Stage III Rectosigmoid Cancer AJCC v6,Stage III Rectosigmoid Cancer AJCC v6,,Preferred_Name,,,,Y
+C8635,Stage III Rectosigmoid Cancer AJCC v6,Stage III Rectosigmoid Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C89997,Stage III Rectosigmoid Cancer AJCC v7,Stage III Rectosigmoid Cancer,DN,FULL_SYN,CTRP,,,N
+C89997,Stage III Rectosigmoid Cancer AJCC v7,Stage III Rectosigmoid Cancer,SY,FULL_SYN,NCI,,,N
+C89997,Stage III Rectosigmoid Cancer AJCC v7,Stage III Rectosigmoid Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C89997,Stage III Rectosigmoid Cancer AJCC v7,Stage III Rectosigmoid Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C89997,Stage III Rectosigmoid Cancer AJCC v7,Stage III Rectosigmoid Cancer AJCC v7,,Display_Name,,,,Y
+C89997,Stage III Rectosigmoid Cancer AJCC v7,Stage III Rectosigmoid Cancer AJCC v7,,Preferred_Name,,,,Y
+C115047,Stage IIIA Colon Cancer AJCC v7,Stage IIIA Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C115047,Stage IIIA Colon Cancer AJCC v7,Stage IIIA Colon Cancer,SY,FULL_SYN,NCI,,,N
+C115047,Stage IIIA Colon Cancer AJCC v7,Stage IIIA Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115047,Stage IIIA Colon Cancer AJCC v7,Stage IIIA Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115047,Stage IIIA Colon Cancer AJCC v7,Stage IIIA Colon Cancer AJCC v7,,Display_Name,,,,Y
+C115047,Stage IIIA Colon Cancer AJCC v7,Stage IIIA Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134284,Stage IIIA Colon Cancer AJCC v8,Stage IIIA Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134284,Stage IIIA Colon Cancer AJCC v8,Stage IIIA Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134284,Stage IIIA Colon Cancer AJCC v8,Stage IIIA Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134284,Stage IIIA Colon Cancer AJCC v8,Stage IIIA Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134284,Stage IIIA Colon Cancer AJCC v8,Stage IIIA Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C87816,Stage IIIA Colorectal Cancer AJCC v7,Stage IIIA Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C87816,Stage IIIA Colorectal Cancer AJCC v7,Stage IIIA Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C87816,Stage IIIA Colorectal Cancer AJCC v7,Stage IIIA Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C87816,Stage IIIA Colorectal Cancer AJCC v7,Stage IIIA Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C87816,Stage IIIA Colorectal Cancer AJCC v7,Stage IIIA Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C87816,Stage IIIA Colorectal Cancer AJCC v7,Stage IIIA Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134192,Stage IIIA Colorectal Cancer AJCC v8,Stage IIIA Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134192,Stage IIIA Colorectal Cancer AJCC v8,Stage IIIA Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134192,Stage IIIA Colorectal Cancer AJCC v8,Stage IIIA Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134192,Stage IIIA Colorectal Cancer AJCC v8,Stage IIIA Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134192,Stage IIIA Colorectal Cancer AJCC v8,Stage IIIA Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134192,Stage IIIA Colorectal Cancer AJCC v8,Stage IIIA Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C115050,Stage IIIA Rectal Cancer AJCC v7,Stage IIIA Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C115050,Stage IIIA Rectal Cancer AJCC v7,Stage IIIA Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C115050,Stage IIIA Rectal Cancer AJCC v7,Stage IIIA Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115050,Stage IIIA Rectal Cancer AJCC v7,Stage IIIA Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115050,Stage IIIA Rectal Cancer AJCC v7,Stage IIIA Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C115050,Stage IIIA Rectal Cancer AJCC v7,Stage IIIA Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134298,Stage IIIA Rectal Cancer AJCC v8,Stage IIIA Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134298,Stage IIIA Rectal Cancer AJCC v8,Stage IIIA Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134298,Stage IIIA Rectal Cancer AJCC v8,Stage IIIA Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134298,Stage IIIA Rectal Cancer AJCC v8,Stage IIIA Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134298,Stage IIIA Rectal Cancer AJCC v8,Stage IIIA Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C115048,Stage IIIB Colon Cancer AJCC v7,Stage IIIB Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C115048,Stage IIIB Colon Cancer AJCC v7,Stage IIIB Colon Cancer,SY,FULL_SYN,NCI,,,N
+C115048,Stage IIIB Colon Cancer AJCC v7,Stage IIIB Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115048,Stage IIIB Colon Cancer AJCC v7,Stage IIIB Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115048,Stage IIIB Colon Cancer AJCC v7,Stage IIIB Colon Cancer AJCC v7,,Display_Name,,,,Y
+C115048,Stage IIIB Colon Cancer AJCC v7,Stage IIIB Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134285,Stage IIIB Colon Cancer AJCC v8,Stage IIIB Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134285,Stage IIIB Colon Cancer AJCC v8,Stage IIIB Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134285,Stage IIIB Colon Cancer AJCC v8,Stage IIIB Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134285,Stage IIIB Colon Cancer AJCC v8,Stage IIIB Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134285,Stage IIIB Colon Cancer AJCC v8,Stage IIIB Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C87817,Stage IIIB Colorectal Cancer AJCC v7,Stage IIIB Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C87817,Stage IIIB Colorectal Cancer AJCC v7,Stage IIIB Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C87817,Stage IIIB Colorectal Cancer AJCC v7,Stage IIIB Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C87817,Stage IIIB Colorectal Cancer AJCC v7,Stage IIIB Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C87817,Stage IIIB Colorectal Cancer AJCC v7,Stage IIIB Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C87817,Stage IIIB Colorectal Cancer AJCC v7,Stage IIIB Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134193,Stage IIIB Colorectal Cancer AJCC v8,Stage IIIB Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134193,Stage IIIB Colorectal Cancer AJCC v8,Stage IIIB Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134193,Stage IIIB Colorectal Cancer AJCC v8,Stage IIIB Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134193,Stage IIIB Colorectal Cancer AJCC v8,Stage IIIB Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134193,Stage IIIB Colorectal Cancer AJCC v8,Stage IIIB Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134193,Stage IIIB Colorectal Cancer AJCC v8,Stage IIIB Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C115051,Stage IIIB Rectal Cancer AJCC v7,Stage IIIB Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C115051,Stage IIIB Rectal Cancer AJCC v7,Stage IIIB Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C115051,Stage IIIB Rectal Cancer AJCC v7,Stage IIIB Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115051,Stage IIIB Rectal Cancer AJCC v7,Stage IIIB Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115051,Stage IIIB Rectal Cancer AJCC v7,Stage IIIB Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C115051,Stage IIIB Rectal Cancer AJCC v7,Stage IIIB Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134299,Stage IIIB Rectal Cancer AJCC v8,Stage IIIB Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134299,Stage IIIB Rectal Cancer AJCC v8,Stage IIIB Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134299,Stage IIIB Rectal Cancer AJCC v8,Stage IIIB Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134299,Stage IIIB Rectal Cancer AJCC v8,Stage IIIB Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134299,Stage IIIB Rectal Cancer AJCC v8,Stage IIIB Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C115049,Stage IIIC Colon Cancer AJCC v7,Stage IIIC Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C115049,Stage IIIC Colon Cancer AJCC v7,Stage IIIC Colon Cancer,SY,FULL_SYN,NCI,,,N
+C115049,Stage IIIC Colon Cancer AJCC v7,Stage IIIC Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115049,Stage IIIC Colon Cancer AJCC v7,Stage IIIC Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115049,Stage IIIC Colon Cancer AJCC v7,Stage IIIC Colon Cancer AJCC v7,,Display_Name,,,,Y
+C115049,Stage IIIC Colon Cancer AJCC v7,Stage IIIC Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134286,Stage IIIC Colon Cancer AJCC v8,Stage IIIC Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134286,Stage IIIC Colon Cancer AJCC v8,Stage IIIC Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134286,Stage IIIC Colon Cancer AJCC v8,Stage IIIC Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134286,Stage IIIC Colon Cancer AJCC v8,Stage IIIC Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134286,Stage IIIC Colon Cancer AJCC v8,Stage IIIC Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C87818,Stage IIIC Colorectal Cancer AJCC v7,Stage IIIC Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C87818,Stage IIIC Colorectal Cancer AJCC v7,Stage IIIC Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C87818,Stage IIIC Colorectal Cancer AJCC v7,Stage IIIC Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C87818,Stage IIIC Colorectal Cancer AJCC v7,Stage IIIC Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C87818,Stage IIIC Colorectal Cancer AJCC v7,Stage IIIC Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C87818,Stage IIIC Colorectal Cancer AJCC v7,Stage IIIC Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134194,Stage IIIC Colorectal Cancer AJCC v8,Stage IIIC Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134194,Stage IIIC Colorectal Cancer AJCC v8,Stage IIIC Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134194,Stage IIIC Colorectal Cancer AJCC v8,Stage IIIC Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134194,Stage IIIC Colorectal Cancer AJCC v8,Stage IIIC Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134194,Stage IIIC Colorectal Cancer AJCC v8,Stage IIIC Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134194,Stage IIIC Colorectal Cancer AJCC v8,Stage IIIC Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C115052,Stage IIIC Rectal Cancer AJCC v7,Stage IIIC Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C115052,Stage IIIC Rectal Cancer AJCC v7,Stage IIIC Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C115052,Stage IIIC Rectal Cancer AJCC v7,Stage IIIC Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115052,Stage IIIC Rectal Cancer AJCC v7,Stage IIIC Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115052,Stage IIIC Rectal Cancer AJCC v7,Stage IIIC Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C115052,Stage IIIC Rectal Cancer AJCC v7,Stage IIIC Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134300,Stage IIIC Rectal Cancer AJCC v8,Stage IIIC Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134300,Stage IIIC Rectal Cancer AJCC v8,Stage IIIC Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134300,Stage IIIC Rectal Cancer AJCC v8,Stage IIIC Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134300,Stage IIIC Rectal Cancer AJCC v8,Stage IIIC Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134300,Stage IIIC Rectal Cancer AJCC v8,Stage IIIC Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C3994,Stage IV Colon Cancer AJCC v6,AJCC Stage IV Colon Cancer v6,SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Astler-Coller D Colon Carcinoma,SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Colon Cancer Stage IV AJCC v6,SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,"Colon Cancer, Stage IV AJCC v6",SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Dukes D Carcinoma of Colon,SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Dukes D Carcinoma of the Colon,SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Dukes D Colon Carcinoma,SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Dukes D Colonic Carcinoma,SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Stage IV Carcinoma of Colon AJCC v6,SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Stage IV Carcinoma of the Colon AJCC v6,SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Stage IV Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Stage IV Colon Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C3994,Stage IV Colon Cancer AJCC v6,Stage IV Colon Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C3994,Stage IV Colon Cancer AJCC v6,Stage IV Colon Cancer AJCC v6,,Display_Name,,,,Y
+C3994,Stage IV Colon Cancer AJCC v6,Stage IV Colon Cancer AJCC v6,,Preferred_Name,,,,Y
+C3994,Stage IV Colon Cancer AJCC v6,Stage IV Colon Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C3994,Stage IV Colon Cancer AJCC v6,Stage IV Colonic Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C89999,Stage IV Colon Cancer AJCC v7,Stage IV Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C89999,Stage IV Colon Cancer AJCC v7,Stage IV Colon Cancer,SY,FULL_SYN,NCI,,,N
+C89999,Stage IV Colon Cancer AJCC v7,Stage IV Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C89999,Stage IV Colon Cancer AJCC v7,Stage IV Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C89999,Stage IV Colon Cancer AJCC v7,Stage IV Colon Cancer AJCC v7,,Display_Name,,,,Y
+C89999,Stage IV Colon Cancer AJCC v7,Stage IV Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134287,Stage IV Colon Cancer AJCC v8,Stage IV Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134287,Stage IV Colon Cancer AJCC v8,Stage IV Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134287,Stage IV Colon Cancer AJCC v8,Stage IV Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134287,Stage IV Colon Cancer AJCC v8,Stage IV Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134287,Stage IV Colon Cancer AJCC v8,Stage IV Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C8516,Stage IV Colorectal Cancer AJCC v6,Astler-Coller D Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C8516,Stage IV Colorectal Cancer AJCC v6,"Colorectal Cancer, Stage IV AJCC v6",SY,FULL_SYN,NCI,,,N
+C8516,Stage IV Colorectal Cancer AJCC v6,Colorectal Carcinoma Stage IV AJCC v6,SY,FULL_SYN,NCI,,,N
+C8516,Stage IV Colorectal Cancer AJCC v6,Dukes D Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C8516,Stage IV Colorectal Cancer AJCC v6,Stage IV Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C8516,Stage IV Colorectal Cancer AJCC v6,stage IV colorectal cancer,PT,FULL_SYN,NCI-GLOSS,CDR0000045893,,Y
+C8516,Stage IV Colorectal Cancer AJCC v6,Stage IV Colorectal Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C8516,Stage IV Colorectal Cancer AJCC v6,Stage IV Colorectal Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C8516,Stage IV Colorectal Cancer AJCC v6,Stage IV Colorectal Cancer AJCC v6,,Display_Name,,,,Y
+C8516,Stage IV Colorectal Cancer AJCC v6,Stage IV Colorectal Cancer AJCC v6,,Preferred_Name,,,,Y
+C8516,Stage IV Colorectal Cancer AJCC v6,Stage IV Colorectal Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C89998,Stage IV Colorectal Cancer AJCC v7,Stage IV Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C89998,Stage IV Colorectal Cancer AJCC v7,Stage IV Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C89998,Stage IV Colorectal Cancer AJCC v7,Stage IV Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C89998,Stage IV Colorectal Cancer AJCC v7,Stage IV Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C89998,Stage IV Colorectal Cancer AJCC v7,Stage IV Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C89998,Stage IV Colorectal Cancer AJCC v7,Stage IV Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134195,Stage IV Colorectal Cancer AJCC v8,Stage IV Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134195,Stage IV Colorectal Cancer AJCC v8,Stage IV Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134195,Stage IV Colorectal Cancer AJCC v8,Stage IV Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134195,Stage IV Colorectal Cancer AJCC v8,Stage IV Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134195,Stage IV Colorectal Cancer AJCC v8,Stage IV Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134195,Stage IV Colorectal Cancer AJCC v8,Stage IV Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C8412,Stage IV Rectal Cancer AJCC v6,AJCC Stage IV Rectal Cancer v6,SY,FULL_SYN,NCI,,,N
+C8412,Stage IV Rectal Cancer AJCC v6,Astler-Coller D Rectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C8412,Stage IV Rectal Cancer AJCC v6,Dukes D Carcinoma of Rectum,SY,FULL_SYN,NCI,,,N
+C8412,Stage IV Rectal Cancer AJCC v6,Dukes D Carcinoma of the Rectum,SY,FULL_SYN,NCI,,,N
+C8412,Stage IV Rectal Cancer AJCC v6,Dukes D Rectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C8412,Stage IV Rectal Cancer AJCC v6,Rectal Cancer Stage IV AJCC v6,SY,FULL_SYN,NCI,,,N
+C8412,Stage IV Rectal Cancer AJCC v6,Stage IV Carcinoma of Rectum AJCC v6,SY,FULL_SYN,NCI,,,N
+C8412,Stage IV Rectal Cancer AJCC v6,Stage IV Carcinoma of the Rectum AJCC v6,SY,FULL_SYN,NCI,,,N
+C8412,Stage IV Rectal Cancer AJCC v6,Stage IV Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C8412,Stage IV Rectal Cancer AJCC v6,Stage IV Rectal Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C8412,Stage IV Rectal Cancer AJCC v6,Stage IV Rectal Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C8412,Stage IV Rectal Cancer AJCC v6,Stage IV Rectal Cancer AJCC v6,,Display_Name,,,,Y
+C8412,Stage IV Rectal Cancer AJCC v6,Stage IV Rectal Cancer AJCC v6,,Preferred_Name,,,,Y
+C8412,Stage IV Rectal Cancer AJCC v6,Stage IV Rectal Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C90016,Stage IV Rectal Cancer AJCC v7,Stage IV Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C90016,Stage IV Rectal Cancer AJCC v7,Stage IV Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C90016,Stage IV Rectal Cancer AJCC v7,Stage IV Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C90016,Stage IV Rectal Cancer AJCC v7,Stage IV Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C90016,Stage IV Rectal Cancer AJCC v7,Stage IV Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C90016,Stage IV Rectal Cancer AJCC v7,Stage IV Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134301,Stage IV Rectal Cancer AJCC v8,Stage IV Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134301,Stage IV Rectal Cancer AJCC v8,Stage IV Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134301,Stage IV Rectal Cancer AJCC v8,Stage IV Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134301,Stage IV Rectal Cancer AJCC v8,Stage IV Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134301,Stage IV Rectal Cancer AJCC v8,Stage IV Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C8636,Stage IV Rectosigmoid Cancer AJCC v6,Stage IV Rectosigmoid Cancer,DN,FULL_SYN,CTRP,,,N
+C8636,Stage IV Rectosigmoid Cancer AJCC v6,Stage IV Rectosigmoid Cancer AJCC v6,NAME,Concept_Name,NCIt,,,Y
+C8636,Stage IV Rectosigmoid Cancer AJCC v6,Stage IV Rectosigmoid Cancer AJCC v6,PT,FULL_SYN,NCI,,,Y
+C8636,Stage IV Rectosigmoid Cancer AJCC v6,Stage IV Rectosigmoid Cancer AJCC v6,,Display_Name,,,,Y
+C8636,Stage IV Rectosigmoid Cancer AJCC v6,Stage IV Rectosigmoid Cancer AJCC v6,,Preferred_Name,,,,Y
+C8636,Stage IV Rectosigmoid Cancer AJCC v6,Stage IV Rectosigmoid Carcinoma AJCC v6,SY,FULL_SYN,NCI,,,N
+C90019,Stage IV Rectosigmoid Cancer AJCC v7,Stage IV Rectosigmoid Cancer,DN,FULL_SYN,CTRP,,,N
+C90019,Stage IV Rectosigmoid Cancer AJCC v7,Stage IV Rectosigmoid Cancer,SY,FULL_SYN,NCI,,,N
+C90019,Stage IV Rectosigmoid Cancer AJCC v7,Stage IV Rectosigmoid Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C90019,Stage IV Rectosigmoid Cancer AJCC v7,Stage IV Rectosigmoid Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C90019,Stage IV Rectosigmoid Cancer AJCC v7,Stage IV Rectosigmoid Cancer AJCC v7,,Display_Name,,,,Y
+C90019,Stage IV Rectosigmoid Cancer AJCC v7,Stage IV Rectosigmoid Cancer AJCC v7,,Preferred_Name,,,,Y
+C115053,Stage IVA Colon Cancer AJCC v7,Stage IVA Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C115053,Stage IVA Colon Cancer AJCC v7,Stage IVA Colon Cancer,SY,FULL_SYN,NCI,,,N
+C115053,Stage IVA Colon Cancer AJCC v7,Stage IVA Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115053,Stage IVA Colon Cancer AJCC v7,Stage IVA Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115053,Stage IVA Colon Cancer AJCC v7,Stage IVA Colon Cancer AJCC v7,,Display_Name,,,,Y
+C115053,Stage IVA Colon Cancer AJCC v7,Stage IVA Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134288,Stage IVA Colon Cancer AJCC v8,Stage IVA Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134288,Stage IVA Colon Cancer AJCC v8,Stage IVA Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134288,Stage IVA Colon Cancer AJCC v8,Stage IVA Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134288,Stage IVA Colon Cancer AJCC v8,Stage IVA Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134288,Stage IVA Colon Cancer AJCC v8,Stage IVA Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C87819,Stage IVA Colorectal Cancer AJCC v7,Stage IVA Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C87819,Stage IVA Colorectal Cancer AJCC v7,Stage IVA Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C87819,Stage IVA Colorectal Cancer AJCC v7,Stage IVA Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C87819,Stage IVA Colorectal Cancer AJCC v7,Stage IVA Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C87819,Stage IVA Colorectal Cancer AJCC v7,Stage IVA Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C87819,Stage IVA Colorectal Cancer AJCC v7,Stage IVA Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134196,Stage IVA Colorectal Cancer AJCC v8,Stage IVA Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134196,Stage IVA Colorectal Cancer AJCC v8,Stage IVA Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134196,Stage IVA Colorectal Cancer AJCC v8,Stage IVA Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134196,Stage IVA Colorectal Cancer AJCC v8,Stage IVA Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134196,Stage IVA Colorectal Cancer AJCC v8,Stage IVA Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134196,Stage IVA Colorectal Cancer AJCC v8,Stage IVA Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C115055,Stage IVA Rectal Cancer AJCC v7,Stage IVA Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C115055,Stage IVA Rectal Cancer AJCC v7,Stage IVA Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C115055,Stage IVA Rectal Cancer AJCC v7,Stage IVA Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115055,Stage IVA Rectal Cancer AJCC v7,Stage IVA Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115055,Stage IVA Rectal Cancer AJCC v7,Stage IVA Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C115055,Stage IVA Rectal Cancer AJCC v7,Stage IVA Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134302,Stage IVA Rectal Cancer AJCC v8,Stage IVA Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134302,Stage IVA Rectal Cancer AJCC v8,Stage IVA Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134302,Stage IVA Rectal Cancer AJCC v8,Stage IVA Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134302,Stage IVA Rectal Cancer AJCC v8,Stage IVA Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134302,Stage IVA Rectal Cancer AJCC v8,Stage IVA Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C115054,Stage IVB Colon Cancer AJCC v7,Stage IVB Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C115054,Stage IVB Colon Cancer AJCC v7,Stage IVB Colon Cancer,SY,FULL_SYN,NCI,,,N
+C115054,Stage IVB Colon Cancer AJCC v7,Stage IVB Colon Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115054,Stage IVB Colon Cancer AJCC v7,Stage IVB Colon Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115054,Stage IVB Colon Cancer AJCC v7,Stage IVB Colon Cancer AJCC v7,,Display_Name,,,,Y
+C115054,Stage IVB Colon Cancer AJCC v7,Stage IVB Colon Cancer AJCC v7,,Preferred_Name,,,,Y
+C134289,Stage IVB Colon Cancer AJCC v8,Stage IVB Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134289,Stage IVB Colon Cancer AJCC v8,Stage IVB Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134289,Stage IVB Colon Cancer AJCC v8,Stage IVB Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134289,Stage IVB Colon Cancer AJCC v8,Stage IVB Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134289,Stage IVB Colon Cancer AJCC v8,Stage IVB Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C87820,Stage IVB Colorectal Cancer AJCC v7,Stage IVB Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C87820,Stage IVB Colorectal Cancer AJCC v7,Stage IVB Colorectal Cancer,SY,FULL_SYN,NCI,,,N
+C87820,Stage IVB Colorectal Cancer AJCC v7,Stage IVB Colorectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C87820,Stage IVB Colorectal Cancer AJCC v7,Stage IVB Colorectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C87820,Stage IVB Colorectal Cancer AJCC v7,Stage IVB Colorectal Cancer AJCC v7,,Display_Name,,,,Y
+C87820,Stage IVB Colorectal Cancer AJCC v7,Stage IVB Colorectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134197,Stage IVB Colorectal Cancer AJCC v8,Stage IVB Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134197,Stage IVB Colorectal Cancer AJCC v8,Stage IVB Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134197,Stage IVB Colorectal Cancer AJCC v8,Stage IVB Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134197,Stage IVB Colorectal Cancer AJCC v8,Stage IVB Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134197,Stage IVB Colorectal Cancer AJCC v8,Stage IVB Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134197,Stage IVB Colorectal Cancer AJCC v8,Stage IVB Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C115056,Stage IVB Rectal Cancer AJCC v7,Stage IVB Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C115056,Stage IVB Rectal Cancer AJCC v7,Stage IVB Rectal Cancer,SY,FULL_SYN,NCI,,,N
+C115056,Stage IVB Rectal Cancer AJCC v7,Stage IVB Rectal Cancer AJCC v7,NAME,Concept_Name,NCIt,,,Y
+C115056,Stage IVB Rectal Cancer AJCC v7,Stage IVB Rectal Cancer AJCC v7,PT,FULL_SYN,NCI,,,Y
+C115056,Stage IVB Rectal Cancer AJCC v7,Stage IVB Rectal Cancer AJCC v7,,Display_Name,,,,Y
+C115056,Stage IVB Rectal Cancer AJCC v7,Stage IVB Rectal Cancer AJCC v7,,Preferred_Name,,,,Y
+C134303,Stage IVB Rectal Cancer AJCC v8,Stage IVB Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134303,Stage IVB Rectal Cancer AJCC v8,Stage IVB Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134303,Stage IVB Rectal Cancer AJCC v8,Stage IVB Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134303,Stage IVB Rectal Cancer AJCC v8,Stage IVB Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134303,Stage IVB Rectal Cancer AJCC v8,Stage IVB Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134290,Stage IVC Colon Cancer AJCC v8,Stage IVC Colon Cancer,DN,FULL_SYN,CTRP,,,N
+C134290,Stage IVC Colon Cancer AJCC v8,Stage IVC Colon Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134290,Stage IVC Colon Cancer AJCC v8,Stage IVC Colon Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134290,Stage IVC Colon Cancer AJCC v8,Stage IVC Colon Cancer AJCC v8,,Display_Name,,,,Y
+C134290,Stage IVC Colon Cancer AJCC v8,Stage IVC Colon Cancer AJCC v8,,Preferred_Name,,,,Y
+C134198,Stage IVC Colorectal Cancer AJCC v8,Stage IVC Colorectal (Colon or Rectal) Cancer,DN,FULL_SYN,CTRP,,,N
+C134198,Stage IVC Colorectal Cancer AJCC v8,Stage IVC Colorectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134198,Stage IVC Colorectal Cancer AJCC v8,Stage IVC Colorectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134198,Stage IVC Colorectal Cancer AJCC v8,Stage IVC Colorectal Cancer AJCC v8,,Display_Name,,,,Y
+C134198,Stage IVC Colorectal Cancer AJCC v8,Stage IVC Colorectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C134198,Stage IVC Colorectal Cancer AJCC v8,Stage IVC Colorectal Carcinoma AJCC v8,SY,FULL_SYN,NCI,,,N
+C134304,Stage IVC Rectal Cancer AJCC v8,Stage IVC Rectal Cancer,DN,FULL_SYN,CTRP,,,N
+C134304,Stage IVC Rectal Cancer AJCC v8,Stage IVC Rectal Cancer AJCC v8,NAME,Concept_Name,NCIt,,,Y
+C134304,Stage IVC Rectal Cancer AJCC v8,Stage IVC Rectal Cancer AJCC v8,PT,FULL_SYN,NCI,,,Y
+C134304,Stage IVC Rectal Cancer AJCC v8,Stage IVC Rectal Cancer AJCC v8,,Display_Name,,,,Y
+C134304,Stage IVC Rectal Cancer AJCC v8,Stage IVC Rectal Cancer AJCC v8,,Preferred_Name,,,,Y
+C38760,Submucosal Invasive Colon Adenocarcinoma,Submucosal Invasive Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C38760,Submucosal Invasive Colon Adenocarcinoma,Submucosal Invasive Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C38760,Submucosal Invasive Colon Adenocarcinoma,Submucosal Invasive Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C96496,Ulcerative Colitis-Associated Colorectal Adenocarcinoma,UC-Associated CRC,SY,FULL_SYN,NCI,,,N
+C96496,Ulcerative Colitis-Associated Colorectal Adenocarcinoma,Ulcerative Colitis-Associated Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C96496,Ulcerative Colitis-Associated Colorectal Adenocarcinoma,Ulcerative Colitis-Associated Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C96496,Ulcerative Colitis-Associated Colorectal Adenocarcinoma,Ulcerative Colitis-Associated Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C96496,Ulcerative Colitis-Associated Colorectal Adenocarcinoma,Ulcerative Colitis-Associated Colorectal Carcinoma,SY,FULL_SYN,NCI,,,N
+C162116,Unresectable Colon Adenocarcinoma,Unresectable Colon Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162116,Unresectable Colon Adenocarcinoma,Unresectable Colon Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162116,Unresectable Colon Adenocarcinoma,Unresectable Colon Adenocarcinoma,,Preferred_Name,,,,Y
+C180406,Unresectable Colon Carcinoma,Unresectable Colon Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C180406,Unresectable Colon Carcinoma,Unresectable Colon Carcinoma,DN,FULL_SYN,CTRP,,,N
+C180406,Unresectable Colon Carcinoma,Unresectable Colon Carcinoma,PT,FULL_SYN,NCI,,,Y
+C180406,Unresectable Colon Carcinoma,Unresectable Colon Carcinoma,,Display_Name,,,,Y
+C180406,Unresectable Colon Carcinoma,Unresectable Colon Carcinoma,,Preferred_Name,,,,Y
+C171585,Unresectable Colorectal Adenocarcinoma,Unresectable Colorectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C171585,Unresectable Colorectal Adenocarcinoma,Unresectable Colorectal Adenocarcinoma,DN,FULL_SYN,CTRP,,,N
+C171585,Unresectable Colorectal Adenocarcinoma,Unresectable Colorectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C171585,Unresectable Colorectal Adenocarcinoma,Unresectable Colorectal Adenocarcinoma,,Display_Name,,,,Y
+C171585,Unresectable Colorectal Adenocarcinoma,Unresectable Colorectal Adenocarcinoma,,Preferred_Name,,,,Y
+C162600,Unresectable Colorectal Carcinoma,Unresectable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C162600,Unresectable Colorectal Carcinoma,Unresectable Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C162600,Unresectable Colorectal Carcinoma,Unresectable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C162600,Unresectable Colorectal Carcinoma,Unresectable Colorectal Carcinoma,,Display_Name,,,,Y
+C162600,Unresectable Colorectal Carcinoma,Unresectable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C192839,Unresectable Microsatellite Stable Colorectal Carcinoma,Unresectable Microsatellite Stable Colorectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C192839,Unresectable Microsatellite Stable Colorectal Carcinoma,Unresectable Microsatellite Stable Colorectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C192839,Unresectable Microsatellite Stable Colorectal Carcinoma,Unresectable Microsatellite Stable Colorectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C192839,Unresectable Microsatellite Stable Colorectal Carcinoma,Unresectable Microsatellite Stable Colorectal Carcinoma,,Display_Name,,,,Y
+C192839,Unresectable Microsatellite Stable Colorectal Carcinoma,Unresectable Microsatellite Stable Colorectal Carcinoma,,Preferred_Name,,,,Y
+C162117,Unresectable Rectal Adenocarcinoma,Unresectable Rectal Adenocarcinoma,NAME,Concept_Name,NCIt,,,Y
+C162117,Unresectable Rectal Adenocarcinoma,Unresectable Rectal Adenocarcinoma,PT,FULL_SYN,NCI,,,Y
+C162117,Unresectable Rectal Adenocarcinoma,Unresectable Rectal Adenocarcinoma,,Preferred_Name,,,,Y
+C211964,Unresectable Rectal Carcinoma,Unresectable Rectal Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C211964,Unresectable Rectal Carcinoma,Unresectable Rectal Carcinoma,DN,FULL_SYN,CTRP,,,N
+C211964,Unresectable Rectal Carcinoma,Unresectable Rectal Carcinoma,PT,FULL_SYN,NCI,,,Y
+C211964,Unresectable Rectal Carcinoma,Unresectable Rectal Carcinoma,,Display_Name,,,,Y
+C211964,Unresectable Rectal Carcinoma,Unresectable Rectal Carcinoma,,Preferred_Name,,,,Y
+C222321,Unresectable Rectal Squamous Cell Carcinoma,Unresectable Rectal Squamous Cell Carcinoma,NAME,Concept_Name,NCIt,,,Y
+C222321,Unresectable Rectal Squamous Cell Carcinoma,Unresectable Rectal Squamous Cell Carcinoma,DN,FULL_SYN,CTRP,,,N
+C222321,Unresectable Rectal Squamous Cell Carcinoma,Unresectable Rectal Squamous Cell Carcinoma,PT,FULL_SYN,NCI,,,Y
+C222321,Unresectable Rectal Squamous Cell Carcinoma,Unresectable Rectal Squamous Cell Carcinoma,,Display_Name,,,,Y
+C222321,Unresectable Rectal Squamous Cell Carcinoma,Unresectable Rectal Squamous Cell Carcinoma,,Preferred_Name,,,,Y

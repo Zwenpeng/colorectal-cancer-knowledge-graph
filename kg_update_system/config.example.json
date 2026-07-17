@@ -1,0 +1,10 @@
+{
+  "llm": {
+    "enabled": true,
+    "provider": "deepseek_openai_compatible",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-v4-pro",
+    "api_key_env": "KG_LLM_API_KEY",
+    "temperature": 0
+  }
+}

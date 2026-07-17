@@ -1,0 +1,19 @@
+name: Verify release
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate Python syntax
+        run: |
+          python -m py_compile extract_ncit_colorectal.py enrich_related_ncit_entities.py build_colorectal_kg.py kg_update_system/kg_incremental.py kg_update_system/kg_gui.py scripts/validate_release.py
+      - name: Validate released graph files
+        run: python scripts/validate_release.py

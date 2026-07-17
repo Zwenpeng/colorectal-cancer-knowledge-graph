@@ -1,0 +1,1914 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>结直肠癌知识图谱系统说明书</title>
+  <style>
+    :root {
+      --bg: #f6f8fb;
+      --panel: #ffffff;
+      --panel-soft: #f9fbff;
+      --ink: #17202a;
+      --muted: #627083;
+      --line: #dbe3ee;
+      --line-strong: #b9c7d8;
+      --blue: #2563eb;
+      --teal: #0f766e;
+      --green: #15803d;
+      --amber: #b45309;
+      --red: #b91c1c;
+      --violet: #7c3aed;
+      --cyan: #0891b2;
+      --shadow: 0 16px 45px rgba(30, 41, 59, 0.12);
+      --shadow-soft: 0 8px 26px rgba(30, 41, 59, 0.08);
+      --radius: 8px;
+      --mono: "Cascadia Mono", "Consolas", "SFMono-Regular", monospace;
+      --sans: "Microsoft YaHei", "PingFang SC", "Segoe UI", Arial, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background:
+        radial-gradient(circle at 15% 5%, rgba(37, 99, 235, 0.08), transparent 26rem),
+        linear-gradient(180deg, #eef5ff 0%, var(--bg) 28rem, #f8fafc 100%);
+      color: var(--ink);
+      font-family: var(--sans);
+      line-height: 1.6;
+    }
+
+    a { color: inherit; }
+    button, input, textarea { font: inherit; }
+    .shell {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(246, 248, 251, 0.88);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid rgba(185, 199, 216, 0.62);
+    }
+    .topbar-inner {
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+    .brand-mark {
+      width: 38px;
+      height: 38px;
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      background: linear-gradient(135deg, #2563eb, #0f766e);
+      box-shadow: var(--shadow-soft);
+      flex: 0 0 auto;
+    }
+    .brand-mark svg { width: 25px; height: 25px; }
+    .brand-title {
+      font-weight: 800;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      letter-spacing: 0;
+    }
+    .nav {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+    .nav a {
+      text-decoration: none;
+      color: #344054;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      padding: 8px 10px;
+      font-size: 14px;
+      white-space: nowrap;
+    }
+    .nav a:hover {
+      border-color: var(--line);
+      background: #fff;
+    }
+
+    .hero {
+      padding: 46px 0 26px;
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(360px, 0.95fr);
+      gap: 24px;
+      align-items: stretch;
+    }
+    .eyebrow {
+      display: inline-flex;
+      gap: 8px;
+      align-items: center;
+      color: var(--teal);
+      background: rgba(15, 118, 110, 0.08);
+      border: 1px solid rgba(15, 118, 110, 0.22);
+      border-radius: 999px;
+      padding: 5px 10px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+    h1 {
+      margin: 16px 0 14px;
+      font-size: clamp(32px, 5vw, 58px);
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+    .lead {
+      margin: 0;
+      color: #344054;
+      font-size: 18px;
+      max-width: 720px;
+    }
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 24px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      min-height: 42px;
+      border-radius: 8px;
+      border: 1px solid var(--line-strong);
+      background: #fff;
+      color: var(--ink);
+      padding: 10px 14px;
+      text-decoration: none;
+      cursor: pointer;
+      font-weight: 700;
+      box-shadow: 0 4px 12px rgba(15, 23, 42, 0.05);
+    }
+    .btn.primary {
+      background: #1d4ed8;
+      border-color: #1d4ed8;
+      color: #fff;
+    }
+    .btn.teal {
+      background: #0f766e;
+      border-color: #0f766e;
+      color: #fff;
+    }
+    .btn:hover { transform: translateY(-1px); }
+    .btn:active { transform: translateY(0); }
+    .icon {
+      width: 18px;
+      height: 18px;
+      flex: 0 0 auto;
+    }
+
+    .status-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 26px;
+    }
+    .metric {
+      background: rgba(255, 255, 255, 0.74);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 12px;
+      min-height: 82px;
+    }
+    .metric b {
+      display: block;
+      font-size: 21px;
+      line-height: 1.2;
+    }
+    .metric span {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 5px;
+    }
+
+    .hero-visual {
+      background: rgba(255, 255, 255, 0.86);
+      border: 1px solid rgba(185, 199, 216, 0.76);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      min-height: 390px;
+      position: relative;
+    }
+    .visual-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--line);
+      background: #f8fafc;
+    }
+    .window-dots {
+      display: flex;
+      gap: 6px;
+    }
+    .window-dots i {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      display: block;
+      background: #94a3b8;
+    }
+    .window-dots i:nth-child(1) { background: #ef4444; }
+    .window-dots i:nth-child(2) { background: #f59e0b; }
+    .window-dots i:nth-child(3) { background: #22c55e; }
+    .visual-body {
+      padding: 16px;
+    }
+    .mini-workbench {
+      display: grid;
+      grid-template-columns: 160px minmax(0, 1fr);
+      gap: 14px;
+      min-height: 314px;
+    }
+    .mini-sidebar {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fbfdff;
+      padding: 10px;
+    }
+    .mini-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px;
+      border-radius: 8px;
+      color: #475467;
+      font-size: 13px;
+    }
+    .mini-item.active {
+      background: rgba(37, 99, 235, 0.1);
+      color: #1d4ed8;
+      font-weight: 800;
+    }
+    .mini-panel {
+      position: relative;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      min-height: 310px;
+      overflow: hidden;
+      background:
+        linear-gradient(90deg, rgba(219, 227, 238, 0.55) 1px, transparent 1px),
+        linear-gradient(180deg, rgba(219, 227, 238, 0.55) 1px, transparent 1px),
+        #ffffff;
+      background-size: 32px 32px;
+    }
+    .mini-panel svg {
+      width: 100%;
+      height: 100%;
+      min-height: 310px;
+      display: block;
+    }
+    .pulse {
+      animation: pulse 2.4s ease-in-out infinite;
+      transform-origin: center;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.86; }
+      50% { opacity: 1; filter: drop-shadow(0 0 9px rgba(37, 99, 235, 0.35)); }
+    }
+
+    section {
+      padding: 28px 0;
+    }
+    .section-head {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    h2 {
+      margin: 0;
+      font-size: clamp(24px, 3vw, 34px);
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+    .section-head p {
+      margin: 6px 0 0;
+      color: var(--muted);
+      max-width: 690px;
+    }
+
+    .panel {
+      background: rgba(255, 255, 255, 0.9);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: var(--shadow-soft);
+    }
+    .panel-pad { padding: 18px; }
+
+    .architecture {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 310px;
+      gap: 16px;
+      align-items: stretch;
+    }
+    .arch-stack {
+      display: grid;
+      gap: 10px;
+    }
+    .arch-row {
+      display: grid;
+      grid-template-columns: 152px minmax(0, 1fr);
+      gap: 12px;
+      align-items: stretch;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      overflow: hidden;
+    }
+    .arch-label {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 14px;
+      color: #fff;
+      font-weight: 800;
+    }
+    .arch-row:nth-child(1) .arch-label { background: #2563eb; }
+    .arch-row:nth-child(2) .arch-label { background: #0f766e; }
+    .arch-row:nth-child(3) .arch-label { background: #7c3aed; }
+    .arch-row:nth-child(4) .arch-label { background: #b45309; }
+    .arch-content {
+      padding: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-content: center;
+    }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border: 1px solid var(--line);
+      background: #f8fafc;
+      color: #344054;
+      border-radius: 999px;
+      padding: 6px 9px;
+      font-size: 13px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .chip i {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: currentColor;
+    }
+    .arch-note {
+      display: grid;
+      gap: 12px;
+      align-content: start;
+    }
+    .note-card {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fbfdff;
+      padding: 13px;
+    }
+    .note-card strong { display: block; margin-bottom: 4px; }
+    .note-card span { color: var(--muted); font-size: 14px; }
+
+    .feature-overview {
+      display: grid;
+      grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+      gap: 16px;
+      align-items: start;
+    }
+    .feature-map {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      padding: 14px;
+    }
+    .feature-map h3,
+    .feature-list h3 {
+      margin: 0 0 10px;
+      font-size: 18px;
+    }
+    .feature-flow {
+      display: grid;
+      gap: 9px;
+    }
+    .flow-row {
+      display: grid;
+      grid-template-columns: 42px minmax(0, 1fr);
+      gap: 10px;
+      align-items: start;
+      border: 1px solid #edf2f7;
+      border-radius: 8px;
+      padding: 10px;
+      background: #fbfdff;
+    }
+    .flow-index {
+      width: 42px;
+      height: 42px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      color: #fff;
+      font-weight: 900;
+      background: #2563eb;
+    }
+    .flow-row:nth-child(2) .flow-index { background: #0f766e; }
+    .flow-row:nth-child(3) .flow-index { background: #7c3aed; }
+    .flow-row:nth-child(4) .flow-index { background: #b45309; }
+    .flow-row:nth-child(5) .flow-index { background: #0891b2; }
+    .flow-row:nth-child(6) .flow-index { background: #64748b; }
+    .flow-row b { display: block; }
+    .flow-row span {
+      display: block;
+      color: var(--muted);
+      font-size: 14px;
+      margin-top: 2px;
+    }
+    .feature-list {
+      display: grid;
+      gap: 10px;
+    }
+    .feature-list details {
+      padding: 0;
+      overflow: hidden;
+    }
+    .feature-list summary {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 13px 14px;
+      list-style: none;
+    }
+    .feature-list summary::-webkit-details-marker { display: none; }
+    .feature-list summary::after {
+      content: "+";
+      width: 26px;
+      height: 26px;
+      display: grid;
+      place-items: center;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #f8fafc;
+      color: #475467;
+      flex: 0 0 auto;
+    }
+    .feature-list details[open] summary::after { content: "-"; }
+    .feature-body {
+      border-top: 1px solid var(--line);
+      padding: 12px 14px 14px;
+      background: #fbfdff;
+    }
+    .feature-body p {
+      margin: 0 0 10px;
+      color: var(--muted);
+    }
+    .feature-points {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    .feature-points li {
+      border: 1px solid #edf2f7;
+      border-radius: 8px;
+      background: #fff;
+      padding: 9px 10px;
+      color: #344054;
+      font-size: 14px;
+    }
+
+    .module-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .module-card {
+      position: relative;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      padding: 15px;
+      min-height: 190px;
+      overflow: hidden;
+    }
+    .module-card::after {
+      content: "";
+      position: absolute;
+      right: -34px;
+      top: -34px;
+      width: 94px;
+      height: 94px;
+      border-radius: 50%;
+      background: currentColor;
+      opacity: 0.08;
+    }
+    .module-icon {
+      width: 42px;
+      height: 42px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      background: currentColor;
+      margin-bottom: 10px;
+    }
+    .module-icon svg {
+      width: 24px;
+      height: 24px;
+      color: #fff;
+    }
+    .module-card h3 {
+      margin: 0 0 7px;
+      font-size: 18px;
+      color: var(--ink);
+    }
+    .module-card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .module-foot {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 12px;
+    }
+    .mini-tag {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 3px 7px;
+      font-size: 12px;
+      font-weight: 800;
+      color: #475467;
+      background: #f8fafc;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+    .tab {
+      border: 1px solid var(--line-strong);
+      background: #fff;
+      border-radius: 8px;
+      padding: 9px 12px;
+      cursor: pointer;
+      font-weight: 800;
+      color: #344054;
+    }
+    .tab.active {
+      background: #1d4ed8;
+      border-color: #1d4ed8;
+      color: #fff;
+    }
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
+    .workflow-grid {
+      display: grid;
+      grid-template-columns: 0.9fr 1.1fr;
+      gap: 16px;
+    }
+    .steps {
+      display: grid;
+      gap: 10px;
+    }
+    .step {
+      display: grid;
+      grid-template-columns: 34px minmax(0, 1fr);
+      gap: 10px;
+      align-items: start;
+      padding: 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+    }
+    .step-num {
+      width: 34px;
+      height: 34px;
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      background: #eef4ff;
+      color: #1d4ed8;
+      font-weight: 900;
+    }
+    .step b { display: block; }
+    .step span { color: var(--muted); font-size: 14px; }
+    .codebox {
+      position: relative;
+      background: #111827;
+      color: #d1fae5;
+      border-radius: 8px;
+      padding: 14px;
+      overflow: auto;
+      border: 1px solid #0f172a;
+    }
+    .codebox pre {
+      margin: 0;
+      font-family: var(--mono);
+      font-size: 13px;
+      white-space: pre-wrap;
+      word-break: break-word;
+      line-height: 1.55;
+    }
+    .copy-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.28);
+      background: rgba(255, 255, 255, 0.08);
+      color: #fff;
+      border-radius: 8px;
+      padding: 5px 8px;
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 800;
+    }
+    .tip {
+      margin-top: 12px;
+      border-left: 4px solid var(--teal);
+      background: rgba(15, 118, 110, 0.07);
+      padding: 10px 12px;
+      color: #23423f;
+      border-radius: 0 8px 8px 0;
+    }
+
+    .usecase-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .usecase {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      padding: 14px;
+      cursor: pointer;
+      min-height: 132px;
+    }
+    .usecase:hover, .usecase.active {
+      border-color: #2563eb;
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+    }
+    .usecase svg { width: 30px; height: 30px; color: #2563eb; }
+    .usecase b { display: block; margin: 8px 0 5px; }
+    .usecase span { color: var(--muted); font-size: 14px; }
+    .usecase-result {
+      margin-top: 14px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+    .result-card {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fbfdff;
+      padding: 14px;
+    }
+    .result-card h3 {
+      margin: 0 0 8px;
+      font-size: 18px;
+    }
+    .compact-list {
+      margin: 0;
+      padding-left: 18px;
+      color: #344054;
+    }
+    .compact-list li { margin: 4px 0; }
+
+    .graph-lab {
+      display: grid;
+      grid-template-columns: 260px minmax(0, 1fr) 280px;
+      gap: 14px;
+      min-height: 480px;
+    }
+    .filter-card, .detail-card {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      padding: 14px;
+    }
+    .filter-card h3, .detail-card h3 {
+      margin: 0 0 10px;
+      font-size: 18px;
+    }
+    .check-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 0;
+      border-bottom: 1px solid #edf2f7;
+      color: #344054;
+    }
+    .check-row:last-child { border-bottom: 0; }
+    .check-row input { width: 18px; height: 18px; }
+    .legend-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      flex: 0 0 auto;
+    }
+    .graph-stage {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background:
+        linear-gradient(90deg, rgba(219, 227, 238, 0.58) 1px, transparent 1px),
+        linear-gradient(180deg, rgba(219, 227, 238, 0.58) 1px, transparent 1px),
+        #ffffff;
+      background-size: 36px 36px;
+      overflow: hidden;
+      position: relative;
+      min-height: 480px;
+    }
+    #demoGraph {
+      width: 100%;
+      height: 100%;
+      min-height: 480px;
+      display: block;
+    }
+    .graph-node {
+      cursor: pointer;
+      transition: opacity 0.2s ease, transform 0.2s ease;
+    }
+    .graph-node text {
+      pointer-events: none;
+      font-size: 12px;
+      fill: #17202a;
+      font-weight: 800;
+    }
+    .graph-node:hover circle {
+      stroke: #111827;
+      stroke-width: 3;
+    }
+    .graph-edge {
+      stroke: #9aa8bb;
+      stroke-width: 1.5;
+      opacity: 0.65;
+    }
+    .detail-kv {
+      display: grid;
+      gap: 9px;
+      margin-top: 10px;
+    }
+    .kv {
+      border-top: 1px solid #edf2f7;
+      padding-top: 9px;
+    }
+    .kv b {
+      display: block;
+      color: #475467;
+      font-size: 13px;
+    }
+    .kv span { color: #17202a; }
+
+    .file-tools {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+    .search {
+      min-width: min(100%, 360px);
+      flex: 1;
+      border: 1px solid var(--line-strong);
+      border-radius: 8px;
+      min-height: 42px;
+      padding: 9px 12px;
+      background: #fff;
+    }
+    .file-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .file-card {
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 8px;
+      padding: 14px;
+      min-height: 152px;
+    }
+    .file-card .file-type {
+      display: inline-flex;
+      padding: 3px 8px;
+      border-radius: 999px;
+      background: #eef4ff;
+      color: #1d4ed8;
+      font-size: 12px;
+      font-weight: 900;
+      margin-bottom: 8px;
+    }
+    .file-card h3 {
+      margin: 0;
+      font-size: 17px;
+      word-break: break-all;
+    }
+    .file-card p {
+      color: var(--muted);
+      margin: 7px 0 12px;
+      font-size: 14px;
+    }
+    .file-card a {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: #1d4ed8;
+      text-decoration: none;
+      font-weight: 800;
+      font-size: 14px;
+    }
+
+    .qa-demo {
+      display: grid;
+      grid-template-columns: 0.9fr 1.1fr;
+      gap: 14px;
+    }
+    .question-list {
+      display: grid;
+      gap: 9px;
+    }
+    .question {
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 8px;
+      padding: 12px;
+      text-align: left;
+      cursor: pointer;
+      color: #344054;
+      font-weight: 700;
+    }
+    .question.active {
+      border-color: #0f766e;
+      box-shadow: 0 0 0 3px rgba(15, 118, 110, 0.12);
+      color: #0f766e;
+    }
+    .answer-box {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 16px;
+      min-height: 320px;
+    }
+    .answer-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .answer-title h3 { margin: 0; font-size: 20px; }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 4px 8px;
+      background: rgba(37, 99, 235, 0.1);
+      color: #1d4ed8;
+      font-size: 12px;
+      font-weight: 900;
+      white-space: nowrap;
+    }
+    .answer-body {
+      border-left: 4px solid #1d4ed8;
+      padding-left: 12px;
+      color: #233142;
+    }
+    .evidence-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 14px;
+    }
+    .evidence {
+      border: 1px solid #edf2f7;
+      border-radius: 8px;
+      padding: 10px;
+      background: #fbfdff;
+    }
+    .evidence b { display: block; font-size: 13px; }
+    .evidence span { color: var(--muted); font-size: 13px; }
+
+    .trouble-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+    details {
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 8px;
+      padding: 12px 14px;
+    }
+    summary {
+      cursor: pointer;
+      font-weight: 900;
+      color: #344054;
+    }
+    details p { margin: 9px 0 0; color: var(--muted); }
+
+    .footer {
+      padding: 26px 0 40px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    @media (max-width: 980px) {
+      .hero-grid,
+      .architecture,
+      .feature-overview,
+      .workflow-grid,
+      .qa-demo,
+      .usecase-result {
+        grid-template-columns: 1fr;
+      }
+      .graph-lab {
+        grid-template-columns: 1fr;
+      }
+      .graph-stage { min-height: 390px; }
+      #demoGraph { min-height: 390px; }
+      .file-grid,
+      .usecase-grid,
+      .trouble-grid,
+      .module-grid,
+      .feature-points {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+      .hero-visual { min-height: 0; }
+    }
+
+    @media (max-width: 700px) {
+      .shell { width: min(100% - 20px, 1180px); }
+      .topbar-inner {
+        height: auto;
+        padding: 10px 0;
+        align-items: flex-start;
+        flex-direction: column;
+      }
+      .nav { justify-content: flex-start; }
+      .mini-workbench,
+      .arch-row,
+      .status-grid,
+      .file-grid,
+      .usecase-grid,
+      .trouble-grid,
+      .evidence-grid,
+      .module-grid,
+      .feature-points {
+        grid-template-columns: 1fr;
+      }
+      .arch-label { min-height: 58px; }
+      .hero { padding-top: 30px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="shell topbar-inner">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 32 32" fill="none">
+            <path d="M8 16c0-4.4 3.6-8 8-8s8 3.6 8 8-3.6 8-8 8-8-3.6-8-8Z" stroke="#fff" stroke-width="2"/>
+            <path d="M16 5v6m0 10v6M5 16h6m10 0h6M10.3 10.3l4.1 4.1m3.2 3.2 4.1 4.1M21.7 10.3l-4.1 4.1m-3.2 3.2-4.1 4.1" stroke="#fff" stroke-width="1.7" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div class="brand-title">结直肠癌知识图谱系统说明书</div>
+      </div>
+      <nav class="nav" aria-label="页面导航">
+        <a href="#feature-checklist">功能清单</a>
+        <a href="#modules">功能模块</a>
+        <a href="#architecture">整体架构</a>
+        <a href="#workflow">具体使用</a>
+        <a href="#graph">图谱交互</a>
+        <a href="#files">文件地图</a>
+        <a href="#qa">智能问答</a>
+        <a href="#troubleshooting">常见问题</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="shell hero-grid">
+        <div>
+          <span class="eyebrow">
+            <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M4 7h16M4 12h10M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            面向结直肠癌研究的本地知识工作台
+          </span>
+          <h1>从资料到图谱，再到可追溯问答。</h1>
+          <p class="lead">这个页面是 `kg_update_system` 的可视化说明书：解释系统能做什么、每一步怎么用、结果文件在哪里打开，以及如何把新资料变成小知识图谱并更新到主知识图谱。</p>
+          <div class="hero-actions">
+            <a class="btn primary" href="http://127.0.0.1:8765" target="_blank" rel="noreferrer">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              打开 GUI 工作台
+            </a>
+            <a class="btn" href="../colorectal_knowledge_graph/kg_browser.html" target="_blank">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M12 5a7 7 0 1 0 0 14 7 7 0 0 0 0-14ZM12 8v8M8 12h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              主知识图谱
+            </a>
+            <a class="btn" href="../colorectal_knowledge_graph/kg_tree.html" target="_blank">
+              <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M6 4v16M6 8h6m0 0v4m0-4h6m-6 4h6m-6 0v4m0 0h6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              主知识树
+            </a>
+          </div>
+          <div class="status-grid">
+            <div class="metric"><b>输入</b><span>NCIt、PubMed、指南、病历、新 PDF/Word/图片资料</span></div>
+            <div class="metric"><b>处理</b><span>实体识别、关系抽取、摘要整合、GraphRAG 问答</span></div>
+            <div class="metric"><b>输出</b><span>HTML 图谱、树状图、CSV、GraphML、Markdown；填写 Vault 时可写入 Obsidian</span></div>
+          </div>
+        </div>
+
+        <div class="hero-visual" aria-label="系统界面示意图">
+          <div class="visual-head">
+            <div class="window-dots" aria-hidden="true"><i></i><i></i><i></i></div>
+            <strong>知识图谱工作台</strong>
+          </div>
+          <div class="visual-body">
+            <div class="mini-workbench">
+              <div class="mini-sidebar">
+                <div class="mini-item active">智能问答</div>
+                <div class="mini-item">新资料抽取</div>
+                <div class="mini-item">合并更新</div>
+                <div class="mini-item">图谱浏览</div>
+                <div class="mini-item">树状结构</div>
+                <div class="mini-item">设置</div>
+              </div>
+              <div class="mini-panel">
+                <svg viewBox="0 0 520 330" role="img" aria-label="结直肠癌图谱关系示意">
+                  <defs>
+                    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                      <path d="M0 0 10 5 0 10Z" fill="#94a3b8"/>
+                    </marker>
+                  </defs>
+                  <path d="M260 165 135 90M260 165 120 230M260 165 395 85M260 165 400 235M260 165 275 62" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+                  <g class="pulse">
+                    <circle cx="260" cy="165" r="47" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+                    <text x="260" y="159" text-anchor="middle" font-size="17" font-weight="800" fill="#1e3a8a">Colorectal</text>
+                    <text x="260" y="181" text-anchor="middle" font-size="17" font-weight="800" fill="#1e3a8a">Cancer</text>
+                  </g>
+                  <g>
+                    <circle cx="135" cy="90" r="34" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+                    <text x="135" y="96" text-anchor="middle" font-size="14" font-weight="800" fill="#14532d">KRAS</text>
+                  </g>
+                  <g>
+                    <circle cx="120" cy="230" r="38" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+                    <text x="120" y="226" text-anchor="middle" font-size="13" font-weight="800" fill="#78350f">Anatomy</text>
+                    <text x="120" y="244" text-anchor="middle" font-size="13" font-weight="800" fill="#78350f">Site</text>
+                  </g>
+                  <g>
+                    <circle cx="395" cy="85" r="37" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+                    <text x="395" y="90" text-anchor="middle" font-size="14" font-weight="800" fill="#4c1d95">MSI-H</text>
+                  </g>
+                  <g>
+                    <circle cx="400" cy="235" r="42" fill="#cffafe" stroke="#0891b2" stroke-width="2"/>
+                    <text x="400" y="231" text-anchor="middle" font-size="13" font-weight="800" fill="#164e63">Immune</text>
+                    <text x="400" y="249" text-anchor="middle" font-size="13" font-weight="800" fill="#164e63">Therapy</text>
+                  </g>
+                  <g>
+                    <circle cx="275" cy="62" r="32" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+                    <text x="275" y="67" text-anchor="middle" font-size="14" font-weight="800" fill="#7f1d1d">TNM</text>
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="feature-checklist">
+      <div class="shell">
+        <div class="section-head">
+          <div>
+            <h2>详细系统功能清单</h2>
+            <p>这份清单用于快速判断系统能完成哪些工作。左侧是从资料到研究输出的主流程，右侧可展开查看每类功能的具体能力、输入输出和使用价值。</p>
+          </div>
+        </div>
+        <div class="panel panel-pad feature-overview">
+          <aside class="feature-map">
+            <h3>主流程总览</h3>
+            <div class="feature-flow">
+              <div class="flow-row"><div class="flow-index">01</div><div><b>接收资料</b><span>术语、文献、指南、病历、PDF、Word、图片、Markdown、表格。</span></div></div>
+              <div class="flow-row"><div class="flow-index">02</div><div><b>抽取知识</b><span>识别概念实体，提取关系、证据句、来源文件和候选新实体。</span></div></div>
+              <div class="flow-row"><div class="flow-index">03</div><div><b>生成图谱</b><span>输出小图谱、主图谱、更新图谱和树状结构，支持点击与筛选。</span></div></div>
+              <div class="flow-row"><div class="flow-index">04</div><div><b>多轮智能问答</b><span>基于图谱检索、PubMed 提取资料、大模型和本机问答记忆形成连续回答。</span></div></div>
+              <div class="flow-row"><div class="flow-index">05</div><div><b>人工核查与合并</b><span>查看小图谱、CSV 和报告后，用“接受新增候选实体”开关决定是否写入更新图谱。</span></div></div>
+              <div class="flow-row"><div class="flow-index">06</div><div><b>结果文件沉淀</b><span>生成 CSV、GraphML、JSON、HTML、Markdown；填写 Obsidian Vault 时额外写入笔记文件。</span></div></div>
+            </div>
+          </aside>
+
+          <div class="feature-list">
+            <details open>
+              <summary>1. 多来源资料输入</summary>
+              <div class="feature-body">
+                <p>把分散资料统一送入知识图谱系统，减少手工复制、整理和重新命名的负担。</p>
+                <ul class="feature-points">
+                  <li>支持粘贴文本、填写文件路径、填写目录路径和 GUI 拖拽上传。</li>
+                  <li>支持 NCIt 术语、PubMed 摘要、指南段落、病历摘要、研究笔记。</li>
+                  <li>支持 `.txt`、`.md`、`.csv`、`.json`、`.html`、Word、PDF、图片等资料。</li>
+                  <li>对 PDF、图片等读取失败情况生成解析诊断，提示是否需要 OCR 或大模型视觉读取。</li>
+                </ul>
+              </div>
+            </details>
+
+            <details>
+              <summary>2. 概念与实体识别</summary>
+              <div class="feature-body">
+                <p>系统以主知识图谱为词典核心，识别结直肠癌领域中的概念、实体和同义表达。</p>
+                <ul class="feature-points">
+                  <li>识别主图谱已有实体，标记为 `existing`。</li>
+                  <li>发现规则抽取的新候选实体，标记为 `new_candidate_rule`。</li>
+                  <li>调用大模型时补充新候选实体，标记为 `new_candidate_llm`。</li>
+                  <li>保留实体类别、定义、同义词、来源资料和证据句。</li>
+                </ul>
+              </div>
+            </details>
+
+            <details>
+              <summary>3. 关系抽取与证据记录</summary>
+              <div class="feature-body">
+                <p>把实体之间的连接从文本中提取出来，使资料不再只是段落，而能变成可导航的知识网络。</p>
+                <ul class="feature-points">
+                  <li>继承主图谱中已有关系，辅助构建新资料局部网络。</li>
+                  <li>根据同文共现生成候选关系，适合快速发现关联线索。</li>
+                  <li>大模型增强时可抽取更细的实体关系和简短证据。</li>
+                  <li>关系表保留 `source_docs` 和 `evidence`，便于回到原始资料核对。</li>
+                </ul>
+              </div>
+            </details>
+
+            <details>
+              <summary>4. 小知识图谱生成</summary>
+              <div class="feature-body">
+                <p>每批新资料会先形成局部小图谱，作为进入主图谱前的核查入口；系统提供候选状态和证据，但最终判断仍由人工完成。</p>
+                <ul class="feature-points">
+                  <li>生成 `mini_nodes.csv` 和 `mini_edges.csv`，便于表格审核。</li>
+                  <li>生成 `mini_browser.html`，用于浏览局部实体关系网络。</li>
+                  <li>生成 `mini_tree.html`，用于按树状结构查看新资料知识。</li>
+                  <li>生成 `mini_report.json`，记录抽取数量、解析问题和模型调用问题。</li>
+                </ul>
+              </div>
+            </details>
+
+            <details>
+              <summary>5. 主知识图谱与树状结构浏览</summary>
+              <div class="feature-body">
+                <p>系统提供网络图和树状图两种视角：网络图看关系，树状图看层级。</p>
+                <ul class="feature-points">
+                  <li>主知识图谱展示结直肠癌领域实体之间的网络结构。</li>
+                  <li>树状结构展示概念上下位关系，适合做领域框架梳理。</li>
+                  <li>支持按疾病、基因、解剖部位、治疗、标志物等类别筛选。</li>
+                  <li>点击节点可查看类别、定义、同义词、状态、证据和邻接关系。</li>
+                </ul>
+              </div>
+            </details>
+
+            <details>
+              <summary>6. 多轮智能问答 GraphRAG</summary>
+              <div class="feature-body">
+                <p>问答不是只让模型自由发挥，而是先从图谱检索相关实体和关系，再结合最近对话记忆组织上下文生成回答。</p>
+                <ul class="feature-points">
+                  <li>支持基于主知识图谱检索相关节点和边。</li>
+                  <li>支持调用 DeepSeek 生成“综合 AI 回答”。</li>
+                  <li>支持结合 PubMed 提取文件、新资料摘要和图谱证据回答。</li>
+                  <li>可区分本地图谱依据与第三方资料或模型背景知识。</li>
+                  <li>支持多轮追问，例如“它和治疗有什么关系”“继续解释上一个概念”。</li>
+                  <li>问答记忆保存在本机浏览器，可设置记忆轮数，并用“清空记忆”或“导出问答”管理记录。</li>
+                </ul>
+              </div>
+            </details>
+
+            <details>
+              <summary>7. 大模型增强处理</summary>
+              <div class="feature-body">
+                <p>大模型用于补足规则抽取的不足，尤其适合处理复杂中文医学文本、图像资料和关系表达。</p>
+                <ul class="feature-points">
+                  <li>可对新资料生成简要总结，并在 Markdown 中保存更完整分析。</li>
+                  <li>可补充规则难以识别的新实体、别名、定义和关系。</li>
+                  <li>可读取部分图片或扫描 PDF 内容，但需要人工核对。</li>
+                  <li>可关闭大模型增强以提高速度，只保留规则抽取和基础摘要流程。</li>
+                </ul>
+              </div>
+            </details>
+
+            <details>
+              <summary>8. 人工核查、合并更新与版本保留</summary>
+              <div class="feature-body">
+                <p>合并功能负责把小图谱写成一个“更新版图谱目录”。它不是自动审核平台，也不会直接覆盖原始主图谱。</p>
+                <ul class="feature-points">
+                  <li>合并前主要通过 `mini_nodes.csv`、`mini_edges.csv`、小图谱 HTML 和 `mini_report.json` 人工核查。</li>
+                  <li>不勾选“接受新增候选实体”时，候选新实体不会进入更新图谱，只更新已有实体证据和可保留关系。</li>
+                  <li>勾选“接受新增候选实体”后，候选节点会写入 `runs/gui_updated_kg` 这个更新目录。</li>
+                  <li>系统会生成 `merge_report.json` 和 `_backup_source_时间戳` 备份目录，记录合并参数和来源。</li>
+                </ul>
+              </div>
+            </details>
+
+            <details>
+              <summary>9. Markdown 笔记与 Obsidian 文件联动</summary>
+              <div class="feature-body">
+                <p>系统会生成 Markdown 总结文件；如果在 GUI 中填写 Obsidian Vault 路径，会把同类笔记写入指定库和子目录。它目前不是 Obsidian 插件，也不会自动为每个实体建立双链卡片。</p>
+                <ul class="feature-points">
+                  <li>新资料抽取后固定生成 `runs/.../mini_note.md`，记录摘要、解析备注、文档、节点和关系。</li>
+                  <li>合并更新后生成 `runs/.../kg_note.md`，记录更新版图谱的节点和关系摘要。</li>
+                  <li>填写 Vault 路径时，系统会在指定子目录写入 `.md` 笔记，并可生成 `obsidian://open` 打开链接。</li>
+                  <li>后续双链、实体卡片、标签体系和文献笔记结构，需要在 Obsidian 中人工继续整理。</li>
+                </ul>
+              </div>
+            </details>
+
+            <details>
+              <summary>10. 数据文件导出与外部工具衔接</summary>
+              <div class="feature-body">
+                <p>系统会生成多种本地文件格式，便于手动导入外部工具。当前不是自动调用 Gephi、Cytoscape、Neo4j 或统计软件的外部分析流水线。</p>
+                <ul class="feature-points">
+                  <li>小图谱导出 `mini_nodes.csv`、`mini_edges.csv`、`mini_graph.graphml`、`mini_cytoscape.json`、`mini_browser.html`。</li>
+                  <li>更新图谱导出 `kg_nodes.csv`、`kg_edges.csv`、`kg_graph.graphml`、`kg_cytoscape.json`、`kg_browser.html`。</li>
+                  <li>CSV 可用于 Excel、Python 或 R 的后续人工分析；GraphML 可手动导入 Gephi、yEd 或 NetworkX。</li>
+                  <li>Cytoscape JSON 可作为 Cytoscape 生态的数据输入；HTML 主要用于本地浏览和展示。</li>
+                </ul>
+              </div>
+            </details>
+
+            <details>
+              <summary>11. 审核辅助与质量提示</summary>
+              <div class="feature-body">
+                <p>当前系统提供审核辅助信息，但尚不是带审批流、权限和规则库的正式质控平台。</p>
+                <ul class="feature-points">
+                  <li>通过 `kg_status` 区分已有实体、新候选实体和模型候选实体。</li>
+                  <li>通过 `evidence` 与 `source_docs` 回到原文核查。</li>
+                  <li>通过 `parse_errors` 和 `llm_errors` 发现资料读取或模型抽取问题。</li>
+                  <li>通过合并前人工勾选机制，避免候选实体未经确认进入更新图谱。</li>
+                </ul>
+              </div>
+            </details>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="modules">
+      <div class="shell">
+        <div class="section-head">
+          <div>
+            <h2>系统总体功能模块</h2>
+            <p>整个系统围绕“概念和实体”工作：先把结直肠癌领域知识组织成主图谱，再让新资料不断补充这个知识网络，最后服务于检索、问答、写作和研究判断。</p>
+          </div>
+        </div>
+        <div class="panel panel-pad">
+          <div class="module-grid">
+            <article class="module-card" style="color:#2563eb">
+              <div class="module-icon">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M5 6h14M5 12h14M5 18h9" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              </div>
+              <h3>资料输入与读取</h3>
+              <p>接收 NCIt 术语、PubMed 文献、指南、病历摘要以及新上传的 Word、PDF、图片、Markdown、文本资料；把不同格式先转成可处理文本。</p>
+              <div class="module-foot"><span class="mini-tag">拖拽上传</span><span class="mini-tag">PDF/Word</span><span class="mini-tag">图片 OCR</span></div>
+            </article>
+            <article class="module-card" style="color:#0f766e">
+              <div class="module-icon">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M12 4v16M4 12h16M7 7l10 10M17 7 7 17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              </div>
+              <h3>概念实体识别</h3>
+              <p>以主知识图谱中的已有术语为词典，识别疾病、基因、解剖部位、治疗、分期、标志物等实体，同时发现新候选概念。</p>
+              <div class="module-foot"><span class="mini-tag">NER</span><span class="mini-tag">同义词</span><span class="mini-tag">候选实体</span></div>
+            </article>
+            <article class="module-card" style="color:#7c3aed">
+              <div class="module-icon">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M6 12a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm12 6a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM9 9l6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              </div>
+              <h3>关系抽取与小图谱生成</h3>
+              <p>从新资料中抽取实体之间的共现、从属、关联和证据关系，生成局部小知识图谱，用于人工审核和快速浏览。</p>
+              <div class="module-foot"><span class="mini-tag">mini_nodes</span><span class="mini-tag">mini_edges</span><span class="mini-tag">局部网络</span></div>
+            </article>
+            <article class="module-card" style="color:#b45309">
+              <div class="module-icon">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M4 7h16v10H4V7Zm4-3v4m8-4v4M8 17v3m8-3v3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </div>
+              <h3>可视化浏览</h3>
+              <p>提供主知识图谱、最近小图谱、最近更新图谱和树状结构页面；可按节点类型筛选，点击节点查看概念、实体、同义词和关系。</p>
+              <div class="module-foot"><span class="mini-tag">网络图</span><span class="mini-tag">知识树</span><span class="mini-tag">类别筛选</span></div>
+            </article>
+            <article class="module-card" style="color:#b91c1c">
+              <div class="module-icon">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M4 12a8 8 0 0 1 13.7-5.7M20 12a8 8 0 0 1-13.7 5.7M17 3v4h4M7 21v-4H3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </div>
+              <h3>人工核查与合并更新</h3>
+              <p>把新资料形成的小图谱合并到更新版知识图谱目录中；系统提供候选状态、证据和合并报告，但候选实体是否接收需要人工判断。</p>
+              <div class="module-foot"><span class="mini-tag">候选状态</span><span class="mini-tag">合并开关</span><span class="mini-tag">备份目录</span></div>
+            </article>
+            <article class="module-card" style="color:#0891b2">
+              <div class="module-icon">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M5 6h14v9H9l-4 4V6Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M9 10h6M9 13h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              </div>
+              <h3>多轮智能问答与研究辅助</h3>
+              <p>围绕图谱检索相关节点和关系，再结合最近对话记忆调用 DeepSeek 生成回答；可连续追问，并区分图谱、PubMed 和 AI 综合知识来源。</p>
+              <div class="module-foot"><span class="mini-tag">GraphRAG</span><span class="mini-tag">问答记忆</span><span class="mini-tag">来源分层</span></div>
+            </article>
+            <article class="module-card" style="color:#15803d">
+              <div class="module-icon">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M6 4h12v16H6V4Z" stroke="currentColor" stroke-width="2"/><path d="M9 8h6M9 12h6M9 16h3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              </div>
+              <h3>Markdown 与 Obsidian 文件联动</h3>
+              <p>新资料抽取和合并更新会生成 Markdown 笔记；填写 Obsidian Vault 后，系统可把笔记写入指定子目录并生成打开链接。</p>
+              <div class="module-foot"><span class="mini-tag">mini_note.md</span><span class="mini-tag">kg_note.md</span><span class="mini-tag">Vault 写入</span></div>
+            </article>
+            <article class="module-card" style="color:#64748b">
+              <div class="module-icon">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M5 5h14v14H5V5Z" stroke="currentColor" stroke-width="2"/><path d="M9 9h6v6H9V9Z" stroke="currentColor" stroke-width="2"/><path d="M3 9h2m-2 6h2m14-6h2m-2 6h2M9 3v2m6-2v2M9 19v2m6-2v2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              </div>
+              <h3>数据文件导出</h3>
+              <p>输出 CSV、GraphML、Cytoscape JSON、HTML 等本地文件；外部工具分析需要用户把这些文件手动导入相应软件。</p>
+              <div class="module-foot"><span class="mini-tag">CSV</span><span class="mini-tag">GraphML</span><span class="mini-tag">HTML</span></div>
+            </article>
+            <article class="module-card" style="color:#be123c">
+              <div class="module-icon">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M12 3 4 7v6c0 4.4 3.4 7 8 8 4.6-1 8-3.6 8-8V7l-8-4Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="m8.5 12 2.2 2.2 4.8-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </div>
+              <h3>审核辅助与质量提示</h3>
+              <p>系统会保留候选实体状态、证据句、来源文件、解析错误和合并报告，辅助人工判断抽取结果；目前不是带权限、审批流和质控规则库的正式审核模块。</p>
+              <div class="module-foot"><span class="mini-tag">候选状态</span><span class="mini-tag">证据句</span><span class="mini-tag">解析诊断</span></div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="architecture">
+      <div class="shell">
+        <div class="section-head">
+          <div>
+            <h2>整体架构</h2>
+            <p>系统不是单纯画图，而是一个从资料输入、知识抽取、知识存储到问答和更新的闭环。</p>
+          </div>
+        </div>
+        <div class="panel panel-pad architecture">
+          <div class="arch-stack">
+            <div class="arch-row">
+              <div class="arch-label">数据输入层</div>
+              <div class="arch-content">
+                <span class="chip"><i style="color:#2563eb"></i>NCIt 术语</span>
+                <span class="chip"><i style="color:#0f766e"></i>PubMed 文献</span>
+                <span class="chip"><i style="color:#b45309"></i>指南</span>
+                <span class="chip"><i style="color:#7c3aed"></i>病历</span>
+                <span class="chip"><i style="color:#b91c1c"></i>新 PDF / Word / 图片</span>
+              </div>
+            </div>
+            <div class="arch-row">
+              <div class="arch-label">知识抽取层</div>
+              <div class="arch-content">
+                <span class="chip"><i style="color:#0f766e"></i>NER 实体识别</span>
+                <span class="chip"><i style="color:#2563eb"></i>关系抽取</span>
+                <span class="chip"><i style="color:#7c3aed"></i>事件抽取</span>
+                <span class="chip"><i style="color:#b45309"></i>属性补全</span>
+                <span class="chip"><i style="color:#b91c1c"></i>大模型增强</span>
+              </div>
+            </div>
+            <div class="arch-row">
+              <div class="arch-label">知识存储层</div>
+              <div class="arch-content">
+                <span class="chip"><i style="color:#7c3aed"></i>CSV 主数据</span>
+                <span class="chip"><i style="color:#2563eb"></i>GraphML</span>
+                <span class="chip"><i style="color:#0f766e"></i>Cytoscape JSON</span>
+                <span class="chip"><i style="color:#b45309"></i>Markdown 笔记</span>
+                <span class="chip"><i style="color:#64748b"></i>Neo4j / Chroma / SQLite 预留</span>
+              </div>
+            </div>
+            <div class="arch-row">
+              <div class="arch-label">应用层</div>
+              <div class="arch-content">
+                <span class="chip"><i style="color:#2563eb"></i>知识图谱可视化</span>
+                <span class="chip"><i style="color:#0f766e"></i>智能问答 GraphRAG</span>
+                <span class="chip"><i style="color:#b45309"></i>知识更新</span>
+                <span class="chip"><i style="color:#7c3aed"></i>Obsidian 联动</span>
+              </div>
+            </div>
+          </div>
+          <aside class="arch-note">
+            <div class="note-card"><strong>核心对象</strong><span>以“概念 / 实体”为节点，定义、同义词、证据句、来源资料作为属性，关系作为边。</span></div>
+            <div class="note-card"><strong>安全边界</strong><span>合并更新默认生成新目录，不直接覆盖原始主图谱，便于回滚和人工审核。</span></div>
+            <div class="note-card"><strong>适合场景</strong><span>术语体系梳理、文献快速整合、研究问题探索、病种知识库持续更新。</span></div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <section id="workflow">
+      <div class="shell">
+        <div class="section-head">
+          <div>
+            <h2>具体使用</h2>
+            <p>按任务切换标签页。每个标签页只保留最关键的操作，不需要先理解全部代码。</p>
+          </div>
+        </div>
+        <div class="panel panel-pad">
+          <div class="tabs" role="tablist" aria-label="使用流程">
+            <button class="tab active" data-tab="start">启动系统</button>
+            <button class="tab" data-tab="extract">新资料抽取</button>
+            <button class="tab" data-tab="browse">图谱浏览</button>
+            <button class="tab" data-tab="merge">合并更新</button>
+            <button class="tab" data-tab="obsidian">Obsidian 联动</button>
+          </div>
+
+          <div class="tab-content active" id="tab-start">
+            <div class="workflow-grid">
+              <div class="steps">
+                <div class="step"><div class="step-num">1</div><div><b>进入工作目录</b><span>所有命令建议在这个目录下运行。</span></div></div>
+                <div class="step"><div class="step-num">2</div><div><b>确认 API 配置</b><span>`config.deepseek.json` 已保存接口配置；密钥不要公开展示。</span></div></div>
+                <div class="step"><div class="step-num">3</div><div><b>启动 GUI</b><span>浏览器打开 `http://127.0.0.1:8765` 后即可使用。</span></div></div>
+              </div>
+              <div>
+                <div class="codebox">
+                  <button class="copy-btn" data-copy="cmdStart">复制</button>
+                  <pre id="cmdStart">cd &lt;项目根目录&gt;
+python .\kg_update_system\kg_gui.py</pre>
+                </div>
+                <div class="tip">如果浏览器没有自动弹出，手动打开 `http://127.0.0.1:8765`。如果端口被占用，先关闭旧的 GUI 窗口或结束旧进程。</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="tab-content" id="tab-extract">
+            <div class="workflow-grid">
+              <div class="steps">
+                <div class="step"><div class="step-num">1</div><div><b>拖拽或选择资料</b><span>支持 Word、PDF、图片、文本、Markdown、网页和表格类资料。</span></div></div>
+                <div class="step"><div class="step-num">2</div><div><b>选择是否总结</b><span>下方会显示简要总结，Markdown 里保存更完整的分析与整合建议。</span></div></div>
+                <div class="step"><div class="step-num">3</div><div><b>选择是否大模型增强</b><span>不开启时速度快；开启后能补充规则难以识别的新实体和关系。</span></div></div>
+              </div>
+              <div>
+                <div class="codebox">
+                  <button class="copy-btn" data-copy="cmdExtract">复制</button>
+                  <pre id="cmdExtract">python .\kg_update_system\kg_incremental.py extract `
+  --input .\你的新资料目录 `
+  --kg-dir .\colorectal_knowledge_graph `
+  --output .\kg_update_system\runs\my_new_mini `
+  --config .\kg_update_system\config.deepseek.json</pre>
+                </div>
+                <div class="tip">GUI 里更简单：打开“新资料抽取”，把文件拖进去，点“开始抽取”。完成后打开 `mini_browser.html` 或 `mini_tree.html` 查看小图谱。</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="tab-content" id="tab-browse">
+            <div class="workflow-grid">
+              <div class="steps">
+                <div class="step"><div class="step-num">1</div><div><b>主知识图谱</b><span>看全部结直肠癌概念和实体网络。</span></div></div>
+                <div class="step"><div class="step-num">2</div><div><b>主知识树</b><span>按概念层级查看，适合系统梳理实体类别。</span></div></div>
+                <div class="step"><div class="step-num">3</div><div><b>最近小图谱</b><span>只看新资料抽取出来的局部网络。</span></div></div>
+              </div>
+              <div class="hero-actions" style="margin-top:0">
+                <a class="btn primary" href="../colorectal_knowledge_graph/kg_browser.html" target="_blank">打开主知识图谱</a>
+                <a class="btn" href="../colorectal_knowledge_graph/kg_tree.html" target="_blank">打开主知识树</a>
+                <a class="btn" href="runs/gui_mini/mini_browser.html" target="_blank">打开最近小图谱</a>
+                <a class="btn" href="runs/gui_mini/mini_tree.html" target="_blank">打开最近小知识树</a>
+                <a class="btn" href="runs/gui_updated_kg/kg_browser.html" target="_blank">打开最近更新图谱</a>
+                <a class="btn" href="runs/gui_updated_kg/kg_tree.html" target="_blank">打开最近更新树</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="tab-content" id="tab-merge">
+            <div class="workflow-grid">
+              <div class="steps">
+                <div class="step"><div class="step-num">1</div><div><b>先人工核查小图谱</b><span>重点查看 `mini_nodes.csv` 中 `kg_status` 不是 `existing` 的候选实体，以及对应证据句。</span></div></div>
+                <div class="step"><div class="step-num">2</div><div><b>决定是否接收新实体</b><span>不接收时候选新实体不会进入更新图谱；接收时写入更新目录。</span></div></div>
+                <div class="step"><div class="step-num">3</div><div><b>生成更新版图谱</b><span>输出到 `runs/gui_updated_kg`，原始主图谱不被直接覆盖，并保留备份来源目录。</span></div></div>
+              </div>
+              <div>
+                <div class="codebox">
+                  <button class="copy-btn" data-copy="cmdMerge">复制</button>
+                  <pre id="cmdMerge">python .\kg_update_system\kg_incremental.py merge `
+  --base-kg .\colorectal_knowledge_graph `
+  --mini .\kg_update_system\runs\gui_mini `
+  --output .\kg_update_system\runs\gui_updated_kg `
+  --accept-candidates</pre>
+                </div>
+                <div class="tip">实际边界：当前没有逐条审批流；主要通过 CSV、HTML 小图谱、证据句和报告做人工核查，再用合并开关控制候选实体是否进入更新图谱。</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="tab-content" id="tab-obsidian">
+            <div class="workflow-grid">
+              <div class="steps">
+                <div class="step"><div class="step-num">1</div><div><b>生成 Markdown 文件</b><span>系统会在输出目录生成 `mini_note.md` 或 `kg_note.md`。</span></div></div>
+                <div class="step"><div class="step-num">2</div><div><b>填写 Vault 后写入 Obsidian</b><span>GUI 中填写 Obsidian Vault 路径后，系统可把笔记写入指定子目录并生成打开链接。</span></div></div>
+                <div class="step"><div class="step-num">3</div><div><b>人工继续整理</b><span>实体双链、标签、文献笔记结构需要在 Obsidian 中继续编辑。</span></div></div>
+              </div>
+              <div class="result-card">
+                <h3>推荐联动方式</h3>
+                <ul class="compact-list">
+                  <li>不填写 Vault 时，直接使用输出目录里的 `mini_note.md` 或 `kg_note.md`。</li>
+                  <li>填写 Vault 和子目录时，系统会复制/写入一份 Markdown 笔记到 Obsidian 库。</li>
+                  <li>勾选“抽取后打开笔记”时，系统返回 `obsidian://open` 链接供浏览器打开。</li>
+                  <li>系统不会自动生成每个实体的独立双链卡片；这一步需要后续人工整理。</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="scenario">
+      <div class="shell">
+        <div class="section-head">
+          <div>
+            <h2>选择你的任务</h2>
+            <p>点一个场景，页面会给出最短路径和应该打开的结果文件。</p>
+          </div>
+        </div>
+        <div class="panel panel-pad">
+          <div class="usecase-grid" id="usecases">
+            <button class="usecase active" data-case="ask">
+              <svg viewBox="0 0 24 24" fill="none"><path d="M5 6h14v9H8l-3 3V6Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+              <b>我想问问题</b><span>让系统结合图谱和大模型回答。</span>
+            </button>
+            <button class="usecase" data-case="newdata">
+              <svg viewBox="0 0 24 24" fill="none"><path d="M6 3h8l4 4v14H6V3Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M14 3v5h5" stroke="currentColor" stroke-width="2"/></svg>
+              <b>我有新资料</b><span>把 PDF、Word、图片或文本变成小图谱。</span>
+            </button>
+            <button class="usecase" data-case="update">
+              <svg viewBox="0 0 24 24" fill="none"><path d="M4 12a8 8 0 0 1 13.7-5.7M20 12a8 8 0 0 1-13.7 5.7M17 3v4h4M7 21v-4H3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <b>我想更新主图谱</b><span>人工核查候选实体后合并。</span>
+            </button>
+            <button class="usecase" data-case="write">
+              <svg viewBox="0 0 24 24" fill="none"><path d="M5 4h14v16H5V4Z" stroke="currentColor" stroke-width="2"/><path d="M8 8h8M8 12h8M8 16h5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              <b>我想写研究笔记</b><span>用 Markdown 保存结果，必要时写入 Obsidian。</span>
+            </button>
+          </div>
+          <div class="usecase-result">
+            <div class="result-card">
+              <h3 id="caseTitle">智能问答最短路径</h3>
+              <ul class="compact-list" id="caseSteps"></ul>
+            </div>
+            <div class="result-card">
+              <h3>应该查看</h3>
+              <ul class="compact-list" id="caseFiles"></ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="graph">
+      <div class="shell">
+        <div class="section-head">
+          <div>
+            <h2>图谱交互示例</h2>
+            <p>这里模拟主图谱的核心逻辑：左侧勾选类别，中间只显示所选概念，右侧显示点击节点后的实体信息。</p>
+          </div>
+        </div>
+        <div class="panel panel-pad graph-lab">
+          <aside class="filter-card">
+            <h3>节点类别</h3>
+            <label class="check-row"><input type="checkbox" checked data-cat="Disease"><span class="legend-dot" style="background:#2563eb"></span>疾病概念</label>
+            <label class="check-row"><input type="checkbox" checked data-cat="Gene"><span class="legend-dot" style="background:#15803d"></span>基因/分子</label>
+            <label class="check-row"><input type="checkbox" checked data-cat="Anatomy"><span class="legend-dot" style="background:#b45309"></span>解剖部位</label>
+            <label class="check-row"><input type="checkbox" checked data-cat="Biomarker"><span class="legend-dot" style="background:#7c3aed"></span>生物标志物</label>
+            <label class="check-row"><input type="checkbox" checked data-cat="Treatment"><span class="legend-dot" style="background:#0891b2"></span>治疗方式</label>
+            <label class="check-row"><input type="checkbox" checked data-cat="Stage"><span class="legend-dot" style="background:#b91c1c"></span>分期/分型</label>
+            <div class="tip">真实图谱里点击“解剖部位”等模块，会展开该类下的概念/实体，并可按勾选控制显示范围。</div>
+          </aside>
+          <div class="graph-stage">
+            <svg id="demoGraph" viewBox="0 0 720 480" role="img" aria-label="交互式知识图谱示例"></svg>
+          </div>
+          <aside class="detail-card">
+            <h3>节点信息</h3>
+            <div id="nodeDetail">点击中间图谱中的任意节点，查看概念类别、同义词、关系和使用提示。</div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <section id="qa">
+      <div class="shell">
+        <div class="section-head">
+          <div>
+            <h2>智能问答如何工作</h2>
+            <p>问答结果分成两层：突出显示“综合 AI 回答”，同时列出图谱依据；如果调用第三方资料，应明确标注来源不是本地图谱。新版支持多轮问答，最近对话会作为本机记忆参与后续追问。</p>
+          </div>
+        </div>
+        <div class="panel panel-pad qa-demo">
+          <div class="question-list">
+            <button class="question active" data-q="kras">KRAS 突变和结直肠癌有什么关系？</button>
+            <button class="question" data-q="msi">MSI-H 为什么会影响免疫治疗？</button>
+            <button class="question" data-q="memory">多轮问答记忆怎么用？</button>
+            <button class="question" data-q="newdoc">我上传的新 PDF 能总结什么？</button>
+            <button class="question" data-q="third">什么时候需要第三方资料？</button>
+          </div>
+          <div class="answer-box">
+            <div class="answer-title">
+              <h3 id="answerTitle">综合 AI 回答</h3>
+              <span class="badge" id="answerBadge">图谱 + 大模型</span>
+            </div>
+            <div class="answer-body" id="answerBody"></div>
+            <div class="evidence-grid" id="answerEvidence"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="files">
+      <div class="shell">
+        <div class="section-head">
+          <div>
+            <h2>文件地图</h2>
+            <p>输入关键词可以筛选文件。常用文件支持直接点击打开。</p>
+          </div>
+        </div>
+        <div class="panel panel-pad">
+          <div class="file-tools">
+            <input class="search" id="fileSearch" placeholder="搜索文件，例如 browser、tree、config、note、csv">
+            <button class="btn" id="resetSearch">重置</button>
+          </div>
+          <div class="file-grid" id="fileGrid"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="troubleshooting">
+      <div class="shell">
+        <div class="section-head">
+          <div>
+            <h2>常见问题</h2>
+            <p>这里保留最常见的故障判断入口，便于学生或第一次使用者快速定位。</p>
+          </div>
+        </div>
+        <div class="trouble-grid">
+          <details open>
+            <summary>GUI 打不开</summary>
+            <p>先运行 `python .\kg_update_system\kg_gui.py`，再访问 `http://127.0.0.1:8765`。如果仍打不开，检查 PowerShell 是否停在报错处，或端口 8765 是否被旧进程占用。</p>
+          </details>
+          <details>
+            <summary>PDF 或图片未读取到资料</summary>
+            <p>优先检查文件是否是扫描件、图片是否清晰、PDF 是否可复制文本。扫描件需要 OCR；含复杂表格或低清图片时，大模型总结也可能缺少证据句。</p>
+          </details>
+          <details>
+            <summary>DeepSeek 调用慢</summary>
+            <p>减少一次投入的资料量，先不开启“大模型增强”跑规则抽取；需要补关系和摘要时再开启模型。长 PDF 建议拆成章节处理。</p>
+          </details>
+          <details>
+            <summary>图谱太乱</summary>
+            <p>优先使用类别筛选和 top-k 检索。top-k 表示“最多取前 k 个最相关结果”，数值越大覆盖越多，但页面和答案会更杂。</p>
+          </details>
+          <details>
+            <summary>新实体要不要合并</summary>
+            <p>先看候选实体是否真属于结直肠癌领域、是否与已有同义词重复、是否有来源证据。确认后再勾选“接受新增候选实体”。</p>
+          </details>
+          <details>
+            <summary>第三方资料如何标注</summary>
+            <p>本地图谱来自系统已有 CSV/HTML/GraphML；网络或模型外部知识应在回答里单独标为“第三方资料/模型背景知识”，避免和本地证据混淆。</p>
+          </details>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="shell">本页为本地静态说明书，可直接双击打开；实际分析、抽取、问答和合并请在 GUI 工作台中执行。</div>
+  </footer>
+
+  <script>
+    const cases = {
+      ask: {
+        title: "智能问答最短路径",
+        steps: ["启动 GUI 工作台", "进入“智能问答”", "输入问题并选择 top-k", "按需启用多轮记忆和设置记忆轮数", "需要综合回答时启用大模型", "连续追问并查看“综合 AI 回答”和“图谱依据”"],
+        files: ["http://127.0.0.1:8765", "colorectal_knowledge_graph/kg_browser.html", "kg_update_system/config.deepseek.json"]
+      },
+      newdata: {
+        title: "新资料抽取最短路径",
+        steps: ["进入“新资料抽取”", "拖拽 PDF、Word、图片或文本", "选择是否生成摘要", "先规则抽取，必要时开启大模型增强", "打开小图谱和 Markdown 笔记"],
+        files: ["kg_update_system/runs/gui_mini/mini_browser.html", "kg_update_system/runs/gui_mini/mini_tree.html", "kg_update_system/runs/gui_mini/mini_note.md"]
+      },
+      update: {
+        title: "更新主图谱最短路径",
+        steps: ["先查看 mini_nodes.csv、mini_edges.csv 和小图谱 HTML", "人工确认候选实体是否可接收", "进入“合并更新”并选择是否接受新增候选实体", "生成 runs/gui_updated_kg", "打开更新后的图谱和树"],
+        files: ["kg_update_system/runs/gui_updated_kg/kg_browser.html", "kg_update_system/runs/gui_updated_kg/kg_tree.html", "kg_update_system/runs/gui_updated_kg/merge_report.json"]
+      },
+      write: {
+        title: "研究笔记最短路径",
+        steps: ["抽取新资料并生成 mini_note.md", "合并更新时生成 kg_note.md", "需要 Obsidian 时在 GUI 填写 Vault 路径和子目录", "在 Obsidian 中人工整理实体双链和标签", "必要时把整理后的笔记作为新资料再次输入"],
+        files: ["kg_update_system/runs/gui_mini/mini_note.md", "kg_update_system/runs/gui_updated_kg/kg_note.md", "Obsidian vault 中的实体笔记"]
+      }
+    };
+
+    const qa = {
+      kras: {
+        title: "KRAS 突变和结直肠癌",
+        badge: "图谱 + 大模型",
+        body: "KRAS 是结直肠癌研究中常见的分子实体。知识图谱会把它与疾病概念、分子分型、治疗反应和相关证据句连接起来；综合回答时，大模型会在图谱上下文基础上组织成可读解释。",
+        evidence: [["相关实体", "Colorectal Cancer, KRAS, Mutation"], ["相关关系", "疾病-基因、疾病-分型、分子改变-治疗反应"], ["适合追问", "KRAS 与 EGFR 靶向治疗、预后、检测策略"], ["注意", "临床决策仍需指南和具体患者信息"]]
+      },
+      msi: {
+        title: "MSI-H 与免疫治疗",
+        badge: "图谱依据优先",
+        body: "MSI-H 通常作为分子分型或生物标志物节点出现。系统回答时会先找出 MSI-H、免疫治疗、结直肠癌及其邻接关系，再由模型整合成机制解释和研究用途。",
+        evidence: [["相关实体", "MSI-H, Immunotherapy, Colorectal Cancer"], ["相关关系", "标志物-治疗、疾病-分型"], ["可视化入口", "主知识图谱中筛选 Biomarker 与 Treatment"], ["输出", "回答正文 + 相关节点 + 相关边"]]
+      },
+      memory: {
+        title: "多轮问答记忆",
+        badge: "本机浏览器记忆",
+        body: "启用问答记忆后，GUI 会把最近若干轮用户问题和 AI 回答保存在本机浏览器 localStorage，并在下一轮提问时发给后端。后端会用这些历史内容辅助图谱检索和大模型回答，因此可以连续追问“它”“上面这个突变”“继续解释治疗意义”。",
+        evidence: [["保存位置", "本机浏览器 localStorage"], ["可控项", "启用/关闭记忆、设置记忆轮数"], ["管理", "清空记忆、导出问答为 Markdown"], ["边界", "不是长期数据库；换浏览器或清空缓存后记录会消失"]]
+      },
+      newdoc: {
+        title: "新 PDF 的总结",
+        badge: "新资料摘要",
+        body: "新资料抽取模块会先读取文件文本；勾选总结时生成简要总结，并把摘要、解析备注、识别到的节点和候选关系写入 Markdown 笔记文件。",
+        evidence: [["输入", "PDF / Word / 图片 / 文本"], ["输出", "mini_note.md, mini_nodes.csv, mini_edges.csv"], ["可选项", "总结与否、大模型增强与否"], ["失败点", "扫描件 OCR、低清图片、加密 PDF"]]
+      },
+      third: {
+        title: "第三方资料的使用边界",
+        badge: "需明确标注来源",
+        body: "当本地图谱证据不足时，可以让模型结合外部知识或第三方资料回答。页面应把这类内容标明为“第三方资料/模型背景知识”，并与本地图谱证据分开显示。",
+        evidence: [["本地图谱", "CSV/HTML/GraphML 中已有节点和边"], ["第三方资料", "模型背景知识、联网资料、外部数据库"], ["显示原则", "来源分层，避免证据混淆"], ["建议", "关键医学结论回到指南或原文核验"]]
+      }
+    };
+
+    const graphNodes = [
+      { id: "crc", label: "Colorectal Cancer", cat: "Disease", x: 360, y: 235, r: 50, color: "#2563eb", synonyms: "CRC, Colorectal Neoplasm", note: "主疾病概念，是图谱中的中心节点。" },
+      { id: "colon", label: "Colon", cat: "Anatomy", x: 150, y: 130, r: 34, color: "#b45309", synonyms: "Large Intestine", note: "解剖部位，可与肿瘤发生位置、病理类型相连。" },
+      { id: "rectum", label: "Rectum", cat: "Anatomy", x: 135, y: 330, r: 34, color: "#b45309", synonyms: "Rectal Site", note: "解剖部位，适合和直肠癌、局部治疗策略关联。" },
+      { id: "kras", label: "KRAS", cat: "Gene", x: 300, y: 96, r: 32, color: "#15803d", synonyms: "KRAS gene", note: "分子实体，可用于突变、检测、治疗反应相关问答。" },
+      { id: "apc", label: "APC", cat: "Gene", x: 520, y: 120, r: 31, color: "#15803d", synonyms: "APC gene", note: "结直肠癌发生发展中常见基因实体。" },
+      { id: "msi", label: "MSI-H", cat: "Biomarker", x: 560, y: 270, r: 36, color: "#7c3aed", synonyms: "Microsatellite Instability-High", note: "生物标志物/分子分型，可连接免疫治疗。" },
+      { id: "immuno", label: "Immunotherapy", cat: "Treatment", x: 430, y: 382, r: 42, color: "#0891b2", synonyms: "Immune Checkpoint Therapy", note: "治疗方式节点，可与 MSI-H 等标志物关联。" },
+      { id: "tnm", label: "TNM Stage", cat: "Stage", x: 235, y: 410, r: 35, color: "#b91c1c", synonyms: "TNM Classification", note: "分期实体，适合组织临床分层知识。" }
+    ];
+    const graphEdges = [
+      ["crc", "colon", "has_site"], ["crc", "rectum", "has_site"], ["crc", "kras", "associated_gene"],
+      ["crc", "apc", "associated_gene"], ["crc", "msi", "has_biomarker"], ["msi", "immuno", "predicts_response"],
+      ["crc", "tnm", "staged_by"], ["tnm", "rectum", "applies_to"]
+    ];
+
+    const fileCards = [
+      { type: "入口", name: "kg_gui.py", href: "kg_gui.py", desc: "GUI 工作台服务，启动后浏览器访问 127.0.0.1:8765。" },
+      { type: "核心", name: "kg_incremental.py", href: "kg_incremental.py", desc: "新资料抽取、小图谱生成、合并更新、智能问答的主逻辑。" },
+      { type: "配置", name: "config.deepseek.json", href: "config.deepseek.json", desc: "DeepSeek 兼容 OpenAI 接口配置。不要在页面或文档里公开密钥内容。" },
+      { type: "主图谱", name: "kg_browser.html", href: "../colorectal_knowledge_graph/kg_browser.html", desc: "主知识图谱浏览页面，适合看实体关系网络。" },
+      { type: "主图谱", name: "kg_tree.html", href: "../colorectal_knowledge_graph/kg_tree.html", desc: "主知识树页面，适合按概念层级浏览。" },
+      { type: "主数据", name: "kg_nodes.csv", href: "../colorectal_knowledge_graph/kg_nodes.csv", desc: "主图谱节点表：概念、实体、类别、定义、同义词等。" },
+      { type: "主数据", name: "kg_edges.csv", href: "../colorectal_knowledge_graph/kg_edges.csv", desc: "主图谱关系表：节点之间的关系和来源。" },
+      { type: "小图谱", name: "mini_browser.html", href: "runs/gui_mini/mini_browser.html", desc: "最近一次新资料抽取得到的小知识图谱。" },
+      { type: "小图谱", name: "mini_tree.html", href: "runs/gui_mini/mini_tree.html", desc: "最近一次新资料抽取生成的小知识树。" },
+      { type: "笔记", name: "mini_note.md", href: "runs/gui_mini/mini_note.md", desc: "新资料摘要、解析备注、节点和关系；填写 Vault 时可另写入 Obsidian。" },
+      { type: "更新图谱", name: "kg_browser.html", href: "runs/gui_updated_kg/kg_browser.html", desc: "合并后生成的更新版知识图谱。" },
+      { type: "报告", name: "merge_report.json", href: "runs/gui_updated_kg/merge_report.json", desc: "合并统计和来源记录，便于审计。" }
+    ];
+
+    function renderCase(key) {
+      const item = cases[key];
+      document.getElementById("caseTitle").textContent = item.title;
+      document.getElementById("caseSteps").innerHTML = item.steps.map(x => `<li>${x}</li>`).join("");
+      document.getElementById("caseFiles").innerHTML = item.files.map(x => `<li><code>${x}</code></li>`).join("");
+    }
+
+    function renderGraph() {
+      const enabled = new Set([...document.querySelectorAll("[data-cat]:checked")].map(x => x.dataset.cat));
+      const visible = new Set(graphNodes.filter(n => enabled.has(n.cat)).map(n => n.id));
+      const svg = document.getElementById("demoGraph");
+      const edges = graphEdges
+        .filter(([a, b]) => visible.has(a) && visible.has(b))
+        .map(([a, b, label]) => {
+          const s = graphNodes.find(n => n.id === a);
+          const t = graphNodes.find(n => n.id === b);
+          const mx = (s.x + t.x) / 2;
+          const my = (s.y + t.y) / 2;
+          return `<g><line class="graph-edge" x1="${s.x}" y1="${s.y}" x2="${t.x}" y2="${t.y}"></line><text x="${mx}" y="${my - 5}" text-anchor="middle" font-size="10" fill="#64748b">${label}</text></g>`;
+        }).join("");
+      const nodes = graphNodes
+        .filter(n => visible.has(n.id))
+        .map(n => `<g class="graph-node" data-node="${n.id}"><circle cx="${n.x}" cy="${n.y}" r="${n.r}" fill="${n.color}22" stroke="${n.color}" stroke-width="2.5"></circle><text x="${n.x}" y="${n.y + 4}" text-anchor="middle">${n.label}</text></g>`)
+        .join("");
+      svg.innerHTML = `<rect x="0" y="0" width="720" height="480" fill="transparent"></rect>${edges}${nodes}`;
+      svg.querySelectorAll("[data-node]").forEach(g => {
+        g.addEventListener("click", () => showNode(g.dataset.node));
+      });
+      const first = graphNodes.find(n => visible.has(n.id));
+      if (first) showNode(first.id);
+      else document.getElementById("nodeDetail").textContent = "当前没有勾选任何节点类别。";
+    }
+
+    function showNode(id) {
+      const n = graphNodes.find(x => x.id === id);
+      const related = graphEdges
+        .filter(([a, b]) => a === id || b === id)
+        .map(([a, b, label]) => {
+          const other = graphNodes.find(x => x.id === (a === id ? b : a));
+          return `${label} -> ${other ? other.label : ""}`;
+        });
+      document.getElementById("nodeDetail").innerHTML = `
+        <strong style="font-size:20px;color:${n.color}">${n.label}</strong>
+        <div class="detail-kv">
+          <div class="kv"><b>类别</b><span>${n.cat}</span></div>
+          <div class="kv"><b>同义词</b><span>${n.synonyms}</span></div>
+          <div class="kv"><b>说明</b><span>${n.note}</span></div>
+          <div class="kv"><b>相关关系</b><span>${related.length ? related.join("；") : "当前筛选下暂无可见关系"}</span></div>
+        </div>`;
+    }
+
+    function renderFiles(filter = "") {
+      const q = filter.trim().toLowerCase();
+      const data = fileCards.filter(f => !q || `${f.type} ${f.name} ${f.desc}`.toLowerCase().includes(q));
+      document.getElementById("fileGrid").innerHTML = data.map(f => `
+        <article class="file-card">
+          <span class="file-type">${f.type}</span>
+          <h3>${f.name}</h3>
+          <p>${f.desc}</p>
+          <a href="${f.href}" target="_blank">打开文件
+            <svg class="icon" viewBox="0 0 24 24" fill="none"><path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </a>
+        </article>`).join("");
+    }
+
+    function renderQa(key) {
+      const item = qa[key];
+      document.getElementById("answerTitle").textContent = item.title;
+      document.getElementById("answerBadge").textContent = item.badge;
+      document.getElementById("answerBody").textContent = item.body;
+      document.getElementById("answerEvidence").innerHTML = item.evidence.map(([k, v]) => `<div class="evidence"><b>${k}</b><span>${v}</span></div>`).join("");
+    }
+
+    document.querySelectorAll(".tab").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+        document.querySelectorAll(".tab-content").forEach(x => x.classList.remove("active"));
+        btn.classList.add("active");
+        document.getElementById(`tab-${btn.dataset.tab}`).classList.add("active");
+      });
+    });
+
+    document.querySelectorAll(".copy-btn").forEach(btn => {
+      btn.addEventListener("click", async () => {
+        const id = btn.dataset.copy;
+        const text = document.getElementById(id).innerText;
+        try {
+          await navigator.clipboard.writeText(text);
+          btn.textContent = "已复制";
+          setTimeout(() => btn.textContent = "复制", 1200);
+        } catch {
+          btn.textContent = "请手动复制";
+          setTimeout(() => btn.textContent = "复制", 1600);
+        }
+      });
+    });
+
+    document.querySelectorAll(".usecase").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".usecase").forEach(x => x.classList.remove("active"));
+        btn.classList.add("active");
+        renderCase(btn.dataset.case);
+      });
+    });
+
+    document.querySelectorAll("[data-cat]").forEach(input => input.addEventListener("change", renderGraph));
+
+    document.querySelectorAll(".question").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".question").forEach(x => x.classList.remove("active"));
+        btn.classList.add("active");
+        renderQa(btn.dataset.q);
+      });
+    });
+
+    document.getElementById("fileSearch").addEventListener("input", e => renderFiles(e.target.value));
+    document.getElementById("resetSearch").addEventListener("click", () => {
+      document.getElementById("fileSearch").value = "";
+      renderFiles("");
+    });
+
+    renderCase("ask");
+    renderGraph();
+    renderQa("kras");
+    renderFiles("");
+  </script>
+</body>
+</html>

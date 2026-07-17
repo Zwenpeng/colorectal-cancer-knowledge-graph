@@ -1,0 +1,749 @@
+﻿code,name,in_colorectal_tree,relation_types,relation_groups,nci_url
+C90529,AJCC v6 Stage,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C90529
+C90530,AJCC v7 Stage,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C90530
+C132248,AJCC v8 Stage,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C132248
+C17567,APC Gene,N,Disease_Mapped_To_Gene|Gene_Involved_In_Pathogenesis_Of_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C17567
+C52458,APC wt Allele,N,Gene_Involved_In_Pathogenesis_Of_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C52458
+C20763,AXIN2 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C20763
+C52464,AXIN2 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C52464
+C220627,AXIN2-Associated Polyposis,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C220627
+C26682,Abdominal Pain,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C26682
+C45659,Absence of Invasion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C45659
+C61059,Adenine DNA Glycosylase,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C61059
+C36773,Adenocarcinoma Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36773
+C37117,Adenocarcinoma Cell with Intracytoplasmic Mucin,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C37117
+C7676,Adenocarcinoma in Adenomatous Polyp,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7676
+C3764,Adenomatous Polyp,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3764
+C159556,Advanced Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C159556
+C156746,Advanced Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C156746
+C162653,Advanced Squamous Cell Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162653
+C36104,Aggressive Clinical Course,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36104
+C7477,Anal Canal Paget Disease,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7477
+C7476,Anal Margin Paget Disease,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7476
+C5598,Anal Paget Disease,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5598
+C36113,Anaplastic Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36113
+C186102,Anorectal Area,N,Disease_Has_Associated_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C186102
+C21574,Antigen Peptide Transporter 1,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C21574
+C6729,Attenuated Familial Adenomatous Polyposis,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C6729
+C18324,BAX Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C18324
+C49368,BAX wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C49368
+C24259,BCL10 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C24259
+C49369,BCL10 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C49369
+C20350,BIRC5 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C20350
+C49359,BIRC5 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C49359
+C18363,BRAF Gene,N,Disease_Mapped_To_Gene|Gene_Involved_In_Pathogenesis_Of_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C18363
+C40430,BRAF Gene Mutation,N,Disease_May_Have_Molecular_Abnormality,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C40430
+C51194,BRAF wt Allele,N,Gene_Involved_In_Pathogenesis_Of_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C51194
+C36100,BRCA1-Related Hereditary Breast and Ovarian Cancer Syndrome,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36100
+C24331,BRINP1 Gene,N,Gene_Is_Biomarker_Of,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C24331
+C54426,BRINP1 wt Allele,N,Gene_Is_Biomarker_Of,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C54426
+C21494,BUB1 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C21494
+C49442,BUB1 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C49442
+C18179,Baculoviral IAP Repeat-Containing Protein 5,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C18179
+C36122,Benign Cellular Infiltrate,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36122
+C136243,Bevacizumab/Capecitabine Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136243
+C136255,Bevacizumab/Fluorouracil Bolus/Leucovorin Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136255
+C136258,Bevacizumab/Irinotecan Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136258
+C2903,Bloom Syndrome,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C2903
+C136254,Bolus Fluorouracil/Leucovorin Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136254
+C17815,Breast Cancer Type 1 Susceptibility Protein,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C17815
+C63596,CAPOX Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63596
+C63609,CAPOX-Bevacizumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63609
+C204582,CAPOX-Cetuximab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C204582
+C227047,CAPOX-Cetuximab/Encorafenib Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C227047
+C227048,CAPOX-Encorafenib/Panitumumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C227048
+C221014,CAPOX/Atezolizumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C221014
+C18249,CDH1 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C18249
+C51151,CDH1 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C51151
+C24293,CEACAM7 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C24293
+C51025,CEACAM7 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C51025
+C176588,CHEK2-Related Hereditary Cancer Predisposition Syndrome,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C176588
+C24296,CHKA Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C24296
+C51051,CHKA wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C51051
+C158520,CPTAC Codelists Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C158520
+C158035,CPTAC Medical Conditions Codelist,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C158035
+C156966,CPTAC Neoplasms Codelist,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C156966
+C156952,CPTAC Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C156952
+C88931,CSMD1 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C88931
+C88932,CSMD1 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C88932
+C118168,CTRP Disease Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C118168
+C116977,CTRP Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C116977
+C138190,CTS-API Disease Main Type Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C138190
+C88933,CUB and Sushi Domain-Containing Protein 1,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C88933
+C17245,Cadherin-1,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C17245
+C203950,CapOX/Panitumumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C203950
+C136244,Capecitabine/Cetuximab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136244
+C136245,Capecitabine/Panitumumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136245
+C25903,Carcinoembryonic Antigen-Related Cell Adhesion Molecule 7,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C25903
+C54172,Carcinomatous Component Present,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C54172
+C17478,Catenin Beta-1,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C17478
+C12381,Cecum,N,Disease_Has_Associated_Anatomic_Site|Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12381
+C12508,Cell,N,Disease_Has_Normal_Cell_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12508
+C165258,Cellosaurus Disease Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C165258
+C17387,Cellular Tumor Antigen p53,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C17387
+C63606,Cetuximab/Irinotecan Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63606
+C153480,Cetuximab/Irinotecan/Vemurafenib Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C153480
+C190275,Childhood Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C190275
+C60644,Childhood Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C60644
+C213152,Childhood Malignant Intestinal Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213152
+C4005,Childhood Malignant Neoplasm,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C4005
+C6283,Childhood Neoplasm,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C6283
+C25920,Choline Kinase Alpha,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C25920
+C60674,Chromogranin-A Positive Neoplastic Cells Present,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C60674
+C138188,Clinical Trials Search-Application Programming Interface Disease Category Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C138188
+C34128,Cloacal Membrane,N,Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C34128
+C12382,Colon,N,Disease_Has_Associated_Anatomic_Site|Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12382
+C3864,Colon Adenoma,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3864
+C96479,Colon Adenomatous Polyp,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96479
+C5697,Colon Neuroendocrine Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5697
+C17514,Colorectal Mutant Cancer Protein,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C17514
+C96152,Colorectal Neuroendocrine Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96152
+C54189,Colorectal Region,N,Disease_Has_Associated_Anatomic_Site|Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C54189
+C36128,Comedo Necrosis,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36128
+C37930,Constipation,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C37930
+C130202,Constitutional Mismatch Repair Deficiency Syndrome,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C130202
+C201124,Cribriform Comedo-Type Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C201124
+C35920,Cribriform Pattern,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C35920
+C2965,Crohn Disease,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C2965
+C17358,DCC Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C17358
+C54427,DCC wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C54427
+C21543,DNA Repair and Recombination Protein RAD54-Like,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C21543
+C12378,Digestive System,N,Disease_Has_Associated_Anatomic_Site|Disease_Has_Metastatic_Anatomic_Site|Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12378
+C210140,Digestive System Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C210140
+C226527,Digestive System Adenosquamous Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C226527
+C96963,Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96963
+C35180,Digestive System Carcinoma In Situ,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C35180
+C154617,Digestive System Large Cell Neuroendocrine Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C154617
+C95406,Digestive System Mixed Adenoneuroendocrine Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C95406
+C154641,Digestive System Small Cell Neuroendocrine Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C154641
+C226528,Digestive System Undifferentiated Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C226528
+C202632,Distal Colon,N,Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C202632
+C18421,EPCAM Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C18421
+C51229,EPCAM wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C51229
+C13054,Embryonic Cell,N,Disease_Excludes_Normal_Cell_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13054
+C32506,Endocrine Cell,N,Disease_Has_Normal_Cell_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C32506
+C12573,Endocrine Cell of the Digestive System,N,Disease_Has_Normal_Cell_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12573
+C188014,Endocrine Differentiation,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C188014
+C12704,Endocrine Gland,N,Disease_Has_Associated_Anatomic_Site|Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12704
+C12705,Endocrine System,N,Disease_Has_Associated_Anatomic_Site|Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12705
+C12865,Endothelial Cell,N,Disease_Excludes_Normal_Cell_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12865
+C12578,Epithelial Cell,N,Disease_Has_Normal_Cell_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12578
+C20209,Epithelial Cell Adhesion Molecule,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C20209
+C53596,Epithelial Component Present,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C53596
+C45714,Epithelial Tissue,N,Disease_Has_Normal_Tissue_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C45714
+C207031,Expression of Neuroendocrine Markers Present,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C207031
+C36150,Extensive Stage Lesion,N,Disease_Excludes_Finding|Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36150
+C187404,Extracellular Mucin Present,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C187404
+C32573,Extrahepatic Bile Duct,N,Disease_Excludes_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C32573
+C20743,FGFR4 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C20743
+C52168,FGFR4 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C52168
+C63593,FOLFIRI Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63593
+C63608,FOLFIRI-Bevacizumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63608
+C104152,FOLFIRI-Cetuximab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C104152
+C225406,FOLFIRI-Cetuximab/Encorafenib Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C225406
+C227045,FOLFIRI-Encorafenib/Panitumumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C227045
+C136249,FOLFIRI-Panitumumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136249
+C136251,FOLFIRI-Ramucirumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136251
+C136250,FOLFIRI-Ziv-aflibercept Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136250
+C63590,FOLFOX-4 Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63590
+C63591,FOLFOX-6 Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63591
+C63592,FOLFOX-7 Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63592
+C136248,FOLFOX-Bevacizumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136248
+C136246,FOLFOX-Cetuximab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136246
+C215149,FOLFOX-Cetuximab/Encorafenib Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C215149
+C215162,FOLFOX-Encorafenib/Panitumumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C215162
+C136247,FOLFOX-Panitumumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136247
+C136252,FOLFOXIRI Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136252
+C136253,FOLFOXIRI-Bevacizumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136253
+C161591,FOLFOXIRI-Cetuximab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C161591
+C161590,FOLFOXIRI-Panitumumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C161590
+C63388,FU-LV Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63388
+C63610,FU-LV-Bevacizumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63610
+C156240,FUOX Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C156240
+C3339,Familial Adenomatous Polyposis,N,Disease_Has_Associated_Disease|Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3339
+C178243,Family Cancer History Relative Primary Diagnosis Question,N,Has_GDC_Value|Is_Value_For_GDC_Property,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C178243
+C36156,Favorable Clinical Outcome,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36156
+C3038,Fever,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3038
+C136256,Fluorouracil Infusional/Leucovorin Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136256
+C157711,GDC Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C157711
+C177537,GDC Value Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C177537
+C6728,Gardner Syndrome,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C6728
+C33923,Glandular Cell,N,Disease_Has_Normal_Cell_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C33923
+C43573,Glandular Differentiation,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43573
+C43370,Glandular Epithelium,N,Disease_Has_Normal_Tissue_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43370
+C12615,Glial Cell,N,Disease_Excludes_Normal_Cell_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12615
+C201135,Goblet Cell Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C201135
+C28077,Grade 1,N,Disease_Is_Grade,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C28077
+C28078,Grade 2,N,Disease_Is_Grade,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C28078
+C28079,Grade 3,N,Disease_Is_Grade,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C28079
+C43612,Hepatobiliary System,N,Disease_Has_Associated_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43612
+C66950,Hepatoid Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C66950
+C165470,Hereditary Colorectal Cancer Syndrome,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C165470
+C120084,Hereditary Colorectal Cancer Type X,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C120084
+C54062,Hereditary Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C54062
+C9479,Hereditary Malignant Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9479
+C220637,Hereditary Mixed Polyposis Syndrome,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C220637
+C120083,Hereditary Nonpolyposis Colorectal Cancer Syndrome,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C120083
+C14158,High Grade,N,Disease_Is_Grade,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C14158
+C35960,High Mitotic Activity,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C35960
+C36493,High-Frequency Microsatellite Instability,N,Disease_Has_Molecular_Abnormality|Disease_May_Have_Molecular_Abnormality,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36493
+C176985,Histology ICD-O Morphology Code,N,Has_GDC_Value|Is_Value_For_GDC_Property,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C176985
+C162258,Hypermutated Sample,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162258
+C177621,ICD-O-3 Morphology Term Diagnosis Question,N,Has_GDC_Value|Is_Value_For_GDC_Property,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C177621
+C63594,IFL Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63594
+C63607,IFL-Bevacizumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63607
+C63717,IFL-Douillard Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63717
+C64191,IFL-FOLFIRI Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C64191
+C77205,ING2 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C77205
+C77206,ING2 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C77206
+C153483,IROX-Bevacizumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C153483
+C36118,In Situ Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36118
+C36683,Inactivating APC Gene Mutation,N,Disease_May_Have_Molecular_Abnormality,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36683
+C3138,Inflammatory Bowel Disease,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3138
+C136257,Infusional Fluorouracil/Leucovorin/Bevacizumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136257
+C77207,Inhibitor of Growth Protein 2,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C77207
+C155862,Intermediate Grade Neuroendocrine Lesion,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C155862
+C226752,Intestinal Low Grade Tubuloglandular Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C226752
+C8360,Intestinal Metaplasia,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8360
+C96063,Intestinal Neuroendocrine Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96063
+C12736,Intestine,N,Disease_Has_Associated_Anatomic_Site|Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12736
+C95397,Intramucosal Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C95397
+C60663,Intramucosal Lesion,N,Disease_Excludes_Finding|Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C60663
+C9480,Invasive Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9480
+C36117,Invasive Lesion,N,Disease_Excludes_Finding|Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36117
+C153481,Irinotecan/Panitumumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C153481
+C153482,Irinotecan/Panitumumab/Vemurafenib Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C153482
+C136260,Irinotecan/Ramucirumab Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136260
+C136259,Irinotecan/Ziv-aflibercept Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136259
+C3143,Jaundice,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3143
+C7754,Juvenile Polyposis Syndrome,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7754
+C25785,KRAS Gene,N,Disease_Mapped_To_Gene|Gene_Involved_In_Pathogenesis_Of_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C25785
+C36665,KRAS Gene Amplification,N,Disease_May_Have_Molecular_Abnormality,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36665
+C52546,KRAS wt Allele,N,Gene_Involved_In_Pathogenesis_Of_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C52546
+C3153,Krukenberg Tumor,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3153
+C3780,Large Cell Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3780
+C32926,Large Intestinal Mucosa,N,Disease_Has_Normal_Tissue_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C32926
+C32931,Large Intestinal Wall Tissue,N,Disease_Has_Normal_Tissue_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C32931
+C12379,Large Intestine,N,Disease_Has_Associated_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12379
+C36818,Large Osteoclastic Giant Cell,N,Disease_Excludes_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36818
+C28065,Limited Stage,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C28065
+C12392,Liver,N,Disease_Excludes_Primary_Anatomic_Site|Disease_Has_Associated_Anatomic_Site|Disease_Has_Metastatic_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12392
+C216181,Localized Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C216181
+C36162,Localized Disease,N,Disease_Excludes_Finding|Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36162
+C168978,Locally Advanced Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C168978
+C153358,Locally Advanced Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C153358
+C154321,Locally Advanced Squamous Cell Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C154321
+C202500,Locally Advanced Unresectable Digestive System Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C202500
+C213714,Locally Advanced Unresectable Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213714
+C190194,Locally Recurrent Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C190194
+C176551,Locally Recurrent Disease,N,Disease_Excludes_Finding|Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C176551
+C36130,Low Grade Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36130
+C155864,Low Grade Neuroendocrine Lesion,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C155864
+C35961,Low Mitotic Activity,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C35961
+C78438,Lower Gastrointestinal Hemorrhage,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C78438
+C12468,Lung,N,Disease_Excludes_Primary_Anatomic_Site|Disease_Has_Associated_Anatomic_Site|Disease_Has_Metastatic_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12468
+C6725,Lynch 1 Syndrome,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C6725
+C6726,Lynch 2 Syndrome,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C6726
+C8494,Lynch Syndrome,N,Disease_Has_Associated_Disease|Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8494
+C221744,MBD4-Associated Neoplasia Syndrome,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C221744
+C17566,MCC Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C17566
+C54309,MCC wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C54309
+C80723,MIR124-1 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C80723
+C82060,MIR124-1 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C82060
+C80753,MIR126 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C80753
+C82070,MIR126 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C82070
+C80754,MIR127 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C80754
+C82072,MIR127 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C82072
+C81739,MIR143 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C81739
+C82095,MIR143 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C82095
+C81740,MIR145 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C81740
+C82097,MIR145 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C82097
+C80715,MIR17 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C80715
+C81888,MIR17 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C81888
+C81802,MIR342 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C81802
+C82187,MIR342 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C82187
+C81764,MIR34B Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C81764
+C81940,MIR34B wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C81940
+C81766,MIR34C Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C81766
+C81942,MIR34C wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C81942
+C80700,MIRLET7A1 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C80700
+C81825,MIRLET7A1 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C81825
+C80701,MIRLET7A3 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C80701
+C81826,MIRLET7A3 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C81826
+C96520,MUTYH-Associated Polyposis,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96520
+C43597,MYC Gene Mutation,N,Disease_May_Have_Molecular_Abnormality,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43597
+C9329,Malignant Cecum Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9329
+C12917,Malignant Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12917
+C36115,Malignant Cellular Infiltrate,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36115
+C9242,Malignant Colon Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9242
+C4978,Malignant Colorectal Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C4978
+C36929,Malignant Endocrine Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36929
+C36779,Malignant Epithelial Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36779
+C60664,"Malignant Epithelial Cell with Vesicular Nucleus, Distinct Nucleolus, and Abundant Pink Cytoplasm",N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C60664
+C36822,Malignant Epithelial Large Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36822
+C37109,Malignant Epithelial Spindle Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C37109
+C36825,Malignant Neuroendocrine Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36825
+C36821,Malignant Neuroendocrine Large Cell,N,Disease_Excludes_Abnormal_Cell|Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36821
+C36820,Malignant Neuroendocrine Small Cell,N,Disease_Excludes_Abnormal_Cell|Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36820
+C7418,Malignant Rectal Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7418
+C7420,Malignant Rectosigmoid Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7420
+C36771,Malignant Squamous Cell,N,Disease_Excludes_Abnormal_Cell|Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36771
+C37153,Malignant Stromal Cell,N,Disease_Excludes_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C37153
+C168658,Mapped ICDO3.1 Morphology PT Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C168658
+C168657,Mapped ICDO3.1 Morphology Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C168657
+C168655,Mapped ICDO3.1 Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C168655
+C168662,Mapped ICDO3.2 Morphology PT Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C168662
+C168661,Mapped ICDO3.2 Morphology Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C168661
+C168656,Mapped ICDO3.2 Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C168656
+C4124,Metastatic Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C4124
+C96767,Metastatic Carcinoma in the Liver,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96767
+C27408,Metastatic Carcinoma in the Lung,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27408
+C133839,Metastatic Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C133839
+C40557,Metastatic Disease,N,Disease_Excludes_Finding|Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C40557
+C162780,Metastatic Malignant Colorectal Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162780
+C4104,Metastatic Squamous Cell Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C4104
+C153315,Metastatic Unresectable Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C153315
+C226433,Micropapillary Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C226433
+C36181,Micropapillary Growth Pattern,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36181
+C131459,Microsatellite Stable,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C131459
+C133706,Mismatch Repair Gene Mutation,N,Disease_May_Have_Molecular_Abnormality,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C133706
+C157646,Mismatch Repair Proficient,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C157646
+C21495,Mitotic Checkpoint Serine/Threonine-Protein Kinase BUB1,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C21495
+C41610,Mixed Cellular Population,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C41610
+C165731,Mixed Malignant Epithelial Cell Population,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C165731
+C62273,Mixed Neoplastic Glandular and Squamous Cell Population,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C62273
+C210978,Moderately Differentiated Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C210978
+C36131,Moderately Differentiated Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36131
+C198948,Modified FOLFOX Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C198948
+C155746,Modified FOLFOX6 Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C155746
+C18034,Mothers Against Decapentaplegic Homolog 3,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C18034
+C26712,Mucinous Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C26712
+C38768,Mucinous Differentiation,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C38768
+C35999,Mucoid Stroma Formation,N,Disease_Excludes_Finding|Disease_Has_Finding|Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C35999
+C103063,NCI CTEP SDC Colorectal Cancer Sub-Category Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C103063
+C102905,NCI CTEP Simplified Disease Classification Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C102905
+C126659,NCIt Neoplasm Core Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C126659
+C90259,NICHD Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C90259
+C221743,NTHL1-Related Tumor Syndrome,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C221743
+C13063,Neck,N,Disease_Excludes_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13063
+C36184,Necrosis,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36184
+C12922,Neoplastic Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12922
+C37088,Neoplastic Endothelial Cell,N,Disease_Excludes_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C37088
+C36753,Neoplastic Epithelial Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36753
+C37116,Neoplastic Epithelial Cell with Intracytoplasmic Mucin,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C37116
+C36763,Neoplastic Glandular Cell,N,Disease_Excludes_Abnormal_Cell|Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36763
+C37126,Neoplastic Glial Cell,N,Disease_Excludes_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C37126
+C36761,Neoplastic Neuroendocrine Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36761
+C37114,Neoplastic Serous Epithelial Cell,N,Disease_Excludes_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C37114
+C36937,Neoplastic Smooth Muscle Cell,N,Disease_Excludes_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36937
+C36760,Neoplastic Squamous Cell,N,Disease_Excludes_Abnormal_Cell|Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36760
+C43574,Neuroendocrine Differentiation,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43574
+C210708,Neuroendocrine and Non-Neuroendocrine Differentiation Present in the Same Cells,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C210708
+C164254,Neuroendocrine and Non-Neuroendocrine Neoplastic Components Present,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C164254
+C60707,Neuron-Specific Enolase Positive Neoplastic Cells Present,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C60707
+C48558,No Evidence of Metastatic Disease,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C48558
+C36027,Non-Invasive Lesion,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36027
+C223843,Oligometastatic Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C223843
+C161020,Oligometastatic Disease,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C161020
+C16889,Oncogene N-RAS,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C16889
+C24668,PDGFRL Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C24668
+C54395,PDGFRL wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C54395
+C24332,PDZK1IP1 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C24332
+C52371,PDZK1IP1 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C52371
+C131798,POLD1 Gene Mutation,N,Disease_May_Have_Molecular_Abnormality,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C131798
+C131797,POLE Gene Mutation,N,Disease_May_Have_Molecular_Abnormality,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C131797
+C24706,PTPN12 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C24706
+C49520,PTPN12 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C49520
+C24714,PTPRJ Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C24714
+C49537,PTPRJ wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C49537
+C35911,Papillary Growth Pattern,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C35911
+C132009,Pediatric Hematology-Oncology Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C132009
+C30165,Platelet-Derived Growth Factor Receptor-Like Protein,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C30165
+C36850,Polygonal Adenocarcinoma Cell with Eosinophilic Cytoplasm,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36850
+C222055,Polymerase Proofreading-Associated Polyposis,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C222055
+C3340,Polyp,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3340
+C95744,Poorly Cohesive Malignant Cellular Infiltrate,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C95744
+C210979,Poorly Differentiated Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C210979
+C36132,Poorly Differentiated Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36132
+C155863,Poorly Differentiated Neuroendocrine Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C155863
+C42624,Premalignant Lesion,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C42624
+C40558,Primary Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C40558
+C202631,Proximal Colon,N,Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C202631
+C155979,Questionable Invasive Lesion,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C155979
+C24717,RAD54B Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C24717
+C49408,RAD54B wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C49408
+C20809,RAD54L Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C20809
+C51006,RAD54L wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C51006
+C42094,Rare Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C42094
+C96480,Rectal Adenomatous Polyp,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96480
+C27054,Rectal Hemorrhage,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27054
+C5698,Rectal Neuroendocrine Neoplasm,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5698
+C54188,Rectosigmoid Region,N,Disease_Has_Associated_Anatomic_Site|Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C54188
+C12390,Rectum,N,Disease_Has_Associated_Anatomic_Site|Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12390
+C159565,Recurrent Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C159565
+C7622,Recurrent Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7622
+C38155,Recurrent Disease,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C38155
+C153577,Recurrent Paget Disease of the Anal Canal,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C153577
+C214784,Recurrent Unresectable Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C214784
+C159563,Refractory Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C159563
+C151906,Refractory Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C151906
+C39752,Refractory Disease,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C39752
+C151904,Refractory Metastatic Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C151904
+C171605,Refractory Squamous Cell Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C171605
+C210620,Resectable Digestive System Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C210620
+C156909,Resectable Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C156909
+C36166,Resectable Mass,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36166
+C12779,Respiratory System,N,Disease_Has_Associated_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12779
+C21508,Rho GTPase-Activating Protein 7,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C21508
+C24566,SMAD2 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C24566
+C52819,SMAD2 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C52819
+C27004,Sarcomatoid Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27004
+C54727,Sarcomatous Component Present,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C54727
+C41444,Secondary Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C41444
+C37115,Serous Adenocarcinoma Cell,N,Disease_Excludes_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C37115
+C42599,Serrated Glandular Architecture,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C42599
+C8329,Severe Cytologic Atypia,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8329
+C8364,Severe Dysplasia,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8364
+C12384,Sigmoid Colon,N,Disease_Has_Primary_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12384
+C36777,Signet Ring Adenocarcinoma Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36777
+C3774,Signet Ring Cell Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3774
+C9292,Solid Neoplasm,N,Neoplasm_Has_Special_Category,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9292
+C2929,Squamous Cell Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C2929
+C38770,Squamous Differentiation,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C38770
+C28051,Stage 0,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C28051
+C27966,Stage I,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27966
+C28054,Stage II,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C28054
+C27967,Stage IIA,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27967
+C27968,Stage IIB,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27968
+C27969,Stage IIC,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27969
+C27970,Stage III,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27970
+C27977,Stage IIIA,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27977
+C27978,Stage IIIB,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27978
+C27982,Stage IIIC,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27982
+C27971,Stage IV,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27971
+C27979,Stage IVA,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27979
+C27980,Stage IVB,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27980
+C28055,Stage IVC,N,Disease_Is_Stage,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C28055
+C128800,Submucosal Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C128800
+C21573,TAP1 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C21573
+C52304,TAP1 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C52304
+C177584,TCGA BCR Tumor Code Identifier,N,Has_GDC_Value|Is_Value_For_GDC_Property,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C177584
+C17359,TP53 Gene,N,Disease_Mapped_To_Gene|Gene_Involved_In_Pathogenesis_Of_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C17359
+C36329,TP53 Gene Inactivation,N,Disease_May_Have_Molecular_Abnormality,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36329
+C52271,TP53 wt Allele,N,Gene_Involved_In_Pathogenesis_Of_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C52271
+C97240,TP53*1 Allele,N,Gene_Involved_In_Pathogenesis_Of_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C97240
+C60661,Tenesmus,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C60661
+C12905,Thoracic Cavity,N,Disease_Has_Associated_Anatomic_Site|Disease_Has_Metastatic_Anatomic_Site,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12905
+C12801,Tissue,N,Disease_Has_Normal_Tissue_Origin,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C12801
+C160985,Tubuloglandular Pattern,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C160985
+C3938,Turcot Syndrome,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3938
+C40463,Turcot Syndrome Type 1,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C40463
+C40464,Turcot Syndrome Type 2,N,Disease_May_Have_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C40464
+C26341,Tyrosine-Protein Phosphatase Non-Receptor Type 12,N,Gene_Product_Malfunction_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C26341
+C2952,Ulcerative Colitis,N,Disease_Has_Associated_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C2952
+C37085,Undifferentiated Carcinoma Cell,N,Disease_Has_Abnormal_Cell,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C37085
+C36134,Undifferentiated Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36134
+C129654,Unresectable Digestive System Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C129654
+C155903,Unresectable Digestive System Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C155903
+C36165,Unresectable Mass,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36165
+C224628,Unresectable Squamous Cell Carcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C224628
+C4142,Villous Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C4142
+C36121,Villous Pattern,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36121
+C20903,WNT3 Gene,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C20903
+C52996,WNT3 wt Allele,N,Gene_Associated_With_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C52996
+C3445,Weight Loss,N,Disease_May_Have_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3445
+C210977,Well Differentiated Adenocarcinoma,N,is_parent_of,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C210977
+C36133,Well Differentiated Lesion,N,Disease_Has_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36133
+C155861,Well Differentiated Neuroendocrine Lesion,N,Disease_Excludes_Finding,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C155861
+C63597,XELOX Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C63597
+C193249,mCode Cancer Disorder Value Set,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C193249
+C193218,mCode Carcinoma In-Situ Disorder Value Set,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C193218
+C193177,mCode Elixhauser Malignant Solid Tumors in Situ Value Set,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C193177
+C193248,mCode Primary Cancer Disorder Value Set,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C193248
+C193006,mCode Terminology,N,Concept_In_Subset,association,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C193006
+C204718,mFOLFOX7 Regimen,N,Regimen_Has_Accepted_Use_For_Disease,role,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C204718
+C213378,Adenocarcinoma in Colon Adenomatous Polyp,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213378
+C213379,Adenocarcinoma in Rectal Adenomatous Polyp,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213379
+C27413,Adenoma of the Colon with Intramucosal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C27413
+C162152,Advanced Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162152
+C167238,Advanced Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C167238
+C166257,Advanced Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C166257
+C162475,Advanced Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162475
+C142868,Advanced Microsatellite Stable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C142868
+C175363,Advanced Rectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C175363
+C170777,Advanced Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C170777
+C170780,Advanced Rectal Squamous Cell Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C170780
+C5543,Cecum Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5543
+C3491,Cecum Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3491
+C4594,Cecum Carcinoma In Situ,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C4594
+C118808,Childhood Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C118808
+C118823,Childhood Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C118823
+C4349,Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C4349
+C5491,Colon Adenosquamous Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5491
+C90507,Colon Cancer by AJCC v6 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C90507
+C91224,Colon Cancer by AJCC v7 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C91224
+C134251,Colon Cancer by AJCC v8 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134251
+C4910,Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C4910
+C226294,Colon Carcinoma In Situ,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C226294
+C36309,Colon Carcinoma Metastatic in the Liver,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C36309
+C89815,Colon Carcinoma Metastatic in the Lung,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89815
+C96489,Colon Cribriform Comedo-Type Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96489
+C213480,Colon Hepatoid Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213480
+C45429,Colon Intramucosal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C45429
+C170977,Colon Large Cell Neuroendocrine Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C170977
+C60641,Colon Medullary Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C60641
+C96492,Colon Micropapillary Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96492
+C9453,Colon Moderately Differentiated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9453
+C7966,Colon Mucinous Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7966
+C203384,Colon Neuroendocrine Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C203384
+C9454,Colon Poorly Differentiated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9454
+C96486,Colon Serrated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96486
+C7967,Colon Signet Ring Cell Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7967
+C6761,Colon Small Cell Neuroendocrine Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C6761
+C5490,Colon Squamous Cell Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5490
+C7100,Colon Undifferentiated Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7100
+C9452,Colon Well Differentiated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9452
+C5105,Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5105
+C157355,Colorectal Adenocarcinoma Metastatic in the Liver,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C157355
+C172699,Colorectal Adenoma-Like Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C172699
+C43589,Colorectal Adenosquamous Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43589
+C90506,Colorectal Cancer by AJCC v6 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C90506
+C91223,Colorectal Cancer by AJCC v7 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C91223
+C134180,Colorectal Cancer by AJCC v8 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134180
+C2955,Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C2955
+C226293,Colorectal Carcinoma In Situ,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C226293
+C157366,Colorectal Carcinoma Metastatic in the Liver,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C157366
+C153224,Colorectal Carcinoma Metastatic in the Lung,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C153224
+C96488,Colorectal Cribriform Comedo-Type Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96488
+C213111,Colorectal Goblet Cell Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213111
+C213479,Colorectal Hepatoid Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213479
+C96157,Colorectal Large Cell Neuroendocrine Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96157
+C226754,Colorectal Low Grade Tubuloglandular Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C226754
+C43590,Colorectal Medullary Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43590
+C96491,Colorectal Micropapillary Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96491
+C96158,Colorectal Mixed Adenoneuroendocrine Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96158
+C9447,Colorectal Moderately Differentiated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9447
+C43585,Colorectal Mucinous Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43585
+C96156,Colorectal Neuroendocrine Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96156
+C172694,Colorectal Poorly Cohesive Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C172694
+C9448,Colorectal Poorly Differentiated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9448
+C96494,Colorectal Sarcomatoid Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96494
+C96485,Colorectal Serrated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96485
+C43586,Colorectal Signet Ring Cell Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43586
+C43587,Colorectal Small Cell Neuroendocrine Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43587
+C43588,Colorectal Squamous Cell Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43588
+C43591,Colorectal Undifferentiated Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43591
+C9446,Colorectal Well Differentiated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9446
+C96497,Crohn Disease-Associated Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96497
+C202634,Distal Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C202634
+C214793,Early Stage Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C214793
+C205290,Early Stage Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C205290
+C164228,Hereditary Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C164228
+C162256,Hypermutated Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162256
+C172700,Inflammatory Bowel Disease-Associated Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C172700
+C220570,Localized Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C220570
+C220569,Localized Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C220569
+C212894,Localized Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C212894
+C213456,Localized Rectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213456
+C220571,Localized Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C220571
+C190415,Locally Advanced Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C190415
+C170910,Locally Advanced Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C170910
+C190413,Locally Advanced Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C190413
+C162766,Locally Advanced Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162766
+C178269,Locally Advanced Microsatellite Stable Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C178269
+C156745,Locally Advanced Microsatellite Stable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C156745
+C174122,Locally Advanced Rectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C174122
+C170778,Locally Advanced Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C170778
+C170781,Locally Advanced Rectal Squamous Cell Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C170781
+C162271,Locally Advanced Unresectable Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162271
+C162270,Locally Advanced Unresectable Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162270
+C215683,Locally Advanced Unresectable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C215683
+C162272,Locally Advanced Unresectable Rectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162272
+C190199,Locally Recurrent Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C190199
+C223142,Locally Recurrent Rectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C223142
+C209992,Locally Recurrent Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C209992
+C209752,Metastatic Childhood Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C209752
+C160819,Metastatic Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C160819
+C156097,Metastatic Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C156097
+C161048,Metastatic Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C161048
+C156096,Metastatic Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C156096
+C162273,Metastatic Colorectal Mucinous Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162273
+C178268,Metastatic Microsatellite Stable Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C178268
+C142867,Metastatic Microsatellite Stable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C142867
+C218466,Metastatic Mismatch Repair Proficient Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C218466
+C160820,Metastatic Rectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C160820
+C156098,Metastatic Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C156098
+C170779,Metastatic Rectal Squamous Cell Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C170779
+C212108,Metastatic Resectable Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C212108
+C211028,Metastatic Unresectable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C211028
+C177777,Microsatellite Stable Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C177777
+C173324,Microsatellite Stable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C173324
+C177776,Microsatellite Stable Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C177776
+C218464,Mismatch Repair Proficient Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C218464
+C185165,Oligometastatic Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C185165
+C202633,Proximal Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C202633
+C9383,Rectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9383
+C43594,Rectal Adenosquamous Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43594
+C90508,Rectal Cancer by AJCC v6 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C90508
+C91225,Rectal Cancer by AJCC v7 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C91225
+C134258,Rectal Cancer by AJCC v8 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134258
+C9382,Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9382
+C226295,Rectal Carcinoma In Situ,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C226295
+C136240,Rectal Carcinoma Metastatic in the Liver,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C136240
+C5555,Rectal Cloacogenic Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5555
+C96490,Rectal Cribriform Comedo-Type Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96490
+C213481,Rectal Hepatoid Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213481
+C176697,Rectal Large Cell Neuroendocrine Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C176697
+C60640,Rectal Medullary Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C60640
+C96493,Rectal Micropapillary Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96493
+C9450,Rectal Moderately Differentiated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9450
+C7973,Rectal Mucinous Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7973
+C203385,Rectal Neuroendocrine Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C203385
+C9449,Rectal Poorly Differentiated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9449
+C5556,Rectal Sarcomatoid Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5556
+C96487,Rectal Serrated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96487
+C9168,Rectal Signet Ring Cell Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9168
+C60639,Rectal Small Cell Neuroendocrine Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C60639
+C5554,Rectal Squamous Cell Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5554
+C7974,Rectal Undifferentiated Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7974
+C9451,Rectal Well Differentiated Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9451
+C43584,Rectosigmoid Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43584
+C90509,Rectosigmoid Cancer by AJCC v6 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C90509
+C91226,Rectosigmoid Cancer by AJCC v7 Stage,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C91226
+C7421,Rectosigmoid Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7421
+C226296,Rectosigmoid Carcinoma In Situ,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C226296
+C43592,Rectosigmoid Mucinous Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43592
+C43593,Rectosigmoid Signet Ring Cell Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C43593
+C162442,Recurrent Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162442
+C3998,Recurrent Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3998
+C162441,Recurrent Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162441
+C8625,Recurrent Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8625
+C190679,Recurrent Microsatellite Stable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C190679
+C162443,Recurrent Rectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162443
+C9238,Recurrent Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9238
+C8634,Recurrent Rectosigmoid Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8634
+C214783,Recurrent Unresectable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C214783
+C162155,Refractory Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162155
+C153351,Refractory Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C153351
+C162154,Refractory Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162154
+C147982,Refractory Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C147982
+C213230,Refractory Metastatic Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213230
+C173332,Refractory Microsatellite Stable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C173332
+C218468,Refractory Mismatch Repair Proficient Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C218468
+C162157,Refractory Rectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162157
+C162156,Refractory Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162156
+C177151,Refractory Rectal Squamous Cell Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C177151
+C208027,Resectable Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C208027
+C167237,Resectable Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C167237
+C212100,Resectable Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C212100
+C162257,Resectable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162257
+C213374,Sigmoid Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C213374
+C177680,Sigmoid Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C177680
+C3638,Stage 0 Colon Cancer AJCC v6 and v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3638
+C134271,Stage 0 Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134271
+C8932,Stage 0 Colorectal Cancer AJCC v6 and v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8932
+C134182,Stage 0 Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134182
+C4853,Stage 0 Rectal Cancer AJCC v6 and v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C4853
+C134291,Stage 0 Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134291
+C5017,Stage 0 Rectosigmoid Cancer AJCC v6 and v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5017
+C9358,Stage I Colon Cancer AJCC v6 and v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C9358
+C134273,Stage I Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134273
+C8513,Stage I Colorectal Cancer AJCC v6 and v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8513
+C134185,Stage I Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134185
+C7790,Stage I Rectal Cancer AJCC v6 and v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7790
+C134292,Stage I Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134292
+C5016,Stage I Rectosigmoid Cancer AJCC v6 and v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5016
+C3993,Stage II Colon Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3993
+C89990,Stage II Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89990
+C134274,Stage II Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134274
+C8514,Stage II Colorectal Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8514
+C89989,Stage II Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89989
+C134186,Stage II Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134186
+C7791,Stage II Rectal Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7791
+C89991,Stage II Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89991
+C134293,Stage II Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134293
+C5015,Stage II Rectosigmoid Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C5015
+C89992,Stage II Rectosigmoid Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89992
+C115041,Stage IIA Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115041
+C134280,Stage IIA Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134280
+C87813,Stage IIA Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C87813
+C134187,Stage IIA Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134187
+C115044,Stage IIA Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115044
+C134294,Stage IIA Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134294
+C115042,Stage IIB Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115042
+C134281,Stage IIB Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134281
+C87814,Stage IIB Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C87814
+C134188,Stage IIB Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134188
+C115045,Stage IIB Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115045
+C134295,Stage IIB Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134295
+C115043,Stage IIC Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115043
+C134282,Stage IIC Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134282
+C87815,Stage IIC Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C87815
+C134190,Stage IIC Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134190
+C115046,Stage IIC Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115046
+C134296,Stage IIC Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134296
+C7766,Stage III Colon Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7766
+C89995,Stage III Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89995
+C134283,Stage III Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134283
+C8515,Stage III Colorectal Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8515
+C89994,Stage III Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89994
+C134191,Stage III Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134191
+C7792,Stage III Rectal Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C7792
+C89996,Stage III Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89996
+C134297,Stage III Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134297
+C8635,Stage III Rectosigmoid Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8635
+C89997,Stage III Rectosigmoid Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89997
+C115047,Stage IIIA Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115047
+C134284,Stage IIIA Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134284
+C87816,Stage IIIA Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C87816
+C134192,Stage IIIA Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134192
+C115050,Stage IIIA Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115050
+C134298,Stage IIIA Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134298
+C115048,Stage IIIB Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115048
+C134285,Stage IIIB Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134285
+C87817,Stage IIIB Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C87817
+C134193,Stage IIIB Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134193
+C115051,Stage IIIB Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115051
+C134299,Stage IIIB Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134299
+C115049,Stage IIIC Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115049
+C134286,Stage IIIC Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134286
+C87818,Stage IIIC Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C87818
+C134194,Stage IIIC Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134194
+C115052,Stage IIIC Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115052
+C134300,Stage IIIC Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134300
+C3994,Stage IV Colon Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C3994
+C89999,Stage IV Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89999
+C134287,Stage IV Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134287
+C8516,Stage IV Colorectal Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8516
+C89998,Stage IV Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C89998
+C134195,Stage IV Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134195
+C8412,Stage IV Rectal Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8412
+C90016,Stage IV Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C90016
+C134301,Stage IV Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134301
+C8636,Stage IV Rectosigmoid Cancer AJCC v6,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C8636
+C90019,Stage IV Rectosigmoid Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C90019
+C115053,Stage IVA Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115053
+C134288,Stage IVA Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134288
+C87819,Stage IVA Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C87819
+C134196,Stage IVA Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134196
+C115055,Stage IVA Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115055
+C134302,Stage IVA Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134302
+C115054,Stage IVB Colon Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115054
+C134289,Stage IVB Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134289
+C87820,Stage IVB Colorectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C87820
+C134197,Stage IVB Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134197
+C115056,Stage IVB Rectal Cancer AJCC v7,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C115056
+C134303,Stage IVB Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134303
+C134290,Stage IVC Colon Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134290
+C134198,Stage IVC Colorectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134198
+C134304,Stage IVC Rectal Cancer AJCC v8,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C134304
+C38760,Submucosal Invasive Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C38760
+C96496,Ulcerative Colitis-Associated Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C96496
+C162116,Unresectable Colon Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162116
+C180406,Unresectable Colon Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C180406
+C171585,Unresectable Colorectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C171585
+C162600,Unresectable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162600
+C192839,Unresectable Microsatellite Stable Colorectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C192839
+C162117,Unresectable Rectal Adenocarcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C162117
+C211964,Unresectable Rectal Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C211964
+C222321,Unresectable Rectal Squamous Cell Carcinoma,Y,descendant_of_root,hierarchy,https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C222321

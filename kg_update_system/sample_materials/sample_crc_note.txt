@@ -1,0 +1,4 @@
+In metastatic colorectal cancer, KRAS mutation and BRAF V600E are clinically relevant molecular alterations.
+MSI-H or dMMR colorectal carcinoma may respond to immune checkpoint inhibitor therapy.
+Left-sided colorectal cancer and right-sided colorectal cancer can differ in molecular features and treatment response.
+CAPOX regimen and FOLFOX regimen are commonly discussed systemic treatment options.

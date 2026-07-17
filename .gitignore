@@ -1,0 +1,25 @@
+# Secrets and local provider settings
+kg_update_system/config.deepseek.json
+kg_update_system/config.json
+kg_update_system/config.local.json
+
+# Local runtime products and browser/server state
+kg_update_system/runs/
+*.pid
+
+# Local collaboration and maintenance notes
+AGENTS.md
+结直肠癌知识图谱系统说明书.md
+
+# Python cache and editor/OS files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+
+# Optional local OCR assets; install separately as documented
+kg_update_system/tessdata/
